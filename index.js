@@ -48,7 +48,7 @@ function createTopicList() {
 async function loadTopic(topicId) {
   try {
     const response = await fetch(
-      `https://raw.githubusercontent.com/Ajitpatil92002/cognitive_prep/refs/heads/main/content/${topicId}.json`
+      `https://ajitpatil92002.github.io/cognitive_prep/content/${topicId}.json`
     );
     const data = await response.json();
     displayContent(data.content);
