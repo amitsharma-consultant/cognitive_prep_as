@@ -1,0 +1,1084 @@
+{
+    "topic": "Arithmetic",
+    "content": "### Understanding Arithmetic in Cognitive Assessments\n\nArithmetic is a fundamental area of mathematics that involves the study of numbers and the basic operations that can be performed on them, such as addition, subtraction, multiplication, and division. Mastery of arithmetic is crucial not only for academic success but also for everyday functioning. When we talk about cognitive assessments, arithmetic plays a vital role as it serves as a measure of cognitive abilities such as problem-solving, logical thinking, and numerical literacy. \n\n**Significance of Arithmetic in Cognitive Assessments**  \nCognitive assessments often include arithmetic problems as they require individuals to apply math concepts in order to reach solutions. These assessments gauge not only basic numerical understanding but also higher-order thinking skills, as students must often interpret problems, devise strategies, and justify their answers. Proficiency in arithmetic indicates strong foundational skills that could lead to success in more advanced mathematics and real-life situations involving finances and analytical tasks.\n\nFor instance, a cognitive assessment might present a scenario in which a student is required to calculate the total cost of items during a shopping trip. This type of problem requires more than rote calculation; it necessitates critical thinking to understand what is being asked and the ability to handle numbers accurately.\n\n**Examples and Scenarios**  \nImagine a scenario where a student is given a word problem: \"A bookstore sells novels for $12 each and textbooks for $24 each. If a student buys 3 novels and 2 textbooks, how much money did the student spend in total?\" To solve this, the student must first compute the cost of the novels (3 novels × $12 = $36) and textbooks (2 textbooks × $24 = $48), and then add those amounts ($36 + $48 = $84). This example illustrates how arithmetic problems can reflect real-world contexts and require a combination of operations. \n\nAnother scenario could involve understanding and manipulating fractions. For instance, if a recipe requires 3/4 cup of sugar and a student wants to make half of the recipe, they would need to calculate how much sugar is required (3/4 ÷ 2 = 3/8). This not only tests their arithmetic skills but also their understanding of fractions, proportional reasoning, and practical application of mathematics. \n\nIn conclusion, proficiency in arithmetic is crucial in cognitive assessments as it reflects both numerical competence and critical thinking skills. By understanding and mastering arithmetic, individuals can enhance their problem-solving abilities, which is significant not only in academic settings but also in everyday life. This skill set lays the groundwork for further mathematical concepts and helps prepare students for more advanced studies and practical challenges they will face in the future.",
+    "questions": [
+        {
+            "text": "What is 25% of 200?",
+            "explanation": "To find 25% of a number, multiply the number by 0.25. Thus, 200 * 0.25 = 50.",
+            "options": [
+                {
+                    "text": "25",
+                    "isCorrect": false
+                },
+                {
+                    "text": "50",
+                    "isCorrect": true
+                },
+                {
+                    "text": "75",
+                    "isCorrect": false
+                },
+                {
+                    "text": "100",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If 6x = 72, what is x?",
+            "explanation": "To solve for x, divide both sides of the equation by 6. Thus, x = 72 / 6 = 12.",
+            "options": [
+                {
+                    "text": "6",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12",
+                    "isCorrect": true
+                },
+                {
+                    "text": "18",
+                    "isCorrect": false
+                },
+                {
+                    "text": "8",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "A train travels 60 miles per hour for 2.5 hours. What is the total distance travelled?",
+            "explanation": "Multiply speed by time to find distance: 60 miles/hour * 2.5 hours = 150 miles.",
+            "options": [
+                {
+                    "text": "120 miles",
+                    "isCorrect": false
+                },
+                {
+                    "text": "150 miles",
+                    "isCorrect": true
+                },
+                {
+                    "text": "180 miles",
+                    "isCorrect": false
+                },
+                {
+                    "text": "100 miles",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Which of the following fractions is equivalent to 3/4?",
+            "explanation": "To find an equivalent fraction, multiply both the numerator and denominator by the same number. Here, 3 * 2 / 4 * 2 = 6/8.",
+            "options": [
+                {
+                    "text": "6/8",
+                    "isCorrect": true
+                },
+                {
+                    "text": "9/12",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12/16",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15/20",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a rectangle has a length of 10 cm and a width of 5 cm, what is its area?",
+            "explanation": "Area is calculated by multiplying length by width. Thus, Area = 10 cm * 5 cm = 50 cm².",
+            "options": [
+                {
+                    "text": "25 cm²",
+                    "isCorrect": false
+                },
+                {
+                    "text": "50 cm²",
+                    "isCorrect": true
+                },
+                {
+                    "text": "75 cm²",
+                    "isCorrect": false
+                },
+                {
+                    "text": "100 cm²",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "The product of 7 and the sum of 5 and 3 is what?",
+            "explanation": "First, find the sum (5 + 3 = 8) then multiply by 7 (7 * 8 = 56).",
+            "options": [
+                {
+                    "text": "40",
+                    "isCorrect": false
+                },
+                {
+                    "text": "56",
+                    "isCorrect": true
+                },
+                {
+                    "text": "72",
+                    "isCorrect": false
+                },
+                {
+                    "text": "48",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "A recipe calls for 2/3 cup of oil. If you want to make double the recipe, how much oil do you need?",
+            "explanation": "Double 2/3 is calculated as 2 * (2/3) = 4/3, which is equal to 1 1/3 cups.",
+            "options": [
+                {
+                    "text": "2/3 cup",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1 cup",
+                    "isCorrect": false
+                },
+                {
+                    "text": "1 1/3 cups",
+                    "isCorrect": true
+                },
+                {
+                    "text": "2 cups",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the greatest common factor (GCF) of 36 and 48?",
+            "explanation": "The GCF of 36 and 48, which are divisible by 12, is 12.",
+            "options": [
+                {
+                    "text": "6",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12",
+                    "isCorrect": true
+                },
+                {
+                    "text": "18",
+                    "isCorrect": false
+                },
+                {
+                    "text": "24",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If you buy 5 notebooks for $2 each, how much do you spend in total?",
+            "explanation": "Multiply the number of notebooks by the cost per notebook. Total spent = 5 * 2 = $10.",
+            "options": [
+                {
+                    "text": "5",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a vehicle travels 150 miles using 5 gallons of gas, what is the vehicle's miles per gallon (mpg)?",
+            "explanation": "Miles per gallon is calculated by dividing total miles by total gallons. Here, 150 miles / 5 gallons = 30 mpg.",
+            "options": [
+                {
+                    "text": "25 mpg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30 mpg",
+                    "isCorrect": true
+                },
+                {
+                    "text": "35 mpg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "40 mpg",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If 2x + 3 = 15, what is the value of x?",
+            "explanation": "Subtract 3 from both sides (2x = 12), then divide by 2 (x = 6).",
+            "options": [
+                {
+                    "text": "2",
+                    "isCorrect": false
+                },
+                {
+                    "text": "6",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Which of the following is a prime number?",
+            "explanation": "A prime number is only divisible by 1 and itself. The number 11 is a prime number.",
+            "options": [
+                {
+                    "text": "4",
+                    "isCorrect": false
+                },
+                {
+                    "text": "9",
+                    "isCorrect": false
+                },
+                {
+                    "text": "11",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is 300 divided by 25?",
+            "explanation": "To find 300 divided by 25, simply perform the division: 300 / 25 = 12.",
+            "options": [
+                {
+                    "text": "10",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If 3/5 of a number is 18, what is the number?",
+            "explanation": "First, isolate the number by dividing 18 by (3/5), which is equivalent to multiplying 18 by 5/3. Thus, number = 18 * (5/3) = 30.",
+            "options": [
+                {
+                    "text": "24",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30",
+                    "isCorrect": true
+                },
+                {
+                    "text": "36",
+                    "isCorrect": false
+                },
+                {
+                    "text": "45",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is 15% of 80?",
+            "explanation": "To find 15% of 80, multiply 80 by 0.15. So, 80 * 0.15 = 12.",
+            "options": [
+                {
+                    "text": "10",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12",
+                    "isCorrect": true
+                },
+                {
+                    "text": "14",
+                    "isCorrect": false
+                },
+                {
+                    "text": "16",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the least common multiple (LCM) of 4 and 6?",
+            "explanation": "The LCM of 4 and 6 is 12, as that is the smallest number both are multiples of.",
+            "options": [
+                {
+                    "text": "4",
+                    "isCorrect": false
+                },
+                {
+                    "text": "6",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12",
+                    "isCorrect": true
+                },
+                {
+                    "text": "24",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a rectangle has a perimeter of 30 cm and a length of 10 cm, what is the width?",
+            "explanation": "The perimeter P = 2(length + width). Thus, 30 = 2(10 + width) → 15 = 10 + width → width = 5 cm.",
+            "options": [
+                {
+                    "text": "5 cm",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10 cm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "15 cm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "20 cm",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If the sum of two numbers is 50 and one of the numbers is 30, what is the other number?",
+            "explanation": "To find the other number, subtract the known number from the total sum: 50 - 30 = 20.",
+            "options": [
+                {
+                    "text": "10",
+                    "isCorrect": false
+                },
+                {
+                    "text": "20",
+                    "isCorrect": true
+                },
+                {
+                    "text": "30",
+                    "isCorrect": false
+                },
+                {
+                    "text": "40",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If 7y - 4 = 24, what is y?",
+            "explanation": "First, add 4 to both sides: 7y = 28. Then divide by 7: y = 4.",
+            "options": [
+                {
+                    "text": "2",
+                    "isCorrect": false
+                },
+                {
+                    "text": "3",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4",
+                    "isCorrect": true
+                },
+                {
+                    "text": "5",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Which of the following is not a factor of 36?",
+            "explanation": "The factors of 36 are 1, 2, 3, 4, 6, 9, 12, 18, and 36. Thus, 10 is not a factor.",
+            "options": [
+                {
+                    "text": "6",
+                    "isCorrect": false
+                },
+                {
+                    "text": "9",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "12",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a bag of candy costs $1.50 and you buy 8 bags, how much do you spend?",
+            "explanation": "Total cost = 1.50 * 8 = $12.00.",
+            "options": [
+                {
+                    "text": "$10.50",
+                    "isCorrect": false
+                },
+                {
+                    "text": "$12.00",
+                    "isCorrect": true
+                },
+                {
+                    "text": "$9.00",
+                    "isCorrect": false
+                },
+                {
+                    "text": "$13.50",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "A box contains 120 marbles. If 1/4 of them are red, how many red marbles are there?",
+            "explanation": "Find 1/4 of 120 by multiplying 120 by 1/4: 120 * (1/4) = 30.",
+            "options": [
+                {
+                    "text": "20",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30",
+                    "isCorrect": true
+                },
+                {
+                    "text": "25",
+                    "isCorrect": false
+                },
+                {
+                    "text": "40",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If \n15 = x - 3, what is x?",
+            "explanation": "Add 3 to both sides: x = 15 + 3 = 18.",
+            "options": [
+                {
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "text": "18",
+                    "isCorrect": true
+                },
+                {
+                    "text": "21",
+                    "isCorrect": false
+                },
+                {
+                    "text": "24",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the value of 8 + (2 × 3) - 5?",
+            "explanation": "According to the order of operations (PEMDAS/BODMAS), you first multiply 2 and 3, which equals 6. Then you add 8 + 6 to get 14, and finally, subtract 5 to get 9.",
+            "options": [
+                {
+                    "text": "9",
+                    "isCorrect": true
+                },
+                {
+                    "text": "11",
+                    "isCorrect": false
+                },
+                {
+                    "text": "7",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a rectangle's length is 12 cm and its width is 4 cm, what is its area?",
+            "explanation": "Area of a rectangle is calculated as length × width. So, Area = 12 cm × 4 cm = 48 cm².",
+            "options": [
+                {
+                    "text": "48 cm²",
+                    "isCorrect": true
+                },
+                {
+                    "text": "44 cm²",
+                    "isCorrect": false
+                },
+                {
+                    "text": "50 cm²",
+                    "isCorrect": false
+                },
+                {
+                    "text": "42 cm²",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "A train travels 360 miles in 6 hours. What is its average speed?",
+            "explanation": "Average speed is calculated by dividing the total distance by the total time. So, Average Speed = 360 miles / 6 hours = 60 miles per hour.",
+            "options": [
+                {
+                    "text": "50 miles per hour",
+                    "isCorrect": false
+                },
+                {
+                    "text": "60 miles per hour",
+                    "isCorrect": true
+                },
+                {
+                    "text": "70 miles per hour",
+                    "isCorrect": false
+                },
+                {
+                    "text": "80 miles per hour",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is 15% of 200?",
+            "explanation": "To find 15% of 200, you multiply 200 by 0.15. Thus, 200 * 0.15 = 30.",
+            "options": [
+                {
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30",
+                    "isCorrect": true
+                },
+                {
+                    "text": "35",
+                    "isCorrect": false
+                },
+                {
+                    "text": "25",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If 5x - 3 = 22, what is the value of x?",
+            "explanation": "To isolate x, first add 3 to both sides: 5x = 25. Then divide by 5 to find x: x = 5.",
+            "options": [
+                {
+                    "text": "3",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4",
+                    "isCorrect": false
+                },
+                {
+                    "text": "5",
+                    "isCorrect": true
+                },
+                {
+                    "text": "6",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "A recipe needs 4 cups of flour. If you want to make half the recipe, how much flour do you need?",
+            "explanation": "To find half of 4 cups, divide by 2: 4 cups / 2 = 2 cups.",
+            "options": [
+                {
+                    "text": "1 cup",
+                    "isCorrect": false
+                },
+                {
+                    "text": "2 cups",
+                    "isCorrect": true
+                },
+                {
+                    "text": "3 cups",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4 cups",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the least common multiple (LCM) of 12 and 16?",
+            "explanation": "The multiples of 12 are: 12, 24, 36, 48, ... The multiples of 16 are: 16, 32, 48, ... The smallest common multiple is 48.",
+            "options": [
+                {
+                    "text": "24",
+                    "isCorrect": false
+                },
+                {
+                    "text": "32",
+                    "isCorrect": false
+                },
+                {
+                    "text": "48",
+                    "isCorrect": true
+                },
+                {
+                    "text": "36",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the product of 7 and 8 minus 6?",
+            "explanation": "First calculate the product: 7 * 8 = 56. Then subtract 6: 56 - 6 = 50.",
+            "options": [
+                {
+                    "text": "50",
+                    "isCorrect": true
+                },
+                {
+                    "text": "52",
+                    "isCorrect": false
+                },
+                {
+                    "text": "54",
+                    "isCorrect": false
+                },
+                {
+                    "text": "58",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a square's perimeter is 36 cm, what is the length of one side?",
+            "explanation": "Perimeter of a square is calculated as 4 times one side. So, Side = 36 cm / 4 = 9 cm.",
+            "options": [
+                {
+                    "text": "7 cm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "8 cm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "9 cm",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10 cm",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "Which of these is a prime number?",
+            "explanation": "A prime number is only divisible by 1 and itself. Among the options, 7 is a prime number.",
+            "options": [
+                {
+                    "text": "1",
+                    "isCorrect": false
+                },
+                {
+                    "text": "4",
+                    "isCorrect": false
+                },
+                {
+                    "text": "7",
+                    "isCorrect": true
+                },
+                {
+                    "text": "9",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the value of 12 - 3 × 2 + 4?",
+            "explanation": "Applying the order of operations: First, multiply 3 × 2 = 6, then subtract 12 - 6 = 6, and finally add 4: 6 + 4 = 10.",
+            "options": [
+                {
+                    "text": "8",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "12",
+                    "isCorrect": false
+                },
+                {
+                    "text": "14",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "How much time is between 2:30 PM and 4:00 PM?",
+            "explanation": "The difference is 1 hour and 30 minutes, which is 90 minutes.",
+            "options": [
+                {
+                    "text": "60 minutes",
+                    "isCorrect": false
+                },
+                {
+                    "text": "90 minutes",
+                    "isCorrect": true
+                },
+                {
+                    "text": "120 minutes",
+                    "isCorrect": false
+                },
+                {
+                    "text": "150 minutes",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a pencil costs $0.75, how much do 8 pencils cost?",
+            "explanation": "Multiply the cost of one pencil by the number of pencils: $0.75 × 8 = $6.00.",
+            "options": [
+                {
+                    "text": "$5.00",
+                    "isCorrect": false
+                },
+                {
+                    "text": "$6.00",
+                    "isCorrect": true
+                },
+                {
+                    "text": "$6.75",
+                    "isCorrect": false
+                },
+                {
+                    "text": "$7.50",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the value of (3^2 + 4^2)?",
+            "explanation": "Calculate the squares first: 3^2 = 9 and 4^2 = 16. So, 9 + 16 = 25.",
+            "options": [
+                {
+                    "text": "20",
+                    "isCorrect": false
+                },
+                {
+                    "text": "25",
+                    "isCorrect": true
+                },
+                {
+                    "text": "30",
+                    "isCorrect": false
+                },
+                {
+                    "text": "35",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If 2/3 of a number is 12, what is the number?",
+            "explanation": "To find the number, divide 12 by (2/3), which is the same as multiplying by (3/2): Number = 12 × (3/2) = 18.",
+            "options": [
+                {
+                    "text": "12",
+                    "isCorrect": false
+                },
+                {
+                    "text": "18",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "text": "21",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the value of 100 divided by (5 × 2)?",
+            "explanation": "First calculate the multiplication: 5 × 2 = 10. Then perform the division: 100 / 10 = 10.",
+            "options": [
+                {
+                    "text": "5",
+                    "isCorrect": false
+                },
+                {
+                    "text": "10",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "text": "20",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a shirt originally costs $20 and is on sale for 25% off, what is the sale price?",
+            "explanation": "First, calculate 25% of $20: 20 × 0.25 = $5. Then subtract from the original price: $20 - $5 = $15.",
+            "options": [
+                {
+                    "text": "$15",
+                    "isCorrect": true
+                },
+                {
+                    "text": "$10",
+                    "isCorrect": false
+                },
+                {
+                    "text": "$20",
+                    "isCorrect": false
+                },
+                {
+                    "text": "$25",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What do you get when you subtract 9 from 3 times 10?",
+            "explanation": "Calculate 3 times 10 first: 3 × 10 = 30, then subtract 9: 30 - 9 = 21.",
+            "options": [
+                {
+                    "text": "18",
+                    "isCorrect": false
+                },
+                {
+                    "text": "21",
+                    "isCorrect": true
+                },
+                {
+                    "text": "27",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a square has an area of 64 cm², what is the length of one side?",
+            "explanation": "The area of a square is calculated as side × side. Thus, side = √64 = 8 cm.",
+            "options": [
+                {
+                    "text": "6 cm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "7 cm",
+                    "isCorrect": false
+                },
+                {
+                    "text": "8 cm",
+                    "isCorrect": true
+                },
+                {
+                    "text": "9 cm",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "A box contains 120 cookies. If you eat 1/3 of them, how many cookies are left?",
+            "explanation": "First, find 1/3 of 120: 120 × (1/3) = 40. Then subtract from the total: 120 - 40 = 80 cookies left.",
+            "options": [
+                {
+                    "text": "40",
+                    "isCorrect": false
+                },
+                {
+                    "text": "80",
+                    "isCorrect": true
+                },
+                {
+                    "text": "100",
+                    "isCorrect": false
+                },
+                {
+                    "text": "60",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the sum of the angles in a triangle?",
+            "explanation": "The sum of the interior angles of a triangle is always 180 degrees.",
+            "options": [
+                {
+                    "text": "90 degrees",
+                    "isCorrect": false
+                },
+                {
+                    "text": "180 degrees",
+                    "isCorrect": true
+                },
+                {
+                    "text": "360 degrees",
+                    "isCorrect": false
+                },
+                {
+                    "text": "270 degrees",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If a car can cover 240 miles on 8 gallons of gas, what is its miles per gallon (mpg)?",
+            "explanation": "To find mpg, divide the distance by the gallons: 240 miles / 8 gallons = 30 mpg.",
+            "options": [
+                {
+                    "text": "28 mpg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "30 mpg",
+                    "isCorrect": true
+                },
+                {
+                    "text": "32 mpg",
+                    "isCorrect": false
+                },
+                {
+                    "text": "34 mpg",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is the highest common factor (HCF) of 36 and 48?",
+            "explanation": "The factors of 36 are 1, 2, 3, 4, 6, 9, 12, 18, 36; and the factors of 48 are 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. The highest is 12.",
+            "options": [
+                {
+                    "text": "6",
+                    "isCorrect": false
+                },
+                {
+                    "text": "12",
+                    "isCorrect": true
+                },
+                {
+                    "text": "18",
+                    "isCorrect": false
+                },
+                {
+                    "text": "24",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If the product of two numbers is 48 and one of the numbers is 6, what is the other number?",
+            "explanation": "To find the other number, divide the product by the known number: 48 / 6 = 8.",
+            "options": [
+                {
+                    "text": "4",
+                    "isCorrect": false
+                },
+                {
+                    "text": "6",
+                    "isCorrect": false
+                },
+                {
+                    "text": "8",
+                    "isCorrect": true
+                },
+                {
+                    "text": "10",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "What is 3/4 of 60?",
+            "explanation": "To calculate 3/4 of 60, multiply: 3/4 × 60 = 45.",
+            "options": [
+                {
+                    "text": "30",
+                    "isCorrect": false
+                },
+                {
+                    "text": "45",
+                    "isCorrect": true
+                },
+                {
+                    "text": "15",
+                    "isCorrect": false
+                },
+                {
+                    "text": "60",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "text": "If you have $200 and you spend $75, how much money do you have left?",
+            "explanation": "To find out how much money is left, subtract the amount spent from the total: $200 - $75 = $125.",
+            "options": [
+                {
+                    "text": "100",
+                    "isCorrect": false
+                },
+                {
+                    "text": "125",
+                    "isCorrect": true
+                },
+                {
+                    "text": "150",
+                    "isCorrect": false
+                },
+                {
+                    "text": "175",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}

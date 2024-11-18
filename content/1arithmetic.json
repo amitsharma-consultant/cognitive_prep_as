@@ -507,6 +507,578 @@
           "isCorrect": false
         }
       ]
+    },
+    {
+      "text": "What is the value of 8 + (2 × 3) - 5?",
+      "explanation": "According to the order of operations (PEMDAS/BODMAS), you first multiply 2 and 3, which equals 6. Then you add 8 + 6 to get 14, and finally, subtract 5 to get 9.",
+      "options": [
+        {
+          "text": "9",
+          "isCorrect": true
+        },
+        {
+          "text": "11",
+          "isCorrect": false
+        },
+        {
+          "text": "7",
+          "isCorrect": false
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a rectangle's length is 12 cm and its width is 4 cm, what is its area?",
+      "explanation": "Area of a rectangle is calculated as length × width. So, Area = 12 cm × 4 cm = 48 cm².",
+      "options": [
+        {
+          "text": "48 cm²",
+          "isCorrect": true
+        },
+        {
+          "text": "44 cm²",
+          "isCorrect": false
+        },
+        {
+          "text": "50 cm²",
+          "isCorrect": false
+        },
+        {
+          "text": "42 cm²",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A train travels 360 miles in 6 hours. What is its average speed?",
+      "explanation": "Average speed is calculated by dividing the total distance by the total time. So, Average Speed = 360 miles / 6 hours = 60 miles per hour.",
+      "options": [
+        {
+          "text": "50 miles per hour",
+          "isCorrect": false
+        },
+        {
+          "text": "60 miles per hour",
+          "isCorrect": true
+        },
+        {
+          "text": "70 miles per hour",
+          "isCorrect": false
+        },
+        {
+          "text": "80 miles per hour",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 15% of 200?",
+      "explanation": "To find 15% of 200, you multiply 200 by 0.15. Thus, 200 * 0.15 = 30.",
+      "options": [
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": true
+        },
+        {
+          "text": "35",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If 5x - 3 = 22, what is the value of x?",
+      "explanation": "To isolate x, first add 3 to both sides: 5x = 25. Then divide by 5 to find x: x = 5.",
+      "options": [
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "text": "5",
+          "isCorrect": true
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A recipe needs 4 cups of flour. If you want to make half the recipe, how much flour do you need?",
+      "explanation": "To find half of 4 cups, divide by 2: 4 cups / 2 = 2 cups.",
+      "options": [
+        {
+          "text": "1 cup",
+          "isCorrect": false
+        },
+        {
+          "text": "2 cups",
+          "isCorrect": true
+        },
+        {
+          "text": "3 cups",
+          "isCorrect": false
+        },
+        {
+          "text": "4 cups",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the least common multiple (LCM) of 12 and 16?",
+      "explanation": "The multiples of 12 are: 12, 24, 36, 48, ... The multiples of 16 are: 16, 32, 48, ... The smallest common multiple is 48.",
+      "options": [
+        {
+          "text": "24",
+          "isCorrect": false
+        },
+        {
+          "text": "32",
+          "isCorrect": false
+        },
+        {
+          "text": "48",
+          "isCorrect": true
+        },
+        {
+          "text": "36",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the product of 7 and 8 minus 6?",
+      "explanation": "First calculate the product: 7 * 8 = 56. Then subtract 6: 56 - 6 = 50.",
+      "options": [
+        {
+          "text": "50",
+          "isCorrect": true
+        },
+        {
+          "text": "52",
+          "isCorrect": false
+        },
+        {
+          "text": "54",
+          "isCorrect": false
+        },
+        {
+          "text": "58",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a square's perimeter is 36 cm, what is the length of one side?",
+      "explanation": "Perimeter of a square is calculated as 4 times one side. So, Side = 36 cm / 4 = 9 cm.",
+      "options": [
+        {
+          "text": "7 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "8 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "9 cm",
+          "isCorrect": true
+        },
+        {
+          "text": "10 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these is a prime number?",
+      "explanation": "A prime number is only divisible by 1 and itself. Among the options, 7 is a prime number.",
+      "options": [
+        {
+          "text": "1",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "text": "7",
+          "isCorrect": true
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the value of 12 - 3 × 2 + 4?",
+      "explanation": "Applying the order of operations: First, multiply 3 × 2 = 6, then subtract 12 - 6 = 6, and finally add 4: 6 + 4 = 10.",
+      "options": [
+        {
+          "text": "8",
+          "isCorrect": false
+        },
+        {
+          "text": "10",
+          "isCorrect": true
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "14",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How much time is between 2:30 PM and 4:00 PM?",
+      "explanation": "The difference is 1 hour and 30 minutes, which is 90 minutes.",
+      "options": [
+        {
+          "text": "60 minutes",
+          "isCorrect": false
+        },
+        {
+          "text": "90 minutes",
+          "isCorrect": true
+        },
+        {
+          "text": "120 minutes",
+          "isCorrect": false
+        },
+        {
+          "text": "150 minutes",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a pencil costs $0.75, how much do 8 pencils cost?",
+      "explanation": "Multiply the cost of one pencil by the number of pencils: $0.75 × 8 = $6.00.",
+      "options": [
+        {
+          "text": "$5.00",
+          "isCorrect": false
+        },
+        {
+          "text": "$6.00",
+          "isCorrect": true
+        },
+        {
+          "text": "$6.75",
+          "isCorrect": false
+        },
+        {
+          "text": "$7.50",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the value of (3^2 + 4^2)?",
+      "explanation": "Calculate the squares first: 3^2 = 9 and 4^2 = 16. So, 9 + 16 = 25.",
+      "options": [
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": true
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "35",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If 2/3 of a number is 12, what is the number?",
+      "explanation": "To find the number, divide 12 by (2/3), which is the same as multiplying by (3/2): Number = 12 × (3/2) = 18.",
+      "options": [
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "21",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the value of 100 divided by (5 × 2)?",
+      "explanation": "First calculate the multiplication: 5 × 2 = 10. Then perform the division: 100 / 10 = 10.",
+      "options": [
+        {
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "text": "10",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a shirt originally costs $20 and is on sale for 25% off, what is the sale price?",
+      "explanation": "First, calculate 25% of $20: 20 × 0.25 = $5. Then subtract from the original price: $20 - $5 = $15.",
+      "options": [
+        {
+          "text": "$15",
+          "isCorrect": true
+        },
+        {
+          "text": "$10",
+          "isCorrect": false
+        },
+        {
+          "text": "$20",
+          "isCorrect": false
+        },
+        {
+          "text": "$25",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What do you get when you subtract 9 from 3 times 10?",
+      "explanation": "Calculate 3 times 10 first: 3 × 10 = 30, then subtract 9: 30 - 9 = 21.",
+      "options": [
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "21",
+          "isCorrect": true
+        },
+        {
+          "text": "27",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a square has an area of 64 cm², what is the length of one side?",
+      "explanation": "The area of a square is calculated as side × side. Thus, side = √64 = 8 cm.",
+      "options": [
+        {
+          "text": "6 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "7 cm",
+          "isCorrect": false
+        },
+        {
+          "text": "8 cm",
+          "isCorrect": true
+        },
+        {
+          "text": "9 cm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A box contains 120 cookies. If you eat 1/3 of them, how many cookies are left?",
+      "explanation": "First, find 1/3 of 120: 120 × (1/3) = 40. Then subtract from the total: 120 - 40 = 80 cookies left.",
+      "options": [
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "80",
+          "isCorrect": true
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the sum of the angles in a triangle?",
+      "explanation": "The sum of the interior angles of a triangle is always 180 degrees.",
+      "options": [
+        {
+          "text": "90 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "180 degrees",
+          "isCorrect": true
+        },
+        {
+          "text": "360 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "270 degrees",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a car can cover 240 miles on 8 gallons of gas, what is its miles per gallon (mpg)?",
+      "explanation": "To find mpg, divide the distance by the gallons: 240 miles / 8 gallons = 30 mpg.",
+      "options": [
+        {
+          "text": "28 mpg",
+          "isCorrect": false
+        },
+        {
+          "text": "30 mpg",
+          "isCorrect": true
+        },
+        {
+          "text": "32 mpg",
+          "isCorrect": false
+        },
+        {
+          "text": "34 mpg",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the highest common factor (HCF) of 36 and 48?",
+      "explanation": "The factors of 36 are 1, 2, 3, 4, 6, 9, 12, 18, 36; and the factors of 48 are 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. The highest is 12.",
+      "options": [
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": true
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "24",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If the product of two numbers is 48 and one of the numbers is 6, what is the other number?",
+      "explanation": "To find the other number, divide the product by the known number: 48 / 6 = 8.",
+      "options": [
+        {
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 3/4 of 60?",
+      "explanation": "To calculate 3/4 of 60, multiply: 3/4 × 60 = 45.",
+      "options": [
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "45",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If you have $200 and you spend $75, how much money do you have left?",
+      "explanation": "To find out how much money is left, subtract the amount spent from the total: $200 - $75 = $125.",
+      "options": [
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "125",
+          "isCorrect": true
+        },
+        {
+          "text": "150",
+          "isCorrect": false
+        },
+        {
+          "text": "175",
+          "isCorrect": false
+        }
+      ]
     }
   ]
 }
