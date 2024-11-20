@@ -27,12 +27,12 @@ const openai = new OpenAI({
 });
 
 async function generate(topic: string, msg: string): Promise<string> {
-    /*`Create educational content for a cognitive assessment preparation module on the topic of "${topic}". Write a concept explanation (500 words) that introduces the topic, explains its significance in cognitive assessments, and provides examples or scenarios where relevant. Additionally, generate 40 multiple-choice questions (MCQs) at a challenging 8th-grade level with detailed explanations and options, ensuring the questions are difficult and the response follows the specified schema.` */
+    /*`Create educational content for a cognitive assessment preparation module on the topic of "${topic}". Write a concept explanation (500 words) that introduces the topic, explains its significance in cognitive assessments, and provides examples or scenarios where relevant. Additionally, generate 40 multiple-choice questions (MCQs) at a challenging 4th-grade level with detailed explanations and options, ensuring the questions are difficult and the response follows the specified schema.` */
     const response = await openai.chat.completions.create({
         messages: [
             {
                 role: 'user',
-                content: `Create educational content for a cognitive assessment preparation module on the topic of "${topic}". Write a concept explanation (500 words) that introduces the topic, explains its significance in cognitive assessments, and provides examples or scenarios where relevant. Additionally, generate 40 multiple-choice questions (MCQs) at a challenging 8th-grade level with detailed explanations and options, ensuring the questions are difficult and the response follows the specified schema.`,
+                content: `Create educational content for a cognitive assessment preparation module on the topic of "${topic}". Write a concept explanation (500 words) that introduces the topic, explains its significance in cognitive assessments, and provides examples or scenarios where relevant. Additionally, generate 40 multiple-choice questions (MCQs) at a challenging 4th-grade level with detailed explanations and options, ensuring the questions are difficult and the response follows the specified schema.`,
             },
             {
                 role: 'assistant',
@@ -40,7 +40,7 @@ async function generate(topic: string, msg: string): Promise<string> {
             },
             {
                 role: 'user',
-                content: `Create educational content for a cognitive assessment preparation module on the topic of "${topic}".Generate Additionally 40 multiple-choice questions (MCQs) at a challenging 8th-grade level with detailed explanations and options, ensuring the questions are difficult and the response follows the specified schema.`,
+                content: `Create educational content for a cognitive assessment preparation module on the topic of "${topic}".Generate Additionally 40 multiple-choice questions (MCQs) at a challenging 4th-grade level with detailed explanations and options, ensuring the questions are difficult and the response follows the specified schema.`,
             },
         ],
         model: 'gpt-4o-mini',
