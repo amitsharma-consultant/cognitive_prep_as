@@ -1,0 +1,1920 @@
+{
+  "topic": "Arithmetic",
+  "content": "### Understanding Arithmetic in Cognitive Assessments\n\nArithmetic is a fundamental area of mathematics that involves the study of numbers and the basic operations that can be performed on them, such as addition, subtraction, multiplication, and division. Mastery of arithmetic is crucial not only for academic success but also for everyday functioning. When we talk about cognitive assessments, arithmetic plays a vital role as it serves as a measure of cognitive abilities such as problem-solving, logical thinking, and numerical literacy. \n\n**Significance of Arithmetic in Cognitive Assessments**  \nCognitive assessments often include arithmetic problems as they require individuals to apply math concepts in order to reach solutions. These assessments gauge not only basic numerical understanding but also higher-order thinking skills, as students must often interpret problems, devise strategies, and justify their answers. Proficiency in arithmetic indicates strong foundational skills that could lead to success in more advanced mathematics and real-life situations involving finances and analytical tasks.\n\nFor instance, a cognitive assessment might present a scenario in which a student is required to calculate the total cost of items during a shopping trip. This type of problem requires more than rote calculation; it necessitates critical thinking to understand what is being asked and the ability to handle numbers accurately.\n\n**Examples and Scenarios**  \nImagine a scenario where a student is given a word problem: \"A bookstore sells novels for $12 each and textbooks for $24 each. If a student buys 3 novels and 2 textbooks, how much money did the student spend in total?\" To solve this, the student must first compute the cost of the novels (3 novels × $12 = $36) and textbooks (2 textbooks × $24 = $48), and then add those amounts ($36 + $48 = $84). This example illustrates how arithmetic problems can reflect real-world contexts and require a combination of operations. \n\nAnother scenario could involve understanding and manipulating fractions. For instance, if a recipe requires 3/4 cup of sugar and a student wants to make half of the recipe, they would need to calculate how much sugar is required (3/4 ÷ 2 = 3/8). This not only tests their arithmetic skills but also their understanding of fractions, proportional reasoning, and practical application of mathematics. \n\nIn conclusion, proficiency in arithmetic is crucial in cognitive assessments as it reflects both numerical competence and critical thinking skills. By understanding and mastering arithmetic, individuals can enhance their problem-solving abilities, which is significant not only in academic settings but also in everyday life. This skill set lays the groundwork for further mathematical concepts and helps prepare students for more advanced studies and practical challenges they will face in the future.",
+  "questions": [
+    {
+      "text": "What is 27 times 36?",
+      "explanation": "To find the product of 27 and 36, we can use the standard multiplication method or break down the numbers into simpler components like (20 + 7)(30 + 6). However, the direct multiplication yields 972.",
+      "options": [
+        {
+          "text": "864",
+          "isCorrect": false
+        },
+        {
+          "text": "972",
+          "isCorrect": true
+        },
+        {
+          "text": "1032",
+          "isCorrect": false
+        },
+        {
+          "text": "756",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Subtract 15 from the product of 8 and 9.",
+      "explanation": "First, calculate the product of 8 and 9, which is 72. Then subtract 15: 72 - 15 = 57.",
+      "options": [
+        {
+          "text": "67",
+          "isCorrect": false
+        },
+        {
+          "text": "57",
+          "isCorrect": true
+        },
+        {
+          "text": "52",
+          "isCorrect": false
+        },
+        {
+          "text": "63",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the result of dividing 144 by 12 and then adding 10?",
+      "explanation": "First, divide 144 by 12, which equals 12. Then add 10: 12 + 10 = 22.",
+      "options": [
+        {
+          "text": "22",
+          "isCorrect": true
+        },
+        {
+          "text": "16",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "32",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If the temperature is raised by 8 degrees from -3 degrees, what is the new temperature?",
+      "explanation": "Starting from -3, adding 8 gives us 5. The calculation is -3 + 8 = 5.",
+      "options": [
+        {
+          "text": "5",
+          "isCorrect": true
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "-5",
+          "isCorrect": false
+        },
+        {
+          "text": "-3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 3/4 of 200?",
+      "explanation": "To calculate 3/4 of 200, multiply 200 by 3 and then divide by 4: (200 * 3) / 4 = 600 / 4 = 150.",
+      "options": [
+        {
+          "text": "75",
+          "isCorrect": false
+        },
+        {
+          "text": "150",
+          "isCorrect": true
+        },
+        {
+          "text": "200",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Find the least common multiple (LCM) of 12 and 18.",
+      "explanation": "The LCM of 12 and 18 is the smallest number that is a multiple of both. The multiples of 12 are 12, 24, 36, 48, etc., and the multiples of 18 are 18, 36, 54, etc. Thus, the LCM is 36.",
+      "options": [
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "36",
+          "isCorrect": true
+        },
+        {
+          "text": "72",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 25% of 240?",
+      "explanation": "To find 25% of 240, convert the percentage to a decimal (0.25) and multiply: 240 * 0.25 = 60.",
+      "options": [
+        {
+          "text": "60",
+          "isCorrect": true
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "70",
+          "isCorrect": false
+        },
+        {
+          "text": "80",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Multiply 15 by 16 and then subtract 4.",
+      "explanation": "First calculate 15 * 16, which equals 240. Next, subtract 4: 240 - 4 = 236.",
+      "options": [
+        {
+          "text": "236",
+          "isCorrect": true
+        },
+        {
+          "text": "240",
+          "isCorrect": false
+        },
+        {
+          "text": "244",
+          "isCorrect": false
+        },
+        {
+          "text": "230",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a book costs $15 and you buy four, how much do you spend total?",
+      "explanation": "To find the total cost, multiply the price of one book by the number of books: 15 * 4 = 60.",
+      "options": [
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": true
+        },
+        {
+          "text": "75",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 84 divided by 7, then multiplied by 6?",
+      "explanation": "First, divide 84 by 7, which equals 12. Then multiply that result by 6: 12 * 6 = 72.",
+      "options": [
+        {
+          "text": "72",
+          "isCorrect": true
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        },
+        {
+          "text": "48",
+          "isCorrect": false
+        },
+        {
+          "text": "84",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 7 plus 8 multiplied by 3?",
+      "explanation": "According to the order of operations (PEMDAS), first multiply 8 by 3 which equals 24, then add 7: 7 + 24 = 31.",
+      "options": [
+        {
+          "text": "31",
+          "isCorrect": true
+        },
+        {
+          "text": "26",
+          "isCorrect": false
+        },
+        {
+          "text": "27",
+          "isCorrect": false
+        },
+        {
+          "text": "34",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If you have $200 and you spend $75, how much do you have left?",
+      "explanation": "Subtract the amount spent from the total: 200 - 75 = 125.",
+      "options": [
+        {
+          "text": "125",
+          "isCorrect": true
+        },
+        {
+          "text": "150",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "175",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the square of 12?",
+      "explanation": "The square of a number is the number multiplied by itself: 12 * 12 = 144.",
+      "options": [
+        {
+          "text": "144",
+          "isCorrect": true
+        },
+        {
+          "text": "121",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "156",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a car travels 300 miles on 10 gallons of gas, what is the gas mileage in miles per gallon?",
+      "explanation": "To find miles per gallon, divide the distance by the gallons consumed: 300 miles / 10 gallons = 30 mpg.",
+      "options": [
+        {
+          "text": "30",
+          "isCorrect": true
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "35",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the result of 60 divided by 0.5?",
+      "explanation": "Dividing by 0.5 is equivalent to multiplying by 2: 60 / 0.5 = 120.",
+      "options": [
+        {
+          "text": "120",
+          "isCorrect": true
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How much is 90 minus 45 multiplied by 2?",
+      "explanation": "First, multiply 45 by 2, which gives 90. Then subtract this from 90: 90 - 90 = 0.",
+      "options": [
+        {
+          "text": "0",
+          "isCorrect": true
+        },
+        {
+          "text": "45",
+          "isCorrect": false
+        },
+        {
+          "text": "90",
+          "isCorrect": false
+        },
+        {
+          "text": "180",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the percentage increase from 50 to 75?",
+      "explanation": "To find the percentage increase, subtract the old value from the new value (75 - 50 = 25), divide by the old value (25 / 50 = 0.5), and multiply by 100 to convert to a percentage (0.5 * 100 = 50%).",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": true
+        },
+        {
+          "text": "25%",
+          "isCorrect": false
+        },
+        {
+          "text": "75%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a train travels at a speed of 60 miles per hour for 3 hours, how far does it travel?",
+      "explanation": "Distance = speed * time. Therefore, the distance traveled is 60 mph * 3 hours = 180 miles.",
+      "options": [
+        {
+          "text": "180",
+          "isCorrect": true
+        },
+        {
+          "text": "120",
+          "isCorrect": false
+        },
+        {
+          "text": "150",
+          "isCorrect": false
+        },
+        {
+          "text": "240",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the value of 5 cubed (5^3)?",
+      "explanation": "5 cubed means 5 multiplied by itself three times: 5 * 5 * 5 = 125.",
+      "options": [
+        {
+          "text": "125",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Calculate 36 divided by 4, then subtract 6.",
+      "explanation": "First, divide 36 by 4, which gives 9. Then subtract 6: 9 - 6 = 3.",
+      "options": [
+        {
+          "text": "3",
+          "isCorrect": true
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 500 times 0.04?",
+      "explanation": "To multiply, we can use 500 * 0.04 = 20.",
+      "options": [
+        {
+          "text": "20",
+          "isCorrect": true
+        },
+        {
+          "text": "200",
+          "isCorrect": false
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If the price of an item increases from $80 to $100, what is the percentage increase?",
+      "explanation": "The increase is 100 - 80 = 20. The percentage increase is (20 / 80) * 100 = 25%.",
+      "options": [
+        {
+          "text": "25%",
+          "isCorrect": true
+        },
+        {
+          "text": "20%",
+          "isCorrect": false
+        },
+        {
+          "text": "15%",
+          "isCorrect": false
+        },
+        {
+          "text": "30%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a bag of apples costs $3.50, how much do 10 bags cost?",
+      "explanation": "To find the total cost, multiply the cost of one bag by the number of bags: 3.50 * 10 = 35.00.",
+      "options": [
+        {
+          "text": "35.00",
+          "isCorrect": true
+        },
+        {
+          "text": "30.00",
+          "isCorrect": false
+        },
+        {
+          "text": "40.00",
+          "isCorrect": false
+        },
+        {
+          "text": "45.00",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How many seconds are there in 3 minutes?",
+      "explanation": "Since there are 60 seconds in a minute, to find how many seconds are in 3 minutes, multiply 60 by 3: 60 * 3 = 180 seconds.",
+      "options": [
+        {
+          "text": "180",
+          "isCorrect": true
+        },
+        {
+          "text": "150",
+          "isCorrect": false
+        },
+        {
+          "text": "120",
+          "isCorrect": false
+        },
+        {
+          "text": "240",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the area of a rectangle with a length of 10 and a width of 5?",
+      "explanation": "The area of a rectangle is found by multiplying length by width: 10 * 5 = 50 square units.",
+      "options": [
+        {
+          "text": "50",
+          "isCorrect": true
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "35",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Convert 0.75 to a fraction.",
+      "explanation": "To convert 0.75 to a fraction, recognize it as 75/100, which simplifies to 3/4.",
+      "options": [
+        {
+          "text": "3/4",
+          "isCorrect": true
+        },
+        {
+          "text": "1/4",
+          "isCorrect": false
+        },
+        {
+          "text": "1/2",
+          "isCorrect": false
+        },
+        {
+          "text": "1/3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the sum of the angles in a triangle?",
+      "explanation": "The sum of all interior angles in a triangle is always 180 degrees, regardless of the type of triangle.",
+      "options": [
+        {
+          "text": "180 degrees",
+          "isCorrect": true
+        },
+        {
+          "text": "90 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "360 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "270 degrees",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 47 plus 58?",
+      "explanation": "To solve this, align the numbers in columns by place value: \n```\n  47\n+ 58\n-----\n 105\n``` The sum is 105.",
+      "options": [
+        {
+          "text": "95",
+          "isCorrect": false
+        },
+        {
+          "text": "105",
+          "isCorrect": true
+        },
+        {
+          "text": "115",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Subtract 52 from 100.",
+      "explanation": "Take the larger number and subtract the smaller number:\n100 - 52 = 48, so the answer is 48.",
+      "options": [
+        {
+          "text": "48",
+          "isCorrect": true
+        },
+        {
+          "text": "54",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 8 multiplied by 7?",
+      "explanation": "To find the product, you can remember the multiplication table:\n8 * 7 = 56.",
+      "options": [
+        {
+          "text": "54",
+          "isCorrect": false
+        },
+        {
+          "text": "58",
+          "isCorrect": false
+        },
+        {
+          "text": "56",
+          "isCorrect": true
+        },
+        {
+          "text": "48",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If you divide 56 by 7, what do you get?",
+      "explanation": "Dividing 56 by 7 gives:\n56 ÷ 7 = 8.",
+      "options": [
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "7",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the result of multiplying 9 by 6 and then subtracting 10?",
+      "explanation": "First calculate 9 * 6 = 54, then subtract:\n54 - 10 = 44.",
+      "options": [
+        {
+          "text": "44",
+          "isCorrect": true
+        },
+        {
+          "text": "54",
+          "isCorrect": false
+        },
+        {
+          "text": "46",
+          "isCorrect": false
+        },
+        {
+          "text": "40",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the value of 45 divided by 5?",
+      "explanation": "When dividing, take the total and separate it into 5 parts:\n45 ÷ 5 = 9.",
+      "options": [
+        {
+          "text": "8",
+          "isCorrect": false
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "9",
+          "isCorrect": true
+        },
+        {
+          "text": "11",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 25% of 200?",
+      "explanation": "25% means 25 out of 100, which can be expressed as \n0.25. So, 200 * 0.25 = 50.",
+      "options": [
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "50",
+          "isCorrect": true
+        },
+        {
+          "text": "70",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Add 365 and 458 together.",
+      "explanation": "Align them by place value:\n```\n  365\n+ 458\n-----\n  823\n``` So, 365 + 458 = 823.",
+      "options": [
+        {
+          "text": "823",
+          "isCorrect": true
+        },
+        {
+          "text": "800",
+          "isCorrect": false
+        },
+        {
+          "text": "810",
+          "isCorrect": false
+        },
+        {
+          "text": "780",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the area of a rectangle with a length of 12 and a width of 5?",
+      "explanation": "Area = length × width = 12 * 5 = 60 square units.",
+      "options": [
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": true
+        },
+        {
+          "text": "70",
+          "isCorrect": false
+        },
+        {
+          "text": "75",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Subtract 500 from 825.",
+      "explanation": "To find the result:\n825 - 500 = 325.",
+      "options": [
+        {
+          "text": "275",
+          "isCorrect": false
+        },
+        {
+          "text": "325",
+          "isCorrect": true
+        },
+        {
+          "text": "350",
+          "isCorrect": false
+        },
+        {
+          "text": "300",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the total cost of 3 notebooks at $4 each?",
+      "explanation": "Multiply the cost of one notebook by the number of notebooks:\n3 * 4 = 12. Total cost is $12.",
+      "options": [
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 6 cubed?",
+      "explanation": "Cubing a number means multiplying it by itself three times:\n6 * 6 * 6 = 216.",
+      "options": [
+        {
+          "text": "216",
+          "isCorrect": true
+        },
+        {
+          "text": "126",
+          "isCorrect": false
+        },
+        {
+          "text": "36",
+          "isCorrect": false
+        },
+        {
+          "text": "64",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the sum of 135 and 234?",
+      "explanation": "Align and add:\n```\n  135\n+ 234\n-----\n  369\n``` The answer is 369.",
+      "options": [
+        {
+          "text": "369",
+          "isCorrect": true
+        },
+        {
+          "text": "300",
+          "isCorrect": false
+        },
+        {
+          "text": "400",
+          "isCorrect": false
+        },
+        {
+          "text": "375",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If you have $120 and you spend $45, how much do you have left?",
+      "explanation": "Subtract the amount spent:\n120 - 45 = 75. You have $75 left.",
+      "options": [
+        {
+          "text": "75",
+          "isCorrect": true
+        },
+        {
+          "text": "80",
+          "isCorrect": false
+        },
+        {
+          "text": "70",
+          "isCorrect": false
+        },
+        {
+          "text": "90",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Multiply 13 by 9 and then divide by 3.",
+      "explanation": "First, find the product: 13 * 9 = 117. Then divide: 117 ÷ 3 = 39.",
+      "options": [
+        {
+          "text": "39",
+          "isCorrect": true
+        },
+        {
+          "text": "37",
+          "isCorrect": false
+        },
+        {
+          "text": "33",
+          "isCorrect": false
+        },
+        {
+          "text": "43",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Find the result of 72 divided by 9, then add 6.",
+      "explanation": "First divide:\n72 ÷ 9 = 8, then add:\n8 + 6 = 14. The answer is 14.",
+      "options": [
+        {
+          "text": "14",
+          "isCorrect": true
+        },
+        {
+          "text": "16",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 99 minus 37?",
+      "explanation": "Perform the subtraction:\n99 - 37 = 62.",
+      "options": [
+        {
+          "text": "66",
+          "isCorrect": false
+        },
+        {
+          "text": "62",
+          "isCorrect": true
+        },
+        {
+          "text": "58",
+          "isCorrect": false
+        },
+        {
+          "text": "75",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How many minutes are in 2.5 hours?",
+      "explanation": "Since each hour has 60 minutes:\n2.5 hours * 60 = 150 minutes.",
+      "options": [
+        {
+          "text": "120",
+          "isCorrect": false
+        },
+        {
+          "text": "150",
+          "isCorrect": true
+        },
+        {
+          "text": "180",
+          "isCorrect": false
+        },
+        {
+          "text": "90",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 3/4 of 100?",
+      "explanation": "Calculate by multiplying:\n100 * 0.75 = 75.",
+      "options": [
+        {
+          "text": "75",
+          "isCorrect": true
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a triangle has angles measuring 60 degrees and 90 degrees, what is the third angle?",
+      "explanation": "The sum of angles in a triangle is 180 degrees:\n180 - (60 + 90) = 30 degrees.",
+      "options": [
+        {
+          "text": "30",
+          "isCorrect": true
+        },
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How much is 150% of 80?",
+      "explanation": "To calculate, convert 150% to a decimal:\n1.5 * 80 = 120.",
+      "options": [
+        {
+          "text": "120",
+          "isCorrect": true
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "150",
+          "isCorrect": false
+        },
+        {
+          "text": "80",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the next number in the sequence 2, 4, 8, 16?",
+      "explanation": "The pattern is multiplying by 2 each time: 16 * 2 = 32. So, the answer is 32.",
+      "options": [
+        {
+          "text": "32",
+          "isCorrect": true
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "28",
+          "isCorrect": false
+        },
+        {
+          "text": "36",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Divide 144 by 12 and what is the remainder?",
+      "explanation": "When you divide:\n144 ÷ 12 = 12 with a remainder of 0.",
+      "options": [
+        {
+          "text": "0",
+          "isCorrect": true
+        },
+        {
+          "text": "1",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "2",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the sum of the first five positive whole numbers?",
+      "explanation": "The first five positive whole numbers are 1, 2, 3, 4, 5. Adding them gives:\n1 + 2 + 3 + 4 + 5 = 15.",
+      "options": [
+        {
+          "text": "15",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 6 times 8, then add 5?",
+      "explanation": "Calculate:\n6 * 8 = 48, then add:\n48 + 5 = 53.",
+      "options": [
+        {
+          "text": "53",
+          "isCorrect": true
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "48",
+          "isCorrect": false
+        },
+        {
+          "text": "56",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the product of 14 and 5?",
+      "explanation": "Multiply 14 by 5:\n14 * 5 = 70.",
+      "options": [
+        {
+          "text": "70",
+          "isCorrect": true
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "80",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a box holds 12 apples and you have 3 boxes, how many apples do you have?",
+      "explanation": "Multiply the number of boxes by the number of apples per box:\n3 * 12 = 36 apples.",
+      "options": [
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "36",
+          "isCorrect": true
+        },
+        {
+          "text": "24",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is half of 1000?",
+      "explanation": "To find half, divide by 2:\n1000 ÷ 2 = 500.",
+      "options": [
+        {
+          "text": "500",
+          "isCorrect": true
+        },
+        {
+          "text": "400",
+          "isCorrect": false
+        },
+        {
+          "text": "600",
+          "isCorrect": false
+        },
+        {
+          "text": "800",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If Jenny has 4 times as many candies as Tom and Tom has 5 candies, how many candies does Jenny have?",
+      "explanation": "Multiply Tom's candies by 4:\n4 * 5 = 20. Jenny has 20 candies.",
+      "options": [
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": true
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 56 divided by 7?",
+      "explanation": "To divide 56 by 7, think about how many times 7 can fit into 56. Since 7 times 8 equals 56, the answer is 8.",
+      "options": [
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "7",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "isCorrect": true
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 9 times 8?",
+      "explanation": "To find the product of 9 and 8, you can use the multiplication table or addition: 9 + 9 + 9 + 9 + 9 + 9 + 9 + 9 = 72. Therefore, the answer is 72.",
+      "options": [
+        {
+          "text": "64",
+          "isCorrect": false
+        },
+        {
+          "text": "72",
+          "isCorrect": true
+        },
+        {
+          "text": "81",
+          "isCorrect": false
+        },
+        {
+          "text": "63",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If you have 50 apples and give away 20, how many do you have left?",
+      "explanation": "Subtract the number of apples given away from the total: 50 - 20 = 30. So, you have 30 apples left.",
+      "options": [
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": true
+        },
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 12 plus 49?",
+      "explanation": "Adding these two numbers together gives: 12 + 49 = 61.",
+      "options": [
+        {
+          "text": "59",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        },
+        {
+          "text": "61",
+          "isCorrect": true
+        },
+        {
+          "text": "62",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 144 divided by 12?",
+      "explanation": "To divide 144 by 12, think about how many times 12 fits into 144. Since 12 times 12 equals 144, the answer is 12.",
+      "options": [
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "11",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": true
+        },
+        {
+          "text": "13",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Subtract 37 from 100.",
+      "explanation": "To find the difference, perform: 100 - 37 = 63. The answer is 63.",
+      "options": [
+        {
+          "text": "63",
+          "isCorrect": true
+        },
+        {
+          "text": "65",
+          "isCorrect": false
+        },
+        {
+          "text": "70",
+          "isCorrect": false
+        },
+        {
+          "text": "68",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 25% of 200?",
+      "explanation": "To find 25% of 200, you multiply 200 by 0.25 (which is the decimal form of 25%): 200 × 0.25 = 50.",
+      "options": [
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "50",
+          "isCorrect": true
+        },
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "75",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 73 - 29?",
+      "explanation": "To perform the subtraction, you find: 73 - 29 = 44. The answer is 44.",
+      "options": [
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "42",
+          "isCorrect": false
+        },
+        {
+          "text": "44",
+          "isCorrect": true
+        },
+        {
+          "text": "46",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a pencil costs $1.20, how much do 5 pencils cost?",
+      "explanation": "To calculate the total cost of 5 pencils, multiply the cost of one pencil by 5: $1.20 × 5 = $6.00.",
+      "options": [
+        {
+          "text": "$5.00",
+          "isCorrect": false
+        },
+        {
+          "text": "$6.00",
+          "isCorrect": true
+        },
+        {
+          "text": "$7.00",
+          "isCorrect": false
+        },
+        {
+          "text": "$8.00",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the product of 11 and 4?",
+      "explanation": "To find the product, multiply 11 by 4: 11 × 4 = 44. So, the answer is 44.",
+      "options": [
+        {
+          "text": "42",
+          "isCorrect": false
+        },
+        {
+          "text": "44",
+          "isCorrect": true
+        },
+        {
+          "text": "46",
+          "isCorrect": false
+        },
+        {
+          "text": "40",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 15% of 60?",
+      "explanation": "To find 15% of 60, convert the percentage to a decimal: 0.15 × 60 = 9.",
+      "options": [
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "9",
+          "isCorrect": true
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a book costs $12 and you buy 4, how much do you spend in total?",
+      "explanation": "Multiply the cost of one book by the number of books: $12 × 4 = $48.",
+      "options": [
+        {
+          "text": "$40",
+          "isCorrect": false
+        },
+        {
+          "text": "$44",
+          "isCorrect": false
+        },
+        {
+          "text": "$48",
+          "isCorrect": true
+        },
+        {
+          "text": "$52",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the square of 7?",
+      "explanation": "The square of a number is that number multiplied by itself: 7 × 7 = 49.",
+      "options": [
+        {
+          "text": "42",
+          "isCorrect": false
+        },
+        {
+          "text": "49",
+          "isCorrect": true
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "48",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What do you get when you add 35 and 25?",
+      "explanation": "Adding these two numbers gives: 35 + 25 = 60.",
+      "options": [
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "55",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": true
+        },
+        {
+          "text": "65",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a car travels 75 miles in 1 hour, how many miles will it travel in 3 hours?",
+      "explanation": "To find the distance, multiply the speed by the time: 75 miles/hour × 3 hours = 225 miles.",
+      "options": [
+        {
+          "text": "200 miles",
+          "isCorrect": false
+        },
+        {
+          "text": "225 miles",
+          "isCorrect": true
+        },
+        {
+          "text": "250 miles",
+          "isCorrect": false
+        },
+        {
+          "text": "175 miles",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the remainder when 29 is divided by 5?",
+      "explanation": "When dividing, 5 fits into 29 a total of 5 times (5 × 5 = 25). The remainder is 29 - 25 = 4.",
+      "options": [
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": true
+        },
+        {
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Calculate 6 times 7, then subtract 5.",
+      "explanation": "First, find the product: 6 × 7 = 42. Then subtract 5: 42 - 5 = 37.",
+      "options": [
+        {
+          "text": "32",
+          "isCorrect": false
+        },
+        {
+          "text": "37",
+          "isCorrect": true
+        },
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "45",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the sum of the angles in a triangle?",
+      "explanation": "The sum of the interior angles in any triangle is always 180 degrees.",
+      "options": [
+        {
+          "text": "180 degrees",
+          "isCorrect": true
+        },
+        {
+          "text": "90 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "360 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "270 degrees",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 120 minus 72?",
+      "explanation": "To perform the subtraction, calculate: 120 - 72 = 48.",
+      "options": [
+        {
+          "text": "48",
+          "isCorrect": true
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "45",
+          "isCorrect": false
+        },
+        {
+          "text": "40",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 9 divided by 3?",
+      "explanation": "To find the division result, calculate: 9 ÷ 3 = 3. So, the answer is 3.",
+      "options": [
+        {
+          "text": "3",
+          "isCorrect": true
+        },
+        {
+          "text": "2",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "text": "5",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How much is $50 minus $13?",
+      "explanation": "Perform the subtraction: $50 - $13 = $37.",
+      "options": [
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "37",
+          "isCorrect": true
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "33",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the smallest prime number?",
+      "explanation": "The smallest prime number is 2. A prime number is only divisible by 1 and itself.",
+      "options": [
+        {
+          "text": "1",
+          "isCorrect": false
+        },
+        {
+          "text": "2",
+          "isCorrect": true
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If you buy a shirt for $25 and a pair of pants for $40, how much do you spend altogether?",
+      "explanation": "To find the total cost, add the costs of both items: $25 + $40 = $65.",
+      "options": [
+        {
+          "text": "55",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        },
+        {
+          "text": "65",
+          "isCorrect": true
+        },
+        {
+          "text": "70",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 4 cubed?",
+      "explanation": "Cubing a number means multiplying it by itself three times: 4 × 4 × 4 = 64.",
+      "options": [
+        {
+          "text": "48",
+          "isCorrect": false
+        },
+        {
+          "text": "64",
+          "isCorrect": true
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        },
+        {
+          "text": "72",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the maximum number of sides in a polygon with 7 angles?",
+      "explanation": "A polygon with 7 angles is called a heptagon, which has 7 sides. Therefore, the answer is 7.",
+      "options": [
+        {
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "7",
+          "isCorrect": true
+        },
+        {
+          "text": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If you eat 3 slices of pizza and the pizza had 12 slices to begin with, how many slices are left?",
+      "explanation": "Subtract the number of slices eaten from the total: 12 - 3 = 9 slices left.",
+      "options": [
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "9",
+          "isCorrect": true
+        },
+        {
+          "text": "7",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 100 divided by 4?",
+      "explanation": "Calculate the division: 100 ÷ 4 = 25. The answer is 25.",
+      "options": [
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": true
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "35",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Add 15, 25, and 35 together.",
+      "explanation": "Adding these three numbers gives: 15 + 25 + 35 = 75.",
+      "options": [
+        {
+          "text": "70",
+          "isCorrect": false
+        },
+        {
+          "text": "75",
+          "isCorrect": true
+        },
+        {
+          "text": "80",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a triangle has one angle of 90 degrees and another of 45 degrees, what is the third angle?",
+      "explanation": "The sum of angles in a triangle is 180 degrees. Therefore, the third angle is:\n180 - (90 + 45) = 45 degrees.",
+      "options": [
+        {
+          "text": "30 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "45 degrees",
+          "isCorrect": true
+        },
+        {
+          "text": "60 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "75 degrees",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the area of a rectangle that is 5 units long and 3 units wide?",
+      "explanation": "To find the area, multiply the length by the width: 5 × 3 = 15 square units.",
+      "options": [
+        {
+          "text": "10",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": true
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a dozen eggs cost $3, how much do 2 dozen eggs cost?",
+      "explanation": "Since 1 dozen is $3, then 2 dozen would be: $3 × 2 = $6.",
+      "options": [
+        {
+          "text": "$4",
+          "isCorrect": false
+        },
+        {
+          "text": "$5",
+          "isCorrect": false
+        },
+        {
+          "text": "$6",
+          "isCorrect": true
+        },
+        {
+          "text": "$7",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
