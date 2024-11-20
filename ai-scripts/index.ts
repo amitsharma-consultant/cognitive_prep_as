@@ -153,4 +153,33 @@ async function generateAndSaveContent(filerTopics: string[]) {
 }
 
 // Call the main function
-generateAndSaveContent(['1arithmetic','2figure_weights','3matrix_reasoning','4matrix_reasoning___analogies','5pattern_matrix_reasoning','6picture_concepts','7learning','8rapid_naming__literacy_and_quantity_','10coding','12comprehension','13information','14similarities','15vocabulary','16pattern_tile_forms','17block_design___easy','18block_design___hard','19visual_puzzles','20vocabulary','21vocabulary_bonus','22word_reasoning','23digit_span','24letter_number_sequencing','25picture_span','26Serial_Order_Matrices','27Rapid_Naming','28Rapid_Naming','29Cancellation','30Symbol_Search']).catch(console.error);
+generateAndSaveContent([
+    //'1arithmetic',
+    // '2figure_weights',
+    // '3matrix_reasoning',
+    // '4matrix_reasoning___analogies',
+    // '5pattern_matrix_reasoning',
+    // '6picture_concepts',
+    // '7learning',
+    // '8rapid_naming__literacy_and_quantity_',
+    // '10coding',
+    // '12comprehension',
+    // '13information',
+    // '14similarities',
+    // '15vocabulary',
+    // '16pattern_tile_forms',
+    // '17block_design___easy',
+    // '18block_design___hard',
+    // '19visual_puzzles',
+    // '20vocabulary',
+    // '21vocabulary_bonus',
+    // '22word_reasoning',
+    // '23digit_span',
+    // '24letter_number_sequencing',
+    // '25picture_span',
+    // '26Serial_Order_Matrices',
+    // '27Rapid_Naming',
+    // '28Rapid_Naming',
+    // '29Cancellation',
+     '30Symbol_Search'
+]).catch(console.error);
