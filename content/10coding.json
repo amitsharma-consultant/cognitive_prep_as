@@ -1,531 +1,574 @@
 {
   "topic": "Coding",
-  "content": "### Introduction to Coding in Cognitive Assessments\n\nIn the realm of cognitive assessments, coding refers to a task that requires individuals to translate information from one form to another quickly and accurately. This could involve mapping symbols to numbers, matching words to definitions, or some other form of systematic recognition and categorization of data. The concept of coding is often linked to how well a person can understand relationships between different pieces of information, recognize patterns, and apply logical reasoning.\n\nCoding is significant in cognitive assessments because it serves as a measure of an individual's processing speed, attention to detail, and problem-solving abilities. These skills are essential not only in academic settings but also in real-world environments where quick thinking and accuracy are necessary. For example, in professions like data entry, programming, and engineering, individuals often have to manage large amounts of information efficiently. Furthermore, coding tasks in assessments correlate strongly with a person’s overall intelligence quotient (IQ) and are predictive of future academic performance. \n\n### The Importance of Coding in Cognitive Development\nUtilizing coding tasks in cognitive assessments aids in evaluating different cognitive skills. These skills include:\n- **Attention to Detail:** Engaging in coding exercises requires individuals to pay careful attention to details, which is critical in tasks requiring precision and accuracy.\n- **Memory Retention:** Coding tasks often test a person's ability to retain information long enough to manipulate it correctly. This skill is important for academic learning as well as daily activities.\n- **Problem Solving:** When coding, individuals must often interpret information creatively or think critically to establish the correct relationships between data sets.\n\n### Examples of Coding Tasks\nConsider a scenario where students are presented with a coding system that assigns a specific numeric value to various shapes: \n- Square = 1 \n- Circle = 2 \n- Triangle = 3 \nStudents might be asked to solve the following task:\n- If three circles and two triangles appear in a pattern, what is the total value of the pattern?\nIn this case, the students must apply their coding knowledge by multiplying the numeric values assigned to the shapes (2 x 3 + 3 x 2 = 12).  \n\nAnother common form of coding is found in the use of symbols or simple codes in modern applications. An example might be:\n- If A = 1, B = 2, C = 3, etc., what does the word “CAB” translate to numerically? \nIn this case, students must understand the coding system to derive the answer (C = 3, A = 1, B = 2; hence CAB = 3 + 1 + 2 = 6).\n\n### Conclusion\nIn conclusion, coding plays a fundamental role in cognitive assessments as it effectively gauges various cognitive abilities critical for success in both academic and everyday scenarios. By mastering coding tasks, individuals not only enhance their cognitive skills but also prepare themselves for a variety of challenges they may encounter in both their educational journey and professional lives. Through practice and exposure to different types of coding tasks, learners can improve their reasoning, analytical thinking, and overall cognitive agility, which are all crucial skills in today's information-driven world.",
   "questions": [
     {
-      "text": "What does coding typically measure in cognitive assessments?",
-      "explanation": "Coding measures an individual's processing speed, attention to detail, and problem-solving skills which are essential in various academic and professional scenarios.",
+      "text": "What is the primary purpose of coding in computer programming?",
+      "explanation": "Coding is the process of creating software and applications that enable a computer to perform specific tasks. It is essentially translating human ideas into a language that computers can understand.",
       "options": [
         {
-          "text": "Only attention to detail",
+          "text": "To create hardware devices",
           "isCorrect": false
         },
         {
-          "text": "Processing speed and attention to detail",
+          "text": "To enable communication between computers",
+          "isCorrect": false
+        },
+        {
+          "text": "To instruct the computer on how to perform actions",
           "isCorrect": true
         },
         {
-          "text": "Problem-solving skills only",
-          "isCorrect": false
-        },
-        {
-          "text": "Creative thinking",
+          "text": "To design user interfaces only",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If the following shapes are coded as Square=1, Circle=2, and Triangle=3, what is the total numeric value of two Squares and one Circle?",
-      "explanation": "Total value = 2x(Square) + 1x(Circle) = 2x1 + 1x2 = 4.",
+      "text": "In a programming context, what does 'syntax' refer to?",
+      "explanation": "Syntax in programming refers to the set of rules that defines the combinations of symbols that are considered to be correctly structured programs in a given programming language.",
       "options": [
+        {
+          "text": "The overall speed of the code",
+          "isCorrect": false
+        },
+        {
+          "text": "The aesthetic appearance of the code",
+          "isCorrect": false
+        },
+        {
+          "text": "The rules for building valid statements in a programming language",
+          "isCorrect": true
+        },
+        {
+          "text": "The quality of the output data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following is a common type of loop in programming?",
+      "explanation": "Loops are used in programming to execute a block of code repeatedly based on a certain condition. 'For loop', 'while loop', and 'do-while loop' are common types of loops.",
+      "options": [
+        {
+          "text": "If-then statements",
+          "isCorrect": false
+        },
+        {
+          "text": "Rows",
+          "isCorrect": false
+        },
+        {
+          "text": "Variables",
+          "isCorrect": false
+        },
+        {
+          "text": "For loop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "What does 'variable' mean in coding?",
+      "explanation": "A variable is a symbolic name for a value and can change during program execution. It is used to store data that can be referenced and manipulated in a program.",
+      "options": [
+        {
+          "text": "A fixed value that cannot change",
+          "isCorrect": false
+        },
+        {
+          "text": "A placeholder for data that can vary",
+          "isCorrect": true
+        },
+        {
+          "text": "A type of loop",
+          "isCorrect": false
+        },
+        {
+          "text": "A command for output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which programming language is primarily used for web development?",
+      "explanation": "While several languages can be used for web development, HTML is specifically designed for creating web pages. However, JavaScript is widely used for adding interactivity.",
+      "options": [
+        {
+          "text": "C++",
+          "isCorrect": false
+        },
+        {
+          "text": "Python",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "Swift",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is an algorithm?",
+      "explanation": "An algorithm is a step-by-step procedure or formula for solving a problem. In programming, it serves as a blueprint for writing code to execute a task.",
+      "options": [
+        {
+          "text": "A programming language",
+          "isCorrect": false
+        },
+        {
+          "text": "A way to store data",
+          "isCorrect": false
+        },
+        {
+          "text": "A series of instructions for completing a task",
+          "isCorrect": true
+        },
+        {
+          "text": "A debugging tool",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following correctly represents an 'if statement'?",
+      "explanation": "An 'if statement' evaluates a condition and executes a block of code if the condition is true. If the condition is false, it can optionally execute an 'else' block.",
+      "options": [
+        {
+          "text": "if (x > 10) { doSomething(); }",
+          "isCorrect": true
+        },
+        {
+          "text": "if x>10 doSomething()",
+          "isCorrect": false
+        },
+        {
+          "text": "if (x == 10) then doSomething()",
+          "isCorrect": false
+        },
+        {
+          "text": "if x < 5 { systemOutput; }",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'debugging' mean in programming?",
+      "explanation": "Debugging is the process of finding and resolving bugs or errors in a computer program to ensure it runs as intended.",
+      "options": [
+        {
+          "text": "Writing new code",
+          "isCorrect": false
+        },
+        {
+          "text": "Testing the output of the program",
+          "isCorrect": false
+        },
+        {
+          "text": "Removing errors from the code",
+          "isCorrect": true
+        },
+        {
+          "text": "Updating the software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In object-oriented programming, what is 'inheritance'?",
+      "explanation": "Inheritance allows one class to inherit properties and methods from another class. This promotes code reusability and establishes a relationship between classes.",
+      "options": [
+        {
+          "text": "Creating new objects",
+          "isCorrect": false
+        },
+        {
+          "text": "Extending a class with the properties of another class",
+          "isCorrect": true
+        },
+        {
+          "text": "Deleting a class",
+          "isCorrect": false
+        },
+        {
+          "text": "Changing the data type",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the primary purpose of an array in programming?",
+      "explanation": "An array is a data structure that can store multiple values in a single variable. It allows for organized data management and simplifies code involved with handling groups of related data.",
+      "options": [
+        {
+          "text": "To store a single value",
+          "isCorrect": false
+        },
+        {
+          "text": "To facilitate code execution speed",
+          "isCorrect": false
+        },
+        {
+          "text": "To hold multiple values of the same type",
+          "isCorrect": true
+        },
+        {
+          "text": "To create new functions",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which symbol is typically used to denote a comment in Python?",
+      "explanation": "In Python, comments are created using the '#' symbol. Comments are ignored by the interpreter and are meant to provide clarity in the code.",
+      "options": [
+        {
+          "text": "//",
+          "isCorrect": false
+        },
+        {
+          "text": "#",
+          "isCorrect": true
+        },
+        {
+          "text": "/*",
+          "isCorrect": false
+        },
+        {
+          "text": "<!--",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'IDE' stand for in programming?",
+      "explanation": "IDE stands for Integrated Development Environment, which is a software application that provides comprehensive facilities to programmers for software development, including a code editor, debugger, and build automation tools.",
+      "options": [
+        {
+          "text": "Internal Development Editor",
+          "isCorrect": false
+        },
+        {
+          "text": "Integrated Development Environment",
+          "isCorrect": true
+        },
+        {
+          "text": "Independent Data Entry",
+          "isCorrect": false
+        },
+        {
+          "text": "Incremental Development Engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following best describes 'function' in programming?",
+      "explanation": "A function is a reusable block of code that performs a specific task. Functions help in structuring programs and reducing code duplication.",
+      "options": [
+        {
+          "text": "A type of variable",
+          "isCorrect": false
+        },
+        {
+          "text": "A tool for debugging",
+          "isCorrect": false
+        },
+        {
+          "text": "A reusable piece of code that performs an action",
+          "isCorrect": true
+        },
+        {
+          "text": "A command for outputting data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the outcome of executing the code: print(2 * 3 + 5)?",
+      "explanation": "The code first performs the multiplication (2 * 3 = 6), and then adds 5, resulting in 11. This reflects the order of operations in programming.",
+      "options": [
+        {
+          "text": "8",
+          "isCorrect": false
+        },
+        {
+          "text": "11",
+          "isCorrect": true
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        },
         {
           "text": "3",
           "isCorrect": false
-        },
+        }
+      ]
+    },
+    {
+      "text": "In HTML, what does the <head> tag represent?",
+      "explanation": "The <head> tag contains metadata about the HTML document, including the title, links to stylesheets and scripts, and other resources not displayed directly on the page.",
+      "options": [
         {
-          "text": "4",
-          "isCorrect": true
-        },
-        {
-          "text": "5",
+          "text": "The main content of the page",
           "isCorrect": false
         },
         {
-          "text": "6",
+          "text": "In-line styles for the page",
+          "isCorrect": false
+        },
+        {
+          "text": "The meta-information of the document",
+          "isCorrect": true
+        },
+        {
+          "text": "Hyperlinks to other pages",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "In a code where A=1, B=2, C=3, what does \"FACE\" equal?",
-      "explanation": "FACE translates to F=6, A=1, C=3, E=5. So, F+A+C+E = 6 + 1 + 3 + 5 = 15.",
+      "text": "Which programming paradigm focuses on objects that contain data and methods?",
+      "explanation": "Object-oriented programming (OOP) focuses on using objects that combine both data and functionality. It helps in organizing complex programs by mimicking the real-world entities.",
       "options": [
         {
-          "text": "10",
+          "text": "Procedural programming",
           "isCorrect": false
         },
         {
-          "text": "15",
+          "text": "Functional programming",
+          "isCorrect": false
+        },
+        {
+          "text": "Object-oriented programming",
           "isCorrect": true
         },
         {
-          "text": "20",
-          "isCorrect": false
-        },
-        {
-          "text": "25",
+          "text": "Declarative programming",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "What cognitive skill does coding primarily relate to?",
-      "explanation": "Coding tasks are closely related to areas like attention, memory, and problem-solving, but primarily it relates to processing speed.",
+      "text": "What is 'conditional logic' in programming?",
+      "explanation": "Conditional logic allows the program to make decisions based on certain conditions being true or false, using structures like 'if', 'else if', and 'else'.",
       "options": [
         {
-          "text": "Attention",
+          "text": "Creating loops",
           "isCorrect": false
         },
         {
-          "text": "Memory retention",
+          "text": "Performing calculations",
           "isCorrect": false
         },
         {
-          "text": "Processing speed",
+          "text": "Making decisions based on conditions",
           "isCorrect": true
         },
         {
-          "text": "Analytical thinking",
+          "text": "Displaying output",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If you are given the pattern – Square, Circle, Circle, Triangle, what is the total value using the coding from earlier?",
-      "explanation": "The value would be 1(Square) + 2(Circle) + 2(Circle) + 3(Triangle) = 1 + 2 + 2 + 3 = 8.",
+      "text": "Which of the following is NOT a valid variable name in most programming languages?",
+      "explanation": "Variable names must adhere to specific rules, which usually include starting with a letter or underscore and containing no spaces or special characters, excluding underscore.",
       "options": [
         {
-          "text": "6",
+          "text": "_variable1",
           "isCorrect": false
         },
         {
-          "text": "7",
+          "text": "$variable",
           "isCorrect": false
         },
         {
-          "text": "8",
+          "text": "1variable",
           "isCorrect": true
         },
         {
-          "text": "10",
+          "text": "variableName",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "How does coding in assessments predict future academic performance?",
-      "explanation": "It correlates to overall IQ and reflects cognitive abilities important for learning and information processing, indicating a tendency to succeed academically.",
+      "text": "In programming, what does the term 'API' mean?",
+      "explanation": "API stands for Application Programming Interface. It is a set of rules and protocols for building software applications, allowing different programs to communicate with each other.",
       "options": [
         {
-          "text": "By testing only memory",
+          "text": "A tool for data encryption",
           "isCorrect": false
         },
         {
-          "text": "By assessing speed and accuracy",
+          "text": "A graphical user interface",
+          "isCorrect": false
+        },
+        {
+          "text": "A set of rules for software interaction",
           "isCorrect": true
         },
         {
-          "text": "By focusing only on problem-solving",
-          "isCorrect": false
-        },
-        {
-          "text": "By ignoring cognitive abilities",
+          "text": "An integrated development environment",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "In a decoding exercise where numbers correlate with colors (Red=1, Blue=2, Green=3), what is the numeric value of Blue, Red, Green?",
-      "explanation": "The answer is 2 (Blue) + 1 (Red) + 3 (Green) = 6.",
+      "text": "Which data type would you use to represent a true/false value?",
+      "explanation": "In programming, a boolean data type is used to represent true or false values, facilitating conditional logic in decision-making within the program.",
       "options": [
         {
-          "text": "5",
+          "text": "Integer",
           "isCorrect": false
         },
         {
-          "text": "6",
+          "text": "String",
+          "isCorrect": false
+        },
+        {
+          "text": "Boolean",
           "isCorrect": true
         },
         {
-          "text": "4",
-          "isCorrect": false
-        },
-        {
-          "text": "7",
+          "text": "Float",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If the task requires to list three coding systems, which would be an example?",
-      "explanation": "Some examples could include number-to-letter association, symbol-to-number association, and color coding systems, each demonstrating a different way to interpret data.",
+      "text": "In which programming construct would you typically use a 'break' statement?",
+      "explanation": "A 'break' statement is commonly used within loops to exit the loop prematurely when a certain condition is met, as in 'for', 'while', or 'switch' statements.",
       "options": [
         {
-          "text": "Letter pairings only",
+          "text": "To declare a function",
           "isCorrect": false
         },
         {
-          "text": "Number comparisons only",
-          "isCorrect": false
-        },
-        {
-          "text": "Various associations such as numbers, colors, and letters",
+          "text": "To break out of a loop",
           "isCorrect": true
         },
         {
-          "text": "Only colors",
+          "text": "To define a variable",
+          "isCorrect": false
+        },
+        {
+          "text": "To comment code",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "Why is it vital to include coding tasks in cognitive assessments?",
-      "explanation": "It's important as it evaluates a range of cognitive functions and not just one skill, providing a holistic view of cognitive ability.",
+      "text": "Which of the following is the correct way to declare a function in JavaScript?",
+      "explanation": "In JavaScript, a function can be declared using the 'function' keyword followed by the function name and parentheses. The correct syntax is 'function functionName() {}'.",
       "options": [
         {
-          "text": "To focus only on memory skills",
-          "isCorrect": false
-        },
-        {
-          "text": "It limits the functions assessed",
-          "isCorrect": false
-        },
-        {
-          "text": "It evaluates various cognitive skills potentially predictive of success",
+          "text": "function functionName() {}",
           "isCorrect": true
         },
         {
-          "text": "Only for fun activities",
+          "text": "declare function functionName()",
+          "isCorrect": false
+        },
+        {
+          "text": "functionName() = function {}",
+          "isCorrect": false
+        },
+        {
+          "text": "function: functionName()[]",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "How can coding tasks improve one's cognitive skills?",
-      "explanation": "By engaging consistently in coding tasks, individuals enhance their processing speed, problem-solving skills, and memory retention abilities.",
+      "text": "Which of these keywords is used to create a variable in Python with a float value?",
+      "explanation": "In Python, you assign a value to a variable using the '=' operator. The variable can hold a float value by simply including the decimal point in the assigned number (e.g., 'x = 5.0').",
       "options": [
         {
-          "text": "By avoiding practice",
+          "text": "decimal x = 5.0",
           "isCorrect": false
         },
         {
-          "text": "Through consistent engagement and challenges",
+          "text": "float x = 5.0",
+          "isCorrect": false
+        },
+        {
+          "text": "x = 5.0",
           "isCorrect": true
         },
         {
-          "text": "Only through theoretical study",
-          "isCorrect": false
-        },
-        {
-          "text": "By practicing only visual tasks",
+          "text": "var x = 5.0",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "What common industry might rely heavily on coding skills?",
-      "explanation": "Industries like data entry, programming, and engineering depend on quick and accurate coding skills to manage large amounts of complex data.",
+      "text": "What will be the output of the following code snippet: bool result = (5 > 3) ? true : false; ?",
+      "explanation": "This code snippet uses a ternary operator to evaluate whether 5 is greater than 3, which is true. Hence, 'result' will have the value 'true'.",
       "options": [
         {
-          "text": "Only entertainment industry",
+          "text": "false",
           "isCorrect": false
         },
         {
-          "text": "Healthcare only",
+          "text": "undefined",
           "isCorrect": false
         },
         {
-          "text": "Data analysis and technology",
+          "text": "true",
           "isCorrect": true
         },
         {
-          "text": "Agriculture only",
+          "text": "error",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "In terms of cognitive assessments, what is the primary outcome of mastering coding tasks?",
-      "explanation": "The primary outcome is an enhancement in overall cognitive agility and improved academic and professional performance, reflecting a person's capability to process information effectively.",
+      "text": "What does 'encapsulation' refer to in object-oriented programming?",
+      "explanation": "Encapsulation is the practice of bundling data and methods that operate on that data within a single unit or class, restricting direct access to some of the object's components, which is essential for data hiding.",
       "options": [
         {
-          "text": "Only improved memory",
+          "text": "The process of creating new classes",
           "isCorrect": false
         },
         {
-          "text": "No tangible outcomes",
-          "isCorrect": false
-        },
-        {
-          "text": "Enhanced cognitive agility and problem-solving abilities",
+          "text": "Enforcing access restrictions to protect data",
           "isCorrect": true
         },
         {
-          "text": "Increased physical capacity",
+          "text": "Creating functions to execute code",
+          "isCorrect": false
+        },
+        {
+          "text": "Merging multiple files into one",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "What would be an example of a simple coding system?",
-      "explanation": "A simple coding system may involve replacing letters with numbers, such that A=1, B=2, C=3, showing an obvious relation between them.",
+      "text": "Which command is used to compile Java code from the command line?",
+      "explanation": "To compile Java code from the command line, the 'javac' command is used followed by the name of the Java file to be compiled.",
       "options": [
         {
-          "text": "Only grammatical rules",
+          "text": "java",
           "isCorrect": false
         },
         {
-          "text": "A numerical substitution system like letters=1-26",
+          "text": "javac",
           "isCorrect": true
         },
         {
-          "text": "Complex mathematical functions",
+          "text": "compile",
           "isCorrect": false
         },
         {
-          "text": "Random associations",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "If coding systems use symbols like @$%^&, what skill is primarily tested?",
-      "explanation": "Such tasks test the ability to recognize and categorize complex symbols or characters quickly, enhancing problem-solving capabilities and pattern recognition.",
-      "options": [
-        {
-          "text": "Simple memorization only",
-          "isCorrect": false
-        },
-        {
-          "text": "Pattern recognition and categorization skills",
-          "isCorrect": true
-        },
-        {
-          "text": "Physical dexterity",
-          "isCorrect": false
-        },
-        {
-          "text": "No cognitive skills",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "A child earns 3 points for a correct answer and loses 1 for each mistake in a coding game. If they answer 10 questions, 7 correct and 3 incorrect, what is their score?",
-      "explanation": "Score = (3 points * 7 correct) - (1 point * 3 incorrect) = 21 - 3 = 18 points.",
-      "options": [
-        {
-          "text": "15",
-          "isCorrect": false
-        },
-        {
-          "text": "17",
-          "isCorrect": false
-        },
-        {
-          "text": "18",
-          "isCorrect": true
-        },
-        {
-          "text": "20",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "If a sequence of shapes coded as Circle=2, Square=1, and Triangle=3 is repeated three times, what is the total of if 1 Circle, 2 Squares, and 2 Triangles appear each time?",
-      "explanation": "Total = 3 * [1(Circle) + 2(Square) + 2( Triangle)]=3* [2 + 2 + 6] = 3 * 10 = 30.",
-      "options": [
-        {
-          "text": "25",
-          "isCorrect": false
-        },
-        {
-          "text": "30",
-          "isCorrect": true
-        },
-        {
-          "text": "20",
-          "isCorrect": false
-        },
-        {
-          "text": "35",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "If a school uses letters to denote subjects as Math=A, History=B, and Science=C, what would the coding of the acronym for \"Math and Science\" yield?",
-      "explanation": "Math = A, Science = C, therefore \"Math and Science\" translates to AC.",
-      "options": [
-        {
-          "text": "A",
-          "isCorrect": false
-        },
-        {
-          "text": "AB",
-          "isCorrect": false
-        },
-        {
-          "text": "AC",
-          "isCorrect": true
-        },
-        {
-          "text": "BC",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "Why do cognitive assessments include visual coding tasks?",
-      "explanation": "Visual coding tasks test the ability to process and interpret visual information efficiently, an important skill for many learning and real-world tasks.",
-      "options": [
-        {
-          "text": "For entertainment purposes",
-          "isCorrect": false
-        },
-        {
-          "text": "To reduce cognitive load",
-          "isCorrect": false
-        },
-        {
-          "text": "To assess visual interpretation skills",
-          "isCorrect": true
-        },
-        {
-          "text": "Only for art-related tasks",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "If a student must convert letters to numbers where P=16, Q=17, R=18, what would be the sum of the values for \"PQ\"?",
-      "explanation": "PQ translates to P=16, Q=17; thus 16 + 17 = 33.",
-      "options": [
-        {
-          "text": "32",
-          "isCorrect": false
-        },
-        {
-          "text": "33",
-          "isCorrect": true
-        },
-        {
-          "text": "31",
-          "isCorrect": false
-        },
-        {
-          "text": "34",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "To increase efficiency, why should one practice coding tasks regularly?",
-      "explanation": "Regular practice enhances speed and accuracy in processing information, which is vital for many academic and professional tasks.",
-      "options": [
-        {
-          "text": "To maintain confusion",
-          "isCorrect": false
-        },
-        {
-          "text": "It does not matter",
-          "isCorrect": false
-        },
-        {
-          "text": "To improve speed and accuracy",
-          "isCorrect": true
-        },
-        {
-          "text": "To learn only theoretical aspects",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "What critical skill does coding enhance that is beneficial across all professions?",
-      "explanation": "Coding enhances analytical thinking, which is crucial in diverse career paths from technical jobs to leadership roles that require strategic thinking.",
-      "options": [
-        {
-          "text": "Only different task management",
-          "isCorrect": false
-        },
-        {
-          "text": "Memory performance",
-          "isCorrect": false
-        },
-        {
-          "text": "Analytical thinking",
-          "isCorrect": true
-        },
-        {
-          "text": "Creative abilities",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "If you encounter a coding task that requires matching numbers to objects, what skill is primarily tested?",
-      "explanation": "This tests the ability to recognize and accurately associate different entities reflecting comprehension and organizational skills.",
-      "options": [
-        {
-          "text": "Pure memory retention",
-          "isCorrect": false
-        },
-        {
-          "text": "Identification and organization skills",
-          "isCorrect": true
-        },
-        {
-          "text": "Random guesses",
-          "isCorrect": false
-        },
-        {
-          "text": "Simple counting only",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "What outcome is most likely from repeatedly practicing coding tasks?",
-      "explanation": "Repetitive practice leads to increased fluency in translating between different forms of information, enhancing overall cognitive processing.",
-      "options": [
-        {
-          "text": "No benefits whatsoever",
-          "isCorrect": false
-        },
-        {
-          "text": "Increased fluency in cognitive tasks",
-          "isCorrect": true
-        },
-        {
-          "text": "Only higher scores in tests",
-          "isCorrect": false
-        },
-        {
-          "text": "Learn nothing new",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "In the context of cognitive assessment, what does flexibility in coding signify?",
-      "explanation": "Flexibility signifies the ability to switch between different types of tasks and coding systems easily, an indicator of strong cognitive agility.",
-      "options": [
-        {
-          "text": "Stagnant cognitive abilities",
-          "isCorrect": false
-        },
-        {
-          "text": "Difficulty with changes",
-          "isCorrect": false
-        },
-        {
-          "text": "Ability to adapt to various coding systems",
-          "isCorrect": true
-        },
-        {
-          "text": "Restriction in skills",
+          "text": "run",
           "isCorrect": false
         }
       ]

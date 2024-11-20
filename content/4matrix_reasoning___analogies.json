@@ -1,226 +1,885 @@
 {
-    "topic": "Matrix Reasoning - Analogies",
-    "content": "### Concept Explanation: Matrix Reasoning - Analogies\n\nMatrix reasoning is a key component of cognitive assessments that evaluates an individual’s ability to think logically and solve problems through visual patterns and analogies. In particular, analogies play a crucial role in this type of reasoning, as they require the identification of relationships between pairs of items and the ability to translate or apply these relationships to new items.\n\nAt its core, matrix reasoning consists of visual puzzles often presented in the form of matrices—grids or arrays containing a series of shapes, numbers, or symbols. In these matrices, one must discern how the elements relate to each other based on certain patterns, rules, or analogies. For example, if one pair of shapes shares a particular characteristic, the task may require identifying a shape that shares that same characteristic with a different pair.  \n\nThe significance of analogies in cognitive assessments cannot be overstated, as they measure critical cognitive skills such as abstract reasoning, pattern recognition, and problem-solving abilities. These skills are vital not only in academic settings but also in real-life situations where logical thinking and decision-making are required. An excellent grasp of analogies allows individuals to strengthen their abilities in mathematics, science, and language arts, as well as enhance their overall cognitive flexibility.  \n\nFor example, consider a scenario in which a student is presented with the analogy of an apple to a tree. The relationship here is that an apple grows on a tree. Given this relationship, if we are to identify a corresponding analogy with a different pair—let's say 'fish' to 'water'—we find that just like the apple requires a tree for growth, fish require water for survival. By understanding these relationships, students can apply the same logical framework to new problems, thereby improving their reasoning skills.  \n\nMoreover, matrix reasoning with analogies can be applied in various real-world contexts. For instance, in the field of artificial intelligence, algorithms rely heavily on analogical reasoning to make predictions or classify information based on prior experiences or known relationships. In educational assessments, a strong performance in matrix reasoning can indicate potential for advanced learning and problem-solving abilities. \n\nThrough practice with matrix reasoning, particularly with analogies, students learn to find connections in seemingly disparate pieces of information, enhancing their analytical skills and cognitive processing abilities.  \n\nIn conclusion, mastering matrix reasoning and analogies is not just about passing cognitive assessments; it is about cultivating a mindset that seeks connections, recognizes patterns, and approaches problems logically. As students engage with these challenges, they develop a toolkit of skills that will serve them well throughout their education and beyond.  \n\n---\n\n### Multiple-Choice Questions (MCQs) \n\n```json\n{\n  \"questions\": [\n    {\n      \"text\": \"1. If a bee is to a hive, then a spider is to what?\",\n      \"explanation\": \"A bee produces honey in a hive, similarly, a spider spins a web. Thus, the answer is web.\",\n      \"options\": [\n        { \"text\": \"A) Nest\", \"isCorrect\": false },\n        { \"text\": \"B) Web\", \"isCorrect\": true },\n        { \"text\": \"C) Den\", \"isCorrect\": false },\n        { \"text\": \"D) Pond\", \"isCorrect\": false }\n      ]\n    },\n    {\n      \"text\": \"2. Foot is to shoe as hand is to what?\",\n      \"explanation\": \"A shoe is worn on a foot, just as gloves are worn on hands. Therefore the answer is gloves.\",\n      \"options\": [\n        { \"text\": \"A) Glove\", \"isCorrect\": false },\n        { \"text\": \"B) Ring\", \"isCorrect\": false },\n        { \"text\": \"C) Glove\", \"isCorrect\": true },\n        { \"text\": \"D) Watch\", \"isCorrect\": false }\n      ]\n    },\n    {\n      \"text\": \"3. Car is to road as boat is to what?\",\n      \"explanation\": \"Cars travel on roads, just as boats travel on water. Hence the answer is water.\",\n      \"options\": [\n        { \"text\": \"A) Dock\", \"isCorrect\": false },\n        { \"text\": \"B) Water\", \"isCorrect\": true },\n        { \"text\": \"C) Land\", \"isCorrect\": false },\n        { \"text\": \"D) Harbor\", \"isCorrect\": false }\n      ]\n    },\n    {\n      \"text\": \"4. Finger is to hand as toe is to what?\",\n      \"explanation\": \"Fingers are parts of a hand, and similarly, toes are parts of a foot. Thus, the answer is foot.\",\n      \"options\": [\n        { \"text\": \"A) Leg\", \"isCorrect\": false },\n        { \"text\": \"B) Foot\", \"isCorrect\": true },\n        { \"text\": \"C) Ankle\", \"isCorrect\": false },\n        { \"text\": \"D) Knee\", \"isCorrect\": false }\n      ]\n    },\n    {\n      \"text\": \"5. Sword is to knight as pen is to what?\",\n      \"explanation\": \"A sword is a weapon for a knight, just as a pen is a tool for a writer. The answer is writer.\",\n      \"options\": [\n        { \"text\": \"A) Artist\", \"isCorrect\": false },\n        { \"text\": \"B) Journalist\", \"isCorrect\": false },\n        { \"text\": \"C) Author\", \"isCorrect\": false },\n        { \"text\": \"D) Writer\", \"isCorrect\": true }\n      ]\n    },\n    {\n      \"text\": \"6. Bird is to flock as fish is to what?\",\n      \"explanation\": \"Birds gather in flocks, similar to how fish gather in schools. So, the answer is school.\",\n      \"options\": [\n        { \"text\": \"A) Pond\", \"isCorrect\": false },\n        { \"text\": \"B) School\", \"isCorrect\": true },\n        { \"text\": \"C) School yard\", \"isCorrect\": false },\n        { \"text\": \"D) Aquarium\", \"isCorrect\": false }\n      ]\n    },\n    {\n      \"text\": \"7. Seed is to tree as egg is to what?\",\n      \"explanation\": \"A seed grows into a tree, similarly, an egg hatches into a chick. Thus, the answer is chick.\",\n      \"options\": [\n        { \"text\": \"A) Fish\", \"isCorrect\": false },\n        { \"text\": \"B) Chick\", \"isCorrect\": true },\n        { \"text\": \"C) Hen\", \"isCorrect\": false },\n        { \"text\": \"D) Duck\", \"isCorrect\": false }\n      ]\n    },\n    {\n      \"text\": \"8. Circle is to round as square is to what?\",\n      \"explanation\": \"Circle is defined as round, while a square is defined as having four equal sides. The relevant geometric term is \"quadrilateral\". Thus the answer is quadrilateral.\",\n      \"options\": [\n        { \"text\": \"A) Rectangular\", \"isCorrect\": false },\n        { \"text\": \"B) Quadrilateral\", \"isCorrect\": true },\n        { \"text\": \"C) Triangular\", \"isCorrect\": false },\n        { \"text\": \"D) Parallelogram\", \"isCorrect\": false }\n      ]\n    },\n    {\n      \"text\": \"9. Water is to river as sand is to what?\",\n      \"explanation\": \"Water flows in a river, while sand is found in a desert. Thus the answer is desert.\",\n      \"options\": [\n        { \"text\": \"A) Sandpit\", \"isCorrect\": false },\n        { \"text\": \"B) Beach\", \"isCorrect\": false },\n        { \"text\": \"C) Desert\", \"isCorrect\": true },\n        { \"text\": \"D) Garden\", \"isCorrect\": false }\n      ]\n    },\n    {\n      \"text\": \"10. Teacher is to school as doctor is to what?\",\n      \"explanation\": \"A teacher works at a school, while a doctor works at a hospital or clinic. Thus the answer is hospital.\",\n      \"options\": [\n        { \"text\": \"A) School\", \"isCorrect\": false },\n        { \"text\": \"B) Clinic\", \"isCorrect\": false },\n        { \"text\": \"C) Hospital\", \"isCorrect\": true },\n        { \"text\": \"D) Pharmacy\", \"isCorrect\": false }\n      ]\n    }\n    // Additional questions up to 40...\n    \n  ]\n}\n```  \n\n(Note: This is just a partial example for the first 10 questions. The response can follow this pattern for all 40 questions described, adapting the content and ensuring each question is tailored to be challenging while providing educational context. The detailed explanations for each answer can help students understand the reasoning behind each correct choice.) \n\n---",
-    "questions": [
+  "topic": "Matrix Reasoning - Analogies",
+  "questions": [
+    {
+      "text": "1. If the relationship between a cat and a kitten is similar to that of a dog and a __________.",
+      "explanation": "In this analogy, a cat is to its young one (kitten) as a dog is to its young one. The correct answer is 'puppy', as they both represent the young form of the respective animals.",
+      "options": [
         {
-            "text": "1. If a bee is to a hive, then a spider is to what?",
-            "explanation": "A bee produces honey in a hive, similarly, a spider spins a web. Thus, the answer is web.",
-            "options": [
-                {
-                    "text": "A) Nest",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Web",
-                    "isCorrect": true
-                },
-                {
-                    "text": "C) Den",
-                    "isCorrect": false
-                },
-                {
-                    "text": "D) Pond",
-                    "isCorrect": false
-                }
-            ]
+          "text": "Puppy",
+          "isCorrect": true
         },
         {
-            "text": "2. Foot is to shoe as hand is to what?",
-            "explanation": "A shoe is worn on a foot, just as gloves are worn on hands. Therefore the answer is gloves.",
-            "options": [
-                {
-                    "text": "A) Glove",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Ring",
-                    "isCorrect": false
-                },
-                {
-                    "text": "C) Glove",
-                    "isCorrect": true
-                },
-                {
-                    "text": "D) Watch",
-                    "isCorrect": false
-                }
-            ]
+          "text": "Cub",
+          "isCorrect": false
         },
         {
-            "text": "3. Car is to road as boat is to what?",
-            "explanation": "Cars travel on roads, just as boats travel on water. Hence the answer is water.",
-            "options": [
-                {
-                    "text": "A) Dock",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Water",
-                    "isCorrect": true
-                },
-                {
-                    "text": "C) Land",
-                    "isCorrect": false
-                },
-                {
-                    "text": "D) Harbor",
-                    "isCorrect": false
-                }
-            ]
+          "text": "Foal",
+          "isCorrect": false
         },
         {
-            "text": "4. Finger is to hand as toe is to what?",
-            "explanation": "Fingers are parts of a hand, and similarly, toes are parts of a foot. Thus, the answer is foot.",
-            "options": [
-                {
-                    "text": "A) Leg",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Foot",
-                    "isCorrect": true
-                },
-                {
-                    "text": "C) Ankle",
-                    "isCorrect": false
-                },
-                {
-                    "text": "D) Knee",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "text": "5. Sword is to knight as pen is to what?",
-            "explanation": "A sword is a weapon for a knight, just as a pen is a tool for a writer. The answer is writer.",
-            "options": [
-                {
-                    "text": "A) Artist",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Journalist",
-                    "isCorrect": false
-                },
-                {
-                    "text": "C) Author",
-                    "isCorrect": false
-                },
-                {
-                    "text": "D) Writer",
-                    "isCorrect": true
-                }
-            ]
-        },
-        {
-            "text": "6. Bird is to flock as fish is to what?",
-            "explanation": "Birds gather in flocks, similar to how fish gather in schools. So, the answer is school.",
-            "options": [
-                {
-                    "text": "A) Pond",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) School",
-                    "isCorrect": true
-                },
-                {
-                    "text": "C) School yard",
-                    "isCorrect": false
-                },
-                {
-                    "text": "D) Aquarium",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "text": "7. Seed is to tree as egg is to what?",
-            "explanation": "A seed grows into a tree, similarly, an egg hatches into a chick. Thus, the answer is chick.",
-            "options": [
-                {
-                    "text": "A) Fish",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Chick",
-                    "isCorrect": true
-                },
-                {
-                    "text": "C) Hen",
-                    "isCorrect": false
-                },
-                {
-                    "text": "D) Duck",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "text": "8. Circle is to round as square is to what?",
-            "explanation": "Circle is defined as round, while a square is defined as having four equal sides. The relevant geometric term is \"quadrilateral\". Thus the answer is quadrilateral.",
-            "options": [
-                {
-                    "text": "A) Rectangular",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Quadrilateral",
-                    "isCorrect": true
-                },
-                {
-                    "text": "C) Triangular",
-                    "isCorrect": false
-                },
-                {
-                    "text": "D) Parallelogram",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "text": "9. Water is to river as sand is to what?",
-            "explanation": "Water flows in a river, while sand is found in a desert. Thus the answer is desert.",
-            "options": [
-                {
-                    "text": "A) Sandpit",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Beach",
-                    "isCorrect": false
-                },
-                {
-                    "text": "C) Desert",
-                    "isCorrect": true
-                },
-                {
-                    "text": "D) Garden",
-                    "isCorrect": false
-                }
-            ]
-        },
-        {
-            "text": "10. Teacher is to school as doctor is to what?",
-            "explanation": "A teacher works at a school, while a doctor works at a hospital or clinic. Thus the answer is hospital.",
-            "options": [
-                {
-                    "text": "A) School",
-                    "isCorrect": false
-                },
-                {
-                    "text": "B) Clinic",
-                    "isCorrect": false
-                },
-                {
-                    "text": "C) Hospital",
-                    "isCorrect": true
-                },
-                {
-                    "text": "D) Pharmacy",
-                    "isCorrect": false
-                }
-            ]
+          "text": "Calf",
+          "isCorrect": false
         }
-    ]
+      ]
+    },
+    {
+      "text": "2. A tree is to a leaf as a flower is to a __________.",
+      "explanation": "A leaf is a part of a tree, just as a petal is part of a flower. Thus, 'petal' is the correct choice.",
+      "options": [
+        {
+          "text": "Petal",
+          "isCorrect": true
+        },
+        {
+          "text": "Root",
+          "isCorrect": false
+        },
+        {
+          "text": "Stem",
+          "isCorrect": false
+        },
+        {
+          "text": "Seed",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "3. If a bird is to a nest, then a fish is to a __________.",
+      "explanation": "Birds build nests to lay eggs, while fish use coral reefs or sandy floors to lay theirs, but the specific term that represents a fish's habitat is 'spawn'. Thus, 'spawn' is the relevant relationship here.",
+      "options": [
+        {
+          "text": "Spawn",
+          "isCorrect": true
+        },
+        {
+          "text": "Tank",
+          "isCorrect": false
+        },
+        {
+          "text": "Bed",
+          "isCorrect": false
+        },
+        {
+          "text": "Nest",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "4. If a wheel is to a car, then a blade is to a __________.",
+      "explanation": "A wheel is a component of a car necessary for it to function, much like a blade is necessary for a 'knife'. The answer is 'knife'.",
+      "options": [
+        {
+          "text": "Knife",
+          "isCorrect": true
+        },
+        {
+          "text": "Scissors",
+          "isCorrect": false
+        },
+        {
+          "text": "Screwdriver",
+          "isCorrect": false
+        },
+        {
+          "text": "Axe",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "5. If a book is to a page, then a car is to a __________.",
+      "explanation": "A page is a part of a book, analogous to how a tire is part of a car. Thus, the correct answer is 'tire'.",
+      "options": [
+        {
+          "text": "Tire",
+          "isCorrect": true
+        },
+        {
+          "text": "Seat",
+          "isCorrect": false
+        },
+        {
+          "text": "Engine",
+          "isCorrect": false
+        },
+        {
+          "text": "Window",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "6. A musician is to an instrument as a painter is to __________.",
+      "explanation": "A musician uses an instrument to create music, just as a painter uses a brush to create art. The correct answer is 'brush'.",
+      "options": [
+        {
+          "text": "Brush",
+          "isCorrect": true
+        },
+        {
+          "text": "Palette",
+          "isCorrect": false
+        },
+        {
+          "text": "Canvas",
+          "isCorrect": false
+        },
+        {
+          "text": "Paint",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "7. If a teacher is to a classroom, then a chef is to a __________.",
+      "explanation": "A teacher works in a classroom, similar to how a chef works in a kitchen. So, the answer is 'kitchen'.",
+      "options": [
+        {
+          "text": "Kitchen",
+          "isCorrect": true
+        },
+        {
+          "text": "Restaurant",
+          "isCorrect": false
+        },
+        {
+          "text": "Diner",
+          "isCorrect": false
+        },
+        {
+          "text": "Bakery",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "8. If water is to a fish, then air is to a __________.",
+      "explanation": "Water is the medium in which fish live, similar to how air is the medium in which birds live. The answer is 'bird'.",
+      "options": [
+        {
+          "text": "Bird",
+          "isCorrect": true
+        },
+        {
+          "text": "Bat",
+          "isCorrect": false
+        },
+        {
+          "text": "Sky",
+          "isCorrect": false
+        },
+        {
+          "text": "Airplane",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "9. If a spider is to a web, then a beaver is to a __________.",
+      "explanation": "A spider creates a web, much like a beaver constructs a dam to create a habitat. Thus, the answer is 'dam'.",
+      "options": [
+        {
+          "text": "Dam",
+          "isCorrect": true
+        },
+        {
+          "text": "Lodge",
+          "isCorrect": false
+        },
+        {
+          "text": "Home",
+          "isCorrect": false
+        },
+        {
+          "text": "Burrow",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "10. A clock is to time as a thermometer is to __________.",
+      "explanation": "A clock measures time, while a thermometer measures temperature. The answer is 'temperature'.",
+      "options": [
+        {
+          "text": "Temperature",
+          "isCorrect": true
+        },
+        {
+          "text": "Weather",
+          "isCorrect": false
+        },
+        {
+          "text": "Place",
+          "isCorrect": false
+        },
+        {
+          "text": "Heat",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "11. If a pen is to ink, then a brush is to __________.",
+      "explanation": "A pen uses ink to write, and a brush uses paint to create images. Thus, 'paint' is the appropriate answer.",
+      "options": [
+        {
+          "text": "Paint",
+          "isCorrect": true
+        },
+        {
+          "text": "Canvas",
+          "isCorrect": false
+        },
+        {
+          "text": "Palette",
+          "isCorrect": false
+        },
+        {
+          "text": "Water",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "12. A horse is to a gallop as a dog is to a __________.",
+      "explanation": "A horse moves at a gallop; likewise, a dog moves at a trot. Hence, 'trot' is the correct choice.",
+      "options": [
+        {
+          "text": "Trot",
+          "isCorrect": true
+        },
+        {
+          "text": "Run",
+          "isCorrect": false
+        },
+        {
+          "text": "Sprint",
+          "isCorrect": false
+        },
+        {
+          "text": "Walk",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "13. If a doctor is to a patient, then a lawyer is to a __________.",
+      "explanation": "A doctor treats patients while a lawyer represents clients. Therefore, 'client' is the answer.",
+      "options": [
+        {
+          "text": "Client",
+          "isCorrect": true
+        },
+        {
+          "text": "Defendant",
+          "isCorrect": false
+        },
+        {
+          "text": "Suspect",
+          "isCorrect": false
+        },
+        {
+          "text": "Plaintiff",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "14. If daylight is to sun, then moonlight is to __________.",
+      "explanation": "Daylight comes from the sun; similarly, moonlight comes from the moon. Thus, ‘moon’ is the right answer.",
+      "options": [
+        {
+          "text": "Moon",
+          "isCorrect": true
+        },
+        {
+          "text": "Sky",
+          "isCorrect": false
+        },
+        {
+          "text": "Night",
+          "isCorrect": false
+        },
+        {
+          "text": "Star",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "15. A computer is to software as a car is to __________.",
+      "explanation": "A computer requires software to operate, just as a car requires fuel. Here, 'fuel' is the proper relationship.",
+      "options": [
+        {
+          "text": "Fuel",
+          "isCorrect": true
+        },
+        {
+          "text": "Oil",
+          "isCorrect": false
+        },
+        {
+          "text": "Driver",
+          "isCorrect": false
+        },
+        {
+          "text": "Road",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "16. If a conductor is to an orchestra, then a director is to a __________.",
+      "explanation": "A conductor leads an orchestra, just like a director leads a film crew. Therefore, 'film crew' is the answer.",
+      "options": [
+        {
+          "text": "Film crew",
+          "isCorrect": true
+        },
+        {
+          "text": "Project",
+          "isCorrect": false
+        },
+        {
+          "text": "Production",
+          "isCorrect": false
+        },
+        {
+          "text": "Team",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "17. A key is to a lock as a password is to __________.",
+      "explanation": "A key unlocks a lock, and a password unlocks access to a secured system. Thus, 'secured system' is apt here.",
+      "options": [
+        {
+          "text": "Secured system",
+          "isCorrect": true
+        },
+        {
+          "text": "Website",
+          "isCorrect": false
+        },
+        {
+          "text": "Computer",
+          "isCorrect": false
+        },
+        {
+          "text": "Account",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "18. If a chef is to a kitchen, then a scientist is to a __________.",
+      "explanation": "A chef works in a kitchen, while a scientist works in a laboratory. The answer is 'laboratory'.",
+      "options": [
+        {
+          "text": "Laboratory",
+          "isCorrect": true
+        },
+        {
+          "text": "School",
+          "isCorrect": false
+        },
+        {
+          "text": "Field",
+          "isCorrect": false
+        },
+        {
+          "text": "Clinic",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "19. If a drum is to a musician, then a canvas is to a __________.",
+      "explanation": "A drum is played by a musician, similar to how a canvas is painted on by an artist. Thus, the answer is 'artist'.",
+      "options": [
+        {
+          "text": "Artist",
+          "isCorrect": true
+        },
+        {
+          "text": "Painter",
+          "isCorrect": false
+        },
+        {
+          "text": "Designer",
+          "isCorrect": false
+        },
+        {
+          "text": "Illustrator",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "20. A flower is to a bee as fruit is to a __________.",
+      "explanation": "Bees collect nectar from flowers, while birds or insects may collect seeds from fruit. Therefore, 'bird' is the answer.",
+      "options": [
+        {
+          "text": "Bird",
+          "isCorrect": true
+        },
+        {
+          "text": "Squirrel",
+          "isCorrect": false
+        },
+        {
+          "text": "Worm",
+          "isCorrect": false
+        },
+        {
+          "text": "Mammal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "21. If an athlete is to a team, then a soldier is to a __________.",
+      "explanation": "An athlete belongs to a sports team, similar to how a soldier belongs to a military unit. 'Military unit' is the answer.",
+      "options": [
+        {
+          "text": "Military unit",
+          "isCorrect": true
+        },
+        {
+          "text": "Battalion",
+          "isCorrect": false
+        },
+        {
+          "text": "Squad",
+          "isCorrect": false
+        },
+        {
+          "text": "Troop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "22. If a shark is to water, then a lion is to __________.",
+      "explanation": "Just as a shark lives in water, a lion lives in a 'savanna'. So, the answer is 'savanna'.",
+      "options": [
+        {
+          "text": "Savanna",
+          "isCorrect": true
+        },
+        {
+          "text": "Jungle",
+          "isCorrect": false
+        },
+        {
+          "text": "Forest",
+          "isCorrect": false
+        },
+        {
+          "text": "Desert",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "23. If a film is to a screen, then a painting is to a __________.",
+      "explanation": "A film is shown on a screen, similar to a painting being displayed on a canvas. 'Canvas' is the answer.",
+      "options": [
+        {
+          "text": "Canvas",
+          "isCorrect": true
+        },
+        {
+          "text": "Wall",
+          "isCorrect": false
+        },
+        {
+          "text": "Frame",
+          "isCorrect": false
+        },
+        {
+          "text": "Palette",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "24. If a rower is to a boat, then a driver is to a __________.",
+      "explanation": "A rower operates a boat, while a driver operates a vehicle or car. Thus, the correct choice is 'car'.",
+      "options": [
+        {
+          "text": "Car",
+          "isCorrect": true
+        },
+        {
+          "text": "Engine",
+          "isCorrect": false
+        },
+        {
+          "text": "Road",
+          "isCorrect": false
+        },
+        {
+          "text": "Track",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "25. A bird is to nest as a rabbit is to a __________.",
+      "explanation": "A bird builds a nest, while a rabbit digs a burrow. So, the answer is 'burrow'.",
+      "options": [
+        {
+          "text": "Burrow",
+          "isCorrect": true
+        },
+        {
+          "text": "Hutch",
+          "isCorrect": false
+        },
+        {
+          "text": "Den",
+          "isCorrect": false
+        },
+        {
+          "text": "Warren",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "26. If a plant is to photosynthesis, then an animal is to __________.",
+      "explanation": "A plant undergoes photosynthesis, while an animal undergoes respiration. Hence, 'respiration' is the correct answer.",
+      "options": [
+        {
+          "text": "Respiration",
+          "isCorrect": true
+        },
+        {
+          "text": "Digestion",
+          "isCorrect": false
+        },
+        {
+          "text": "Metabolism",
+          "isCorrect": false
+        },
+        {
+          "text": "Circulation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "27. A suitcase is to travel as a toolbox is to __________.",
+      "explanation": "A suitcase carries items for travel, akin to how a toolbox carries tools for work. The answer is 'work'.",
+      "options": [
+        {
+          "text": "Work",
+          "isCorrect": true
+        },
+        {
+          "text": "Repair",
+          "isCorrect": false
+        },
+        {
+          "text": "Construction",
+          "isCorrect": false
+        },
+        {
+          "text": "Maintenance",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "28. If a scientist is to an experiment, then a painter is to a __________.",
+      "explanation": "A scientist conducts an experiment, and a painter creates an artwork. Therefore, the answer is 'artwork'.",
+      "options": [
+        {
+          "text": "Artwork",
+          "isCorrect": true
+        },
+        {
+          "text": "Canvas",
+          "isCorrect": false
+        },
+        {
+          "text": "Paint",
+          "isCorrect": false
+        },
+        {
+          "text": "Palette",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "29. If a leaf is to a tree, then a petal is to a __________.",
+      "explanation": "Just as a leaf is a part of a tree, a petal is a part of a flower. So, 'flower' is the answer.",
+      "options": [
+        {
+          "text": "Flower",
+          "isCorrect": true
+        },
+        {
+          "text": "Bud",
+          "isCorrect": false
+        },
+        {
+          "text": "Stalk",
+          "isCorrect": false
+        },
+        {
+          "text": "Stem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "30. A fish is to a school as a wolf is to a __________.",
+      "explanation": "Fish swim in schools, and wolves travel in packs. Therefore, the answer is 'pack'.",
+      "options": [
+        {
+          "text": "Pack",
+          "isCorrect": true
+        },
+        {
+          "text": "Group",
+          "isCorrect": false
+        },
+        {
+          "text": "Herd",
+          "isCorrect": false
+        },
+        {
+          "text": "Clan",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "31. If an eagle is to the sky, then a fish is to __________.",
+      "explanation": "Eagles soar in the sky, much like fishes swim in water. Thus, 'water' is the answer.",
+      "options": [
+        {
+          "text": "Water",
+          "isCorrect": true
+        },
+        {
+          "text": "Stream",
+          "isCorrect": false
+        },
+        {
+          "text": "Ocean",
+          "isCorrect": false
+        },
+        {
+          "text": "River",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "32. A magnet is to metal as a glue is to __________.",
+      "explanation": "A magnet attracts metal, while glue bonds surfaces together, often involving paper or wood. Therefore, the option that resonates here is 'paper'.",
+      "options": [
+        {
+          "text": "Paper",
+          "isCorrect": true
+        },
+        {
+          "text": "Plastic",
+          "isCorrect": false
+        },
+        {
+          "text": "Wood",
+          "isCorrect": false
+        },
+        {
+          "text": "Metal",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "33. A farmer is to a field as a gardener is to a __________.",
+      "explanation": "A farmer works in a field, much like a gardener works in a garden. Thus the answer is 'garden'.",
+      "options": [
+        {
+          "text": "Garden",
+          "isCorrect": true
+        },
+        {
+          "text": "Backyard",
+          "isCorrect": false
+        },
+        {
+          "text": "Plot",
+          "isCorrect": false
+        },
+        {
+          "text": "Yard",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "34. If a cloud is to rain, then a volcano is to __________.",
+      "explanation": "Clouds produce rain, similar to how a volcano produces lava. Therefore, 'lava' is the answer.",
+      "options": [
+        {
+          "text": "Lava",
+          "isCorrect": true
+        },
+        {
+          "text": "Eruption",
+          "isCorrect": false
+        },
+        {
+          "text": "Smoke",
+          "isCorrect": false
+        },
+        {
+          "text": "Ash",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "35. If a pilot is to an airplane, then a sailor is to a __________.",
+      "explanation": "A pilot operates an airplane just like a sailor operates a ship. So, the answer is 'ship'.",
+      "options": [
+        {
+          "text": "Ship",
+          "isCorrect": true
+        },
+        {
+          "text": "Boat",
+          "isCorrect": false
+        },
+        {
+          "text": "Yacht",
+          "isCorrect": false
+        },
+        {
+          "text": "Ferry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "36. A fruit is to a tree as a berry is to a __________.",
+      "explanation": "A fruit grows on a tree, and berries grow on bushes. Thus the appropriate answer is 'bush'.",
+      "options": [
+        {
+          "text": "Bush",
+          "isCorrect": true
+        },
+        {
+          "text": "Vine",
+          "isCorrect": false
+        },
+        {
+          "text": "Plant",
+          "isCorrect": false
+        },
+        {
+          "text": "Thicket",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "37. If a teacher is to knowledge, then a doctor is to __________.",
+      "explanation": "Teachers impart knowledge, while doctors impart health. Therefore, 'health' is the answer.",
+      "options": [
+        {
+          "text": "Health",
+          "isCorrect": true
+        },
+        {
+          "text": "Wellness",
+          "isCorrect": false
+        },
+        {
+          "text": "Cure",
+          "isCorrect": false
+        },
+        {
+          "text": "Care",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "38. If a wolf is to howl, a cat is to __________.",
+      "explanation": "Wolves howl; likewise, cats purr. Therefore, 'purr' is the appropriate answer.",
+      "options": [
+        {
+          "text": "Purr",
+          "isCorrect": true
+        },
+        {
+          "text": "Meow",
+          "isCorrect": false
+        },
+        {
+          "text": "Growl",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiss",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "39. If a conductor is to music, then an author is to __________.",
+      "explanation": "A conductor directs music, while an author directs or creates a story. So the answer is 'story'.",
+      "options": [
+        {
+          "text": "Story",
+          "isCorrect": true
+        },
+        {
+          "text": "Book",
+          "isCorrect": false
+        },
+        {
+          "text": "Novel",
+          "isCorrect": false
+        },
+        {
+          "text": "Poem",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "40. A photographer is to a picture as a sculptor is to a __________.",
+      "explanation": "A photographer creates a picture, whereas a sculptor creates a sculpture. Thus 'sculpture' is the correct answer.",
+      "options": [
+        {
+          "text": "Sculpture",
+          "isCorrect": true
+        },
+        {
+          "text": "Statue",
+          "isCorrect": false
+        },
+        {
+          "text": "Installation",
+          "isCorrect": false
+        },
+        {
+          "text": "Hanging",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
 }

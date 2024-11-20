@@ -1,487 +1,596 @@
 {
   "topic": "Figure Weights",
-  "content": "### Understanding Figure Weights in Cognitive Assessments\n\n**Introduction to Figure Weights**  \nFigure Weights is a type of cognitive task commonly used in psychological assessments, particularly to measure a child's nonverbal reasoning abilities and problem-solving skills. This task typically presents a series of scales with various weights depicted in the form of figures (often geometric shapes or simple images). The participant's job is to determine which additional weight is needed on one side of the scale to balance it out.\n\n**Significance in Cognitive Assessments**  \nFigure Weights tests are significant because they evaluate cognitive functions like logical reasoning, visual-spatial reasoning, and the ability to make calculations based on visual information. These skills are essential in everyday life and are foundational for more complex cognitive tasks that individuals will face in schooling and the workforce. Cognitive assessments utilizing Figure Weights can help identify strengths and weaknesses in a child's cognitive profile, making it easier for educators and psychologists to tailor interventions that suit the individual’s needs.\n\n**Practical Scenarios**  \nConsider a child who is facing difficulties in mathematics. Standard tests might show average results, but a Figure Weights task could reveal discrepancies in the child’s abilities to understand relationships between numbers or objects visually. For example, if a test presents a scale with one side holding two circles and the other holding a square, followed by a question asking what must be added to balance the scale, the child has to use their logic to deduce the correct answer.  \n\nIn another scenario, a student working on a project that requires creating a balanced design might benefit from understanding weight distribution through Figure Weights exercises. By practicing these types of problems, students learn to visualize and solve practical problems involving balance that apply to areas such as physics in their future studies.\n\n**Example of a Figure Weights Problem**  \nA common question in a Figure Weights task might show a scale with three circles on one side and two squares on the other. The question posed would be, \"Which of the following options will balance the scale?\" The answer requires students to analyze the numerical value or size of the shapes and decide the additional shape needed to equate the weights. This kind of problem encourages critical thinking as students must dissect the visual components logically. \n\nAdditionally, engaging with Figure Weights improves children's ability to interpret visual data, essential in an increasingly data-driven world. Educational strategies integrating Figure Weights problems can stimulate curiosity, encourage steady practice, and enhance cognitive development over time.\n\nBy understanding Figure Weights and their implications in cognitive assessments, educators and psychologists can better assist students in honing their mental processing capabilities, ultimately leading to improved academic success and critical life skills.",
   "questions": [
     {
-      "text": "A scale shows two triangles on one side and three circles on the other. Which option balances the scale?",
-      "explanation": "To balance the scale, we need to determine the equivalent weight. If we assume triangles weigh more than circles, we might need to add triangles or find an equivalent amount of circles that weigh 2 triangles.",
+      "text": "If a square figure weighs 4 units and a triangle weighs 2 units, what is the total weight of 3 squares and 2 triangles?",
+      "explanation": "To find the total weight, multiply the weight of each square and triangle by the number of each shape and then add the results together. So, (3 squares x 4 units) + (2 triangles x 2 units) = 12 + 4 = 16 units total.",
       "options": [
         {
-          "text": "One triangle",
+          "text": "12 units",
           "isCorrect": false
         },
         {
-          "text": "Two circles",
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "16 units",
           "isCorrect": true
         },
         {
-          "text": "Three triangles",
-          "isCorrect": false
-        },
-        {
-          "text": "One circle",
+          "text": "18 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If a scale has one square and one triangle on one side, and three circles on the other, which would balance it if you add a circle?",
-      "explanation": "Adding a circle to the three circles doesn’t balance the scale because it tips the scale in favor of circles. To balance, we need to add more weight to the square and triangle side.",
+      "text": "A rectangle weighs twice as much as a circle. If the circle weighs 5 units, how much does a rectangle weigh?",
+      "explanation": "The weight of the rectangle is calculated by multiplying the weight of the circle by 2. Since the circle weighs 5 units, the rectangle weighs 5 x 2 = 10 units.",
       "options": [
         {
-          "text": "One square and one triangle",
+          "text": "5 units",
+          "isCorrect": false
+        },
+        {
+          "text": "10 units",
           "isCorrect": true
         },
         {
-          "text": "Two triangles",
+          "text": "15 units",
           "isCorrect": false
         },
         {
-          "text": "One circle",
-          "isCorrect": false
-        },
-        {
-          "text": "Two squares",
+          "text": "20 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "A scale has four circles and x squares on one side and seven triangles on the other. If x equals 2, how can we balance the scale?",
-      "explanation": "Substituting x = 2 gives us the equation: 4 circles + 2 squares vs 7 triangles. We need to equal the weight of the shapes on both sides to find the balancing shapes.",
+      "text": "If a trapezoid weighs 6 units and two parallelograms together weigh 10 units, what is the total weight of the trapezoid and the parallelograms?",
+      "explanation": "Add the weight of the trapezoid (6 units) to the combined weight of the two parallelograms (10 units) to find the total weight, which is 6 + 10 = 16 units.",
       "options": [
         {
-          "text": "Add one triangle",
+          "text": "12 units",
           "isCorrect": false
         },
         {
-          "text": "Keep it as is",
+          "text": "14 units",
           "isCorrect": false
         },
         {
-          "text": "Add two squares",
-          "isCorrect": false
-        },
-        {
-          "text": "Remove one triangle",
-          "isCorrect": true
-        }
-      ]
-    },
-    {
-      "text": "Which of the following situations describes an unbalanced scale?",
-      "explanation": "An unbalanced scale shows unequal weight on both sides or indicates that more weight needs to be added to one side to make it equal. Recognizing that scenario is key to solving the problem.",
-      "options": [
-        {
-          "text": "Three squares and two circles on one side, two circles on the other",
+          "text": "16 units",
           "isCorrect": true
         },
         {
-          "text": "Two squares on both sides",
-          "isCorrect": false
-        },
-        {
-          "text": "Equal number of triangles on both sides",
-          "isCorrect": false
-        },
-        {
-          "text": "Five triangles on one side, five triangles on another",
+          "text": "18 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "In a situation where two rectangles are on one side of a scale and one triangle on the other, which would correctly balance?",
-      "explanation": "Depending on the observed sizes, we consider if adding another triangle increases balance or if adding rectangles might be needed based on their weights.",
+      "text": "A hexagon weighs 7 units while a pentagon weighs 4 units. If you have a total of 4 hexagons and 3 pentagons, what is their combined weight?",
+      "explanation": "Calculate the combined weight by (4 hexagons x 7 units) + (3 pentagons x 4 units) = 28 + 12 = 40 units.",
       "options": [
         {
-          "text": "One rectangle",
+          "text": "30 units",
           "isCorrect": false
         },
         {
-          "text": "One triangle",
+          "text": "34 units",
           "isCorrect": false
         },
         {
-          "text": "Two triangles",
+          "text": "40 units",
           "isCorrect": true
         },
         {
-          "text": "Three rectangles",
+          "text": "44 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "Given that the scale shows one large circle and two smaller circles on one side, how do we balance it?",
-      "explanation": "We can only balance the scale by assuming the value of circles is relative. To balance, we need sufficient weight on the other side or proportionate sizes.",
+      "text": "If a figure weighs 10 units and 2 identical figures weigh 8 units altogether, what is the weight of one figure?",
+      "explanation": "Since both figures together weigh 8 units, the weight of one figure is 8 units divided by 2, which equals 4 units.",
       "options": [
         {
-          "text": "Add two large circles",
+          "text": "2 units",
+          "isCorrect": false
+        },
+        {
+          "text": "4 units",
           "isCorrect": true
         },
         {
-          "text": "Add one medium circle",
+          "text": "6 units",
           "isCorrect": false
         },
         {
-          "text": "Remove one small circle",
-          "isCorrect": false
-        },
-        {
-          "text": "Add three small circles",
+          "text": "8 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If the scale has equal shapes on both sides, which situation can occur without causing imbalance?",
-      "explanation": "Equal distributions don't cause an unbalance unless one side loses weight through removal. Recognizing stable configurations enhances logical assessment skills.",
+      "text": "A cube weighs x units. If a cylinder weighs 3 units less than the cube and you know the cube weighs 12 units, what does the cylinder weigh?",
+      "explanation": "The cylinder weighs 3 units less than the cube, so if the cube weighs 12 units, the cylinder weighs 12 - 3 = 9 units.",
       "options": [
         {
-          "text": "Both sides have equal circles",
+          "text": "6 units",
+          "isCorrect": false
+        },
+        {
+          "text": "9 units",
           "isCorrect": true
         },
         {
-          "text": "One side more than the other",
+          "text": "12 units",
           "isCorrect": false
         },
         {
-          "text": "One side less than the other",
-          "isCorrect": false
-        },
-        {
-          "text": "Both sides have unequal shapes",
+          "text": "15 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "What do you need to consider for solving a Figure Weights task effectively?",
-      "explanation": "Understanding the weights and values assigned to shapes is essential to determine which additional shape is necessary for balancing.",
+      "text": "Three diamonds weigh 5 units each. What is the total weight of these diamonds?",
+      "explanation": "To find the total weight of the diamonds, multiply the weight of one diamond by the number of diamonds: 3 x 5 = 15 units.",
       "options": [
         {
-          "text": "Size of shapes only",
+          "text": "10 units",
           "isCorrect": false
         },
         {
-          "text": "Color of shapes only",
+          "text": "12 units",
           "isCorrect": false
         },
         {
-          "text": "Types of shapes only",
-          "isCorrect": false
-        },
-        {
-          "text": "Weight and arrangement of shapes",
-          "isCorrect": true
-        }
-      ]
-    },
-    {
-      "text": "In a scenario where five stars are on one side of a scale, which option would require addition to balance?",
-      "explanation": "Observing that one side is clearly heavier will determine the necessary addition which is essential for making logical conclusions.",
-      "options": [
-        {
-          "text": "Five circles",
+          "text": "15 units",
           "isCorrect": true
         },
         {
-          "text": "Five stars",
-          "isCorrect": false
-        },
-        {
-          "text": "Two stars",
-          "isCorrect": false
-        },
-        {
-          "text": "One star",
+          "text": "18 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "Given that a scene depicts three squares balancing against a single circle, what is the proper solution to find equivalence?",
-      "explanation": "If squares are heavier than circles, compensating with equivalent weights or counts must be explored to discern balance.",
+      "text": "If a figure has a weight of 2 units and another figure has 3 times that weight, what is the weight of the second figure?",
+      "explanation": "To find the weight of the second figure, multiply the weight of the first figure (2 units) by 3, resulting in 2 x 3 = 6 units.",
       "options": [
         {
-          "text": "Add more squares",
+          "text": "3 units",
+          "isCorrect": false
+        },
+        {
+          "text": "4 units",
+          "isCorrect": false
+        },
+        {
+          "text": "6 units",
           "isCorrect": true
         },
         {
-          "text": "Add more circles",
-          "isCorrect": false
-        },
-        {
-          "text": "Remove a circle",
-          "isCorrect": false
-        },
-        {
-          "text": "Add one square",
+          "text": "8 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "A scale shows one triangle and needs to balance against two triangles. What would need to be added?",
-      "explanation": "Understanding simple arithmetic ratios facilitates the balancing added to the scales which allows for a fair equilibrium.",
+      "text": "A group of 5 rectangles weigh a total of 35 units. What is the average weight of one rectangle?",
+      "explanation": "To find the average weight, divide the total weight by the number of rectangles: 35 units / 5 rectangles = 7 units per rectangle.",
       "options": [
         {
-          "text": "Another triangle",
+          "text": "5 units",
+          "isCorrect": false
+        },
+        {
+          "text": "6 units",
+          "isCorrect": false
+        },
+        {
+          "text": "7 units",
           "isCorrect": true
         },
         {
-          "text": "A square",
-          "isCorrect": false
-        },
-        {
-          "text": "A circle",
-          "isCorrect": false
-        },
-        {
-          "text": "Three triangles",
+          "text": "8 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If balancing three hexagons against what appears to be two circles is needed, which conclusions must be considered?",
-      "explanation": "The weight needs to be proportionate, suggesting additional compensatory additions to one shape must be assessed carefully for balance.",
+      "text": "If a rectangle weighs twice as much as a triangle and together they weigh 18 units, what is the weight of the rectangle?",
+      "explanation": "Let the weight of the triangle be x units. Then the rectangle weighs 2x units. Together, x + 2x = 18 units, or 3x = 18. Thus, x = 6 (triangle) and the rectangle weighs 2*6 = 12 units.",
       "options": [
         {
-          "text": "Add one more hexagon",
+          "text": "6 units",
+          "isCorrect": false
+        },
+        {
+          "text": "12 units",
           "isCorrect": true
         },
         {
-          "text": "Add a circle",
+          "text": "18 units",
           "isCorrect": false
         },
         {
-          "text": "Remove a hexagon",
-          "isCorrect": false
-        },
-        {
-          "text": "Add two circles",
+          "text": "24 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "In attempting to balance when you observe two rectangles, which effect is expected when adding more rectangles compared to circles?",
-      "explanation": "Shapes generally hold relative weights; additional weight must account for equalizing across either shape arrangement observable.",
+      "text": "A diamond weighs 3 times as much as a square and the diamond weighs 9 units. How much does the square weigh?",
+      "explanation": "The weight of the square is calculated by dividing the weight of the diamond by 3: 9 units / 3 = 3 units.",
       "options": [
         {
-          "text": "It will outweigh the circles, maintaining balance",
+          "text": "2 units",
+          "isCorrect": false
+        },
+        {
+          "text": "3 units",
           "isCorrect": true
         },
         {
-          "text": "It will unbalance in favor of one side",
+          "text": "6 units",
           "isCorrect": false
         },
         {
-          "text": "It will require adjusting more to favor circles",
-          "isCorrect": false
-        },
-        {
-          "text": "It has no effect on balance at all",
+          "text": "9 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "When presented with two triangles and five circles, how can we ascertain further balance?",
-      "explanation": "Recognizing which shapes supply weight value is critical for ensuring balance, including potentially adjusting the observed weight on scales.",
+      "text": "If five triangles weigh 15 units collectively, what does one triangle weigh?",
+      "explanation": "To find the weight of one triangle, divide the total weight by the number of triangles: 15 units / 5 triangles = 3 units per triangle.",
       "options": [
         {
-          "text": "Add two triangles",
+          "text": "2 units",
+          "isCorrect": false
+        },
+        {
+          "text": "3 units",
           "isCorrect": true
         },
         {
-          "text": "Remove a triangle",
+          "text": "5 units",
           "isCorrect": false
         },
         {
-          "text": "Add three circles",
-          "isCorrect": false
-        },
-        {
-          "text": "Remove all circles",
+          "text": "6 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "When balancing requires both mathematical and logical reasoning, how do shapes influence your conclusion?",
-      "explanation": "Shapes assist in illustrating values; discerning how many shapes constitute balanced weight directs the accuracy of responses.",
+      "text": "A circle weighs one-third of what a rectangle weighs. If the rectangle weighs 12 units, how much does the circle weigh?",
+      "explanation": "The weight of the circle is found by multiplying the rectangle's weight by one-third: 12 units / 3 = 4 units.",
       "options": [
         {
-          "text": "Shapes don’t influence reasoning",
+          "text": "2 units",
           "isCorrect": false
         },
         {
-          "text": "Shapes indicate specific values to balance",
+          "text": "3 units",
+          "isCorrect": false
+        },
+        {
+          "text": "4 units",
           "isCorrect": true
         },
         {
-          "text": "Shapes imply no weight rules",
-          "isCorrect": false
-        },
-        {
-          "text": "Shapes only determine numerical counts",
+          "text": "5 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If a child sees three diamonds balancing two stars, how might the child rethink the solution?",
-      "explanation": "Distinguishing value attributed to shapes encourages deeper intellectual commitment to resolve logical frameworks leading to balance.",
+      "text": "If two shapes weigh a total of 20 units with one shape being twice as heavy as the other, what is the weight of the heavier shape?",
+      "explanation": "Let the lighter shape weigh x units, then the heavier shape weighs 2x units. Thus, we get the equation x + 2x = 20 units, which simplifies to 3x = 20, leading to x = 20/3 units. Consequently, the heavier shape weighs 2x = 40/3 units, or approximately 13.33 units.",
       "options": [
         {
-          "text": "By considering reflecting shapes on scales",
+          "text": "12 units",
           "isCorrect": false
         },
         {
-          "text": "By analyzing weight distributions based on their sizes",
+          "text": "13 units",
+          "isCorrect": false
+        },
+        {
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "13.33 units",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "An octagon weighs 8 units and a quadrilateral weighs 3 units. What is the total weight of 2 octagons and 1 quadrilateral?",
+      "explanation": "Total weight = (2 x 8 units) + (1 x 3 units) = 16 + 3 = 19 units.",
+      "options": [
+        {
+          "text": "18 units",
+          "isCorrect": false
+        },
+        {
+          "text": "19 units",
           "isCorrect": true
         },
         {
-          "text": "By adding more stars only",
+          "text": "20 units",
           "isCorrect": false
         },
         {
-          "text": "By always removing shapes",
+          "text": "21 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "Using the analogy of a seesaw, which shape balance analogy represents outliers largely?",
-      "explanation": "Visualizing balance on a seesaw could encapsulate the failsafe nature of balance requiring adjustments to represent various configurations visually and mentally.",
+      "text": "If a figure weighs 15 units and you have 3 such figures, what is their total weight?",
+      "explanation": "Total weight of 3 identical figures = (3 x 15 units) = 45 units.",
       "options": [
         {
-          "text": "Two shapes on one side and three shapes on another leading to adjustments",
+          "text": "30 units",
+          "isCorrect": false
+        },
+        {
+          "text": "40 units",
+          "isCorrect": false
+        },
+        {
+          "text": "45 units",
           "isCorrect": true
         },
         {
-          "text": "Equal configurations on both sides",
-          "isCorrect": false
-        },
-        {
-          "text": "One shape outweighing numerous configurations",
-          "isCorrect": false
-        },
-        {
-          "text": "Shaping inanimate objects instead of observing arrangements",
+          "text": "50 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "For correctly balancing multiple shapes, how does strategic planning of shapes contribute to resolving equality?",
-      "explanation": "Understanding how shapes are weighted allows individuals to map out better balance approaches leading to effective cognitive outcomes with equations.",
+      "text": "A star shape weighs twice as much as a triangle and together they weigh 30 units. What is the weight of the triangle?",
+      "explanation": "Let the triangle weigh x units, hence the star shape weighs 2x units. The equation is x + 2x = 30; therefore, 3x = 30, leading to x =10 units (triangle).",
       "options": [
         {
-          "text": "Shapes often don’t contribute to outcomes",
+          "text": "5 units",
           "isCorrect": false
         },
         {
-          "text": "Shapes define weigh and balancing rules for outcomes",
+          "text": "10 units",
           "isCorrect": true
         },
         {
-          "text": "Shapes are only counts with no discernable impact",
+          "text": "15 units",
           "isCorrect": false
         },
         {
-          "text": "Balancing shapes disregards numerical thinking",
+          "text": "20 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "Why do logical sequences apply fundamentally to resolving shape balances?",
-      "explanation": "Observation must strictly follow logical frameworks, where familiarity with shapes directly influences the outcome's cognitive estimates.",
+      "text": "If a shape weighs 10 units and a triangle weighs half as much, how much does the triangle weigh?",
+      "explanation": "Weight of triangle = 10 units / 2 = 5 units.",
       "options": [
         {
-          "text": "Shapes are irrelevant in responsibility assessment",
+          "text": "1 unit",
           "isCorrect": false
         },
         {
-          "text": "Shapes guide decision-making alongside numerical precision",
+          "text": "5 units",
           "isCorrect": true
         },
         {
-          "text": "Mathematical errors are dismissed when dealing with shapes",
+          "text": "8 units",
           "isCorrect": false
         },
         {
-          "text": "Logical sequences do not guide weight determination",
+          "text": "10 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "When making judgements based on the comparative shapes on a balance scale, what inhibits confidence levels?",
-      "explanation": "Deciphering inaccuracies between comparative values directly affects how resolves interact with potential success in balance measuring weighs.",
+      "text": "If a square figure weighs 4 units, what is the total weight of 4 squares?",
+      "explanation": "Total weight = 4 squares x 4 units = 16 units.",
       "options": [
         {
-          "text": "In absence of abstraction logic",
+          "text": "12 units",
+          "isCorrect": false
+        },
+        {
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "16 units",
           "isCorrect": true
         },
         {
-          "text": "In repeated comparisons of similar shapes",
-          "isCorrect": false
-        },
-        {
-          "text": "In observing clear deductive reasoning pathways",
-          "isCorrect": false
-        },
-        {
-          "text": "In creative mathematics with less observation",
+          "text": "18 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "To balance shapes on a scale, strategic observation must always indicate what crucial components?",
-      "explanation": "Indicating how shapes adhere to logical patterns enhances decision paths across balancing frameworks overall yielding effective resolution fostering clarity and accuracy.",
+      "text": "A hexagon weighs 6 units, and a triangle weighs 2 units. What is the total weight of 2 hexagons and 2 triangles?",
+      "explanation": "Total weight = (2 x 6 units) + (2 x 2 units) = 12 + 4 = 16 units.",
       "options": [
         {
-          "text": "Holistic measurement and ratios",
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "16 units",
           "isCorrect": true
         },
         {
-          "text": "Indifferent measurements solely",
+          "text": "18 units",
           "isCorrect": false
         },
         {
-          "text": "Irrelevant shapes weighted in time",
-          "isCorrect": false
-        },
-        {
-          "text": "Disregarded patterns seen throughout",
+          "text": "20 units",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "In assessing scales on equitable outcomes, how do we gauge when one side outweighs another considerably?",
-      "explanation": "Establishing accurate viewpoints when resolving, particularly when shifting weight constraints on either side, critically alters how disagreements may surface relative to weights assessed typically in educational contexts.  ",
+      "text": "If a circle weighs 4 units, and a square weighs 5 units, what is the total weight of 3 squares and 1 circle?",
+      "explanation": "Total weight = (3 x 5 units) + (1 x 4 units) = 15 + 4 = 19 units.",
       "options": [
         {
-          "text": "Proportional relationships displayed",
+          "text": "17 units",
+          "isCorrect": false
+        },
+        {
+          "text": "19 units",
           "isCorrect": true
         },
         {
-          "text": "Stated configurations representing equality",
+          "text": "21 units",
           "isCorrect": false
         },
         {
-          "text": "Simplistic measurements shrugged off",
+          "text": "23 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A star weighs 9 units and a triangle weighs 3 units. If you have one star and four triangles, what is their total weight?",
+      "explanation": "Total weight = (1 x 9 units) + (4 x 3 units) = 9 + 12 = 21 units.",
+      "options": [
+        {
+          "text": "19 units",
           "isCorrect": false
         },
         {
-          "text": "Diverse shapes assumed the same weight",
+          "text": "21 units",
+          "isCorrect": true
+        },
+        {
+          "text": "23 units",
+          "isCorrect": false
+        },
+        {
+          "text": "25 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A figure weighs 6 units and another figure weighs 4 units. What is the total weight of 5 such figures?",
+      "explanation": "Total weight for 5 figures = 5 x (6 + 4) = 5 x 10 = 50 units.",
+      "options": [
+        {
+          "text": "40 units",
+          "isCorrect": false
+        },
+        {
+          "text": "50 units",
+          "isCorrect": true
+        },
+        {
+          "text": "60 units",
+          "isCorrect": false
+        },
+        {
+          "text": "70 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If four circles weigh 20 units altogether, how much does one circle weigh?",
+      "explanation": "Average weight per circle = 20 units / 4 = 5 units.",
+      "options": [
+        {
+          "text": "3 units",
+          "isCorrect": false
+        },
+        {
+          "text": "4 units",
+          "isCorrect": false
+        },
+        {
+          "text": "5 units",
+          "isCorrect": true
+        },
+        {
+          "text": "6 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suppose each square weighs 6 units and you have 6 squares. What is the total weight?",
+      "explanation": "Total weight = 6 squares x 6 units = 36 units.",
+      "options": [
+        {
+          "text": "30 units",
+          "isCorrect": false
+        },
+        {
+          "text": "36 units",
+          "isCorrect": true
+        },
+        {
+          "text": "42 units",
+          "isCorrect": false
+        },
+        {
+          "text": "48 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a triangle weighs 3 units, how many units do 7 triangles weigh?",
+      "explanation": "Total weight = 7 x 3 units = 21 units.",
+      "options": [
+        {
+          "text": "19 units",
+          "isCorrect": false
+        },
+        {
+          "text": "20 units",
+          "isCorrect": false
+        },
+        {
+          "text": "21 units",
+          "isCorrect": true
+        },
+        {
+          "text": "22 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A diamond weighs 5 units while a square weighs 3 units. What is the total weight of 5 diamonds and 2 squares?",
+      "explanation": "Total weight = (5 x 5 units) + (2 x 3 units) = 25 + 6 = 31 units.",
+      "options": [
+        {
+          "text": "30 units",
+          "isCorrect": false
+        },
+        {
+          "text": "31 units",
+          "isCorrect": true
+        },
+        {
+          "text": "32 units",
+          "isCorrect": false
+        },
+        {
+          "text": "34 units",
           "isCorrect": false
         }
       ]

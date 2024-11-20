@@ -1,39 +1,144 @@
 {
   "topic": "Vocabulary",
-  "content": "### Vocabulary: Understanding Its Importance in Cognitive Assessment\n\nVocabulary refers to the set of words that an individual knows and uses when communicating. It encompasses not just the words themselves but also the meanings, connotations, and contexts in which these words can be used. A robust vocabulary is essential not only for effective communication but also for cognitive development and academic success. In cognitive assessments, vocabulary plays a critical role as it can indicate a person’s language proficiency, comprehension abilities, and overall cognitive functioning.\n\nVocabulary is significant in cognitive assessments for several reasons. Firstly, it is an indicator of intellectual capacity. A richer vocabulary often correlates with higher intelligence and cognitive skills. This is because understanding and using a wide range of words reflects an individual’s ability to process information, think critically, and articulate ideas clearly.\n\nSecondly, vocabulary knowledge is crucial for academic achievements. It contributes significantly to reading comprehension; students with a larger vocabulary are often better readers and can understand texts more deeply. In standardized cognitive assessments, questions frequently emphasize vocabulary skills, asking test-takers to define words, choose synonyms or antonyms, and understand contextually relevant meanings. These tasks are not just about recalling definitions but also about applying knowledge in various contexts, showcasing the test-taker's depth of understanding and cognitive flexibility.\n\nMoreover, vocabulary is foundational in all areas of learning. Good vocabulary skills enhance not only language arts but also subjects like science and social studies where specific terminology is vital. For instance, understanding complex scientific concepts often hinges on knowing the vocabulary associated with those concepts. A student familiar with the terms like \"photosynthesis\" or \"ecosystem\" will have an easier time grasping the associated ideas than someone who lacks this vocabulary.\n\n### Examples and Scenarios  \nConsider a scenario in which two students are given a reading passage to analyze. Student A has a rich vocabulary and can articulate complex ideas using the proper terminology, whereas Student B struggles to comprehend the passage due to limited vocabulary. As a result, Student A may provide deeper insights and analysis than Student B, showcasing the connection between vocabulary and comprehension skills.\n\nAnother scenario might occur in a cognitive assessment where test-takers are required to use certain vocabulary words in sentences. A student who knows the difference between \"affect\" and \"effect\" will perform better than one who does not, as the ability to distinguish subtle meanings and applications of words can significantly influence their performance.\n\nIn conclusion, vocabulary is more than just a list of words; it signifies the breadth and depth of knowledge from language structure to contextual meaning. In cognitive assessments, strong vocabulary skills reflect critical cognitive abilities — comprehension, articulation, and the capacity to engage with complex material. Developing vocabulary is a pathway toward enhancing cognitive skills and academic performance, reaffirming its importance in both educational contexts and assessments.",
   "questions": [
     {
-      "text": "What does the word 'diligent' mean?",
-      "explanation": "The word 'diligent' describes someone who is hardworking and shows care in their work or duties.",
+      "text": "What does the word 'ubiquitous' mean?",
+      "explanation": "The word 'ubiquitous' describes something that is present, appearing, or found everywhere. In context, when we say technology is ubiquitous, we mean it is widespread and commonly found in many aspects of life.",
       "options": [
         {
-          "text": "Lazy",
+          "text": "Unique and one of a kind",
           "isCorrect": false
         },
         {
-          "text": "Hardworking",
+          "text": "Found everywhere",
           "isCorrect": true
         },
         {
-          "text": "Careless",
+          "text": "Very rare",
           "isCorrect": false
         },
         {
-          "text": "Ignorant",
+          "text": "Difficult to find",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "Which word is a synonym for 'benevolent'?",
-      "explanation": "Benevolent means well-meaning and kindly, so a synonym would be 'charitable'.",
+      "text": "Choose the word that means the opposite of 'abundant'.",
+      "explanation": "The term 'abundant' means plentiful or more than enough. The opposite would therefore indicate scarcity or lack.",
       "options": [
         {
-          "text": "Malicious",
+          "text": "Scarce",
+          "isCorrect": true
+        },
+        {
+          "text": "Plentiful",
           "isCorrect": false
         },
         {
-          "text": "Hostile",
+          "text": "Numerous",
+          "isCorrect": false
+        },
+        {
+          "text": "Ample",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word best describes someone who is 'indifferent'?",
+      "explanation": "Being indifferent means not having a strong opinion or feeling about something, often implying a lack of interest or concern.",
+      "options": [
+        {
+          "text": "Passionate",
+          "isCorrect": false
+        },
+        {
+          "text": "Apathetic",
+          "isCorrect": true
+        },
+        {
+          "text": "Enthusiastic",
+          "isCorrect": false
+        },
+        {
+          "text": "Excited",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'meticulous' mean in this context: 'She kept meticulous records of her expenses'?",
+      "explanation": "'Meticulous' means showing great attention to detail; very careful and precise. It implies thoroughness in maintaining accurate records.",
+      "options": [
+        {
+          "text": "Careless",
+          "isCorrect": false
+        },
+        {
+          "text": "Imprecise",
+          "isCorrect": false
+        },
+        {
+          "text": "Detailed",
+          "isCorrect": true
+        },
+        {
+          "text": "Basic",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'ambiguous' mean?",
+      "explanation": "'Ambiguous' refers to something that can be understood in more than one way or has double meanings, leading to confusion.",
+      "options": [
+        {
+          "text": "Clear and straightforward",
+          "isCorrect": false
+        },
+        {
+          "text": "Uncertain and unclear",
+          "isCorrect": true
+        },
+        {
+          "text": "Well-defined",
+          "isCorrect": false
+        },
+        {
+          "text": "Commonly known",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word means 'to make something clearer or easier to understand'?",
+      "explanation": "This description fits the word 'clarify', which refers to the process of making something less confusing and more comprehensible.",
+      "options": [
+        {
+          "text": "Obscure",
+          "isCorrect": false
+        },
+        {
+          "text": "Clarify",
+          "isCorrect": true
+        },
+        {
+          "text": "Muddle",
+          "isCorrect": false
+        },
+        {
+          "text": "Complicate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the best synonym for 'benevolent'?",
+      "explanation": "'Benevolent' means well-meaning and kindly. The best synonym would be something that conveys goodwill or kindness.",
+      "options": [
+        {
+          "text": "Malicious",
           "isCorrect": false
         },
         {
@@ -41,278 +146,172 @@
           "isCorrect": true
         },
         {
-          "text": "Selfish",
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Hostile",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "What is the antonym of 'frugal'?",
-      "explanation": "Frugal means being economical or careful with money, so the antonym would be 'extravagant', which means spending excessively.",
+      "text": "Choose the word that means 'showing a lack of concern or interest'.",
+      "explanation": "This describes the word ' apathetic', which refers to a state of being uninterested or uninvolved.",
       "options": [
         {
-          "text": "Thrifty",
+          "text": "Enthusiastic",
           "isCorrect": false
         },
         {
-          "text": "Conservative",
-          "isCorrect": false
-        },
-        {
-          "text": "Extravagant",
-          "isCorrect": true
-        },
-        {
-          "text": "Penny-pinching",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "In the context of the passage, which of the following best defines 'contextual'?",
-      "explanation": "'Contextual' refers to something related to the context or situation. In this case, it means understanding words based on the surrounding text.",
-      "options": [
-        {
-          "text": "Relative to situation",
-          "isCorrect": true
-        },
-        {
-          "text": "General knowledge",
-          "isCorrect": false
-        },
-        {
-          "text": "Historical importance",
-          "isCorrect": false
-        },
-        {
-          "text": "Independent interpretation",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "Which of the following best describes 'ephemeral'?",
-      "explanation": "Ephemeral means lasting for a very short time. This can refer to anything fleeting or temporary.",
-      "options": [
-        {
-          "text": "Timeless",
-          "isCorrect": false
-        },
-        {
-          "text": "Temporary",
-          "isCorrect": true
-        },
-        {
-          "text": "Eternal",
-          "isCorrect": false
-        },
-        {
-          "text": "Perpetual",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "What does the term 'meticulous' imply about a person?",
-      "explanation": "'Meticulous' means showing great attention to detail and being very careful and precise.",
-      "options": [
-        {
-          "text": "Careless",
-          "isCorrect": false
-        },
-        {
-          "text": "Detail-oriented",
-          "isCorrect": true
-        },
-        {
-          "text": "Hasty",
+          "text": "Indifferent",
           "isCorrect": false
         },
         {
           "text": "Apathetic",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "Choose the best synonym for 'innovative'.",
-      "explanation": "Innovative refers to introducing new ideas; a synonym would be 'original'.",
-      "options": [
-        {
-          "text": "Traditional",
-          "isCorrect": false
-        },
-        {
-          "text": "Original",
           "isCorrect": true
         },
         {
-          "text": "Conventional",
-          "isCorrect": false
-        },
-        {
-          "text": "Stale",
+          "text": "Concerned",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "The opposite of 'metaphor' is:",
-      "explanation": "Literal language refers to words used in their most basic form, displaying the opposite characteristic of a metaphor, which is figurative language.",
+      "text": "What does 'pensive' mean?",
+      "explanation": "The word 'pensive' describes a state of being engaged in deep or serious thought, often with a slightly sad or reflective connotation.",
       "options": [
         {
-          "text": "Figurative",
+          "text": "Cheerful",
           "isCorrect": false
         },
         {
-          "text": "Literal",
+          "text": "Thoughtful",
           "isCorrect": true
         },
         {
-          "text": "Symbolic",
+          "text": "Superficial",
           "isCorrect": false
         },
         {
-          "text": "Representational",
+          "text": "Oblivious",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "In literature, an 'antagonist' is:",
-      "explanation": "An antagonist is a character in opposition to the protagonist, often causing conflict in a story.",
+      "text": "Which word best describes an action characterized as 'prudent'?",
+      "explanation": "'Prudent' refers to being cautious and showing good judgment, especially in practical matters. It implies careful planning and consideration of potential risks.",
       "options": [
         {
-          "text": "A hero",
+          "text": "Reckless",
           "isCorrect": false
         },
         {
-          "text": "The main character",
-          "isCorrect": false
-        },
-        {
-          "text": "The villain",
+          "text": "Wise",
           "isCorrect": true
         },
         {
-          "text": "A bystander",
+          "text": "Impulsive",
+          "isCorrect": false
+        },
+        {
+          "text": "Careless",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "What does 'paradox' mean?",
-      "explanation": "A paradox is a statement that contradicts itself but may nonetheless be true.",
+      "text": "What is the meaning of 'nefarious'?",
+      "explanation": "'Nefarious' means wicked or criminal; it describes actions or intentions that are morally wrong or villainous.",
       "options": [
         {
-          "text": "An unexplained mystery",
+          "text": "Noble",
           "isCorrect": false
         },
         {
-          "text": "A contradiction that suggests a deeper truth",
+          "text": "Wicked",
           "isCorrect": true
         },
         {
-          "text": "A logical fallacy",
+          "text": "Honest",
           "isCorrect": false
         },
         {
-          "text": "An obvious truth",
+          "text": "Boring",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "Which word would replace 'happy' in a more sophisticated way?",
-      "explanation": "One alternative to 'happy' could be 'elated', which conveys a stronger sense of joy.",
+      "text": "What does the term 'deplete' mean?",
+      "explanation": "To 'deplete' means to use up the supply or resources of something; it implies that something is diminished or reduced in quantity.",
       "options": [
         {
-          "text": "Elated",
+          "text": "To conserve",
+          "isCorrect": false
+        },
+        {
+          "text": "To strengthen",
+          "isCorrect": false
+        },
+        {
+          "text": "To use up",
           "isCorrect": true
         },
         {
-          "text": "Content",
-          "isCorrect": false
-        },
-        {
-          "text": "Sorrowful",
-          "isCorrect": false
-        },
-        {
-          "text": "Miserable",
+          "text": "To accumulate",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If ‘audible’ means able to be heard, what would be its antonym?",
-      "explanation": "The antonym of 'audible' is 'inaudible', meaning not able to be heard.",
+      "text": "Choose the word that means 'easily understood'.",
+      "explanation": "The term 'intelligible' means capable of being understood; it emphasizes clarity in communication or comprehension.",
       "options": [
         {
-          "text": "Clear",
-          "isCorrect": false
-        },
-        {
-          "text": "Loud",
-          "isCorrect": false
-        },
-        {
-          "text": "Inaudible",
-          "isCorrect": true
-        },
-        {
-          "text": "Musical",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "A synonym for 'convey' is:",
-      "explanation": "'Convey' means to communicate or express, a synonym could be 'express'.",
-      "options": [
-        {
-          "text": "Hide",
-          "isCorrect": false
-        },
-        {
-          "text": "Conceal",
-          "isCorrect": false
-        },
-        {
-          "text": "Transmit",
-          "isCorrect": false
-        },
-        {
-          "text": "Express",
-          "isCorrect": true
-        }
-      ]
-    },
-    {
-      "text": "What does the term 'ambiguous' mean?",
-      "explanation": "Ambiguous means that something can be understood in more than one way; it is unclear or vague.",
-      "options": [
-        {
-          "text": "Clear-cut",
+          "text": "Confusing",
           "isCorrect": false
         },
         {
           "text": "Unclear",
-          "isCorrect": true
-        },
-        {
-          "text": "Explicit",
           "isCorrect": false
         },
         {
-          "text": "Precise",
+          "text": "Intelligible",
+          "isCorrect": true
+        },
+        {
+          "text": "Ambiguous",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "If someone is described as 'gregarious', what can be inferred about them?",
-      "explanation": "A gregarious person is sociable and enjoys the company of others.",
+      "text": "What is a synonym for 'malevolent'?",
+      "explanation": "'Malevolent' refers to having or showing a wish to do evil to others. A synonym would also imply ill-intent or harm.",
+      "options": [
+        {
+          "text": "Friendly",
+          "isCorrect": false
+        },
+        {
+          "text": "Evil",
+          "isCorrect": true
+        },
+        {
+          "text": "Benevolent",
+          "isCorrect": false
+        },
+        {
+          "text": "Caring",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word would you use to describe someone who is 'gregarious'?",
+      "explanation": "'Gregarious' means sociable and fond of company. It refers to someone who enjoys being around others.",
       "options": [
         {
           "text": "Shy",
@@ -327,131 +326,285 @@
           "isCorrect": false
         },
         {
-          "text": "Introverted",
+          "text": "Reticent",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "What is a synonym of 'resilient'?",
-      "explanation": "Resilient means able to withstand or recover quickly from difficult conditions.",
+      "text": "What does 'superfluous' mean?",
+      "explanation": "The word 'superfluous' describes something that is unnecessary, especially through being more than enough. It implies excess or redundancy.",
       "options": [
+        {
+          "text": "Necessary",
+          "isCorrect": false
+        },
+        {
+          "text": "Excessive",
+          "isCorrect": true
+        },
+        {
+          "text": "Essential",
+          "isCorrect": false
+        },
+        {
+          "text": "Required",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means 'to alleviate discomfort or suffering'.",
+      "explanation": "This concept is encapsulated in the word 'relieve', which indicates providing ease or comfort from pain or hardship.",
+      "options": [
+        {
+          "text": "Perpetuate",
+          "isCorrect": false
+        },
+        {
+          "text": "Aggravate",
+          "isCorrect": false
+        },
+        {
+          "text": "Relieve",
+          "isCorrect": true
+        },
+        {
+          "text": "Compound",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'cogent' mean in context?",
+      "explanation": "'Cogent' means clear, logical, and convincing. It is often used to describe arguments and reasoning that are compelling and well-presented.",
+      "options": [
+        {
+          "text": "Weak",
+          "isCorrect": false
+        },
+        {
+          "text": "Convincing",
+          "isCorrect": true
+        },
+        {
+          "text": "Ambiguous",
+          "isCorrect": false
+        },
+        {
+          "text": "Illogical",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is a synonym of 'metamorphosis'?",
+      "explanation": "Metamorphosis refers to a transformation or change, especially in form or structure. A synonym might express similar change.",
+      "options": [
+        {
+          "text": "Stagnation",
+          "isCorrect": false
+        },
+        {
+          "text": "Transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "Fixation",
+          "isCorrect": false
+        },
+        {
+          "text": "Consistency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the best meaning for 'audacious'.",
+      "explanation": "The word 'audacious' means showing a willingness to take surprisingly bold risks; it often implies fearlessness and bravery.",
+      "options": [
+        {
+          "text": "Timid",
+          "isCorrect": false
+        },
+        {
+          "text": "Bold",
+          "isCorrect": true
+        },
+        {
+          "text": "Cautious",
+          "isCorrect": false
+        },
+        {
+          "text": "Uncertain",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'diligent' mean?",
+      "explanation": "'Diligent' describes someone who is showing care and effort in their work or duties; it emphasizes conscientious and hard-working qualities.",
+      "options": [
+        {
+          "text": "Careless",
+          "isCorrect": false
+        },
+        {
+          "text": "Lazy",
+          "isCorrect": false
+        },
+        {
+          "text": "Hard-working",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means 'having a harmful effect, especially in a gradual or subtle way'.",
+      "explanation": "This matches the definition of 'insidious', which indicates something that can be dangerous because it passes unnoticed or wears you down slowly.",
+      "options": [
+        {
+          "text": "Harmless",
+          "isCorrect": false
+        },
+        {
+          "text": "Beneficial",
+          "isCorrect": false
+        },
+        {
+          "text": "Insidious",
+          "isCorrect": true
+        },
+        {
+          "text": "Obvious",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'ephemeral'?",
+      "explanation": "'Ephemeral' refers to something lasting for a very short time, emphasizing its transient nature.",
+      "options": [
+        {
+          "text": "Everlasting",
+          "isCorrect": false
+        },
+        {
+          "text": "Short-lived",
+          "isCorrect": true
+        },
+        {
+          "text": "Timeless",
+          "isCorrect": false
+        },
+        {
+          "text": "Permanent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following describes 'imminent'?",
+      "explanation": "The term 'imminent' means that something is about to happen very soon, often referring to an event that is impending.",
+      "options": [
+        {
+          "text": "Remote",
+          "isCorrect": false
+        },
+        {
+          "text": "Imminent",
+          "isCorrect": true
+        },
+        {
+          "text": "Distant",
+          "isCorrect": false
+        },
+        {
+          "text": "Unlikely",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'resilient' mean?",
+      "explanation": "'Resilient' describes the ability to recover quickly from difficulties; it indicates toughness and adaptability.",
+      "options": [
+        {
+          "text": "Weak",
+          "isCorrect": false
+        },
+        {
+          "text": "Tough",
+          "isCorrect": true
+        },
         {
           "text": "Fragile",
           "isCorrect": false
         },
         {
-          "text": "Elastic",
-          "isCorrect": true
-        },
-        {
-          "text": "Stubborn",
-          "isCorrect": false
-        },
-        {
-          "text": "Weak",
+          "text": "Inflexible",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "Which word best describes 'obsolete'?",
-      "explanation": "'Obsolete' means no longer produced or used; it is out of date.",
+      "text": "Choose the word that means 'a diversion from the main issue'.",
+      "explanation": "This corresponds to the term 'digression', which refers to a departure from the main topic in speech or writing.",
       "options": [
         {
-          "text": "Current",
+          "text": "Focus",
           "isCorrect": false
         },
         {
-          "text": "Outdated",
+          "text": "Digression",
           "isCorrect": true
         },
         {
-          "text": "New",
+          "text": "Convergence",
           "isCorrect": false
         },
         {
-          "text": "Modern",
+          "text": "Continuity",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "The word 'conundrum' refers to:",
-      "explanation": "A conundrum is a confusing or difficult problem or question.",
+      "text": "What is the meaning of 'acrimonious'?",
+      "explanation": "'Acrimonious' describes a situation marked by bitterness or ill feeling, often used to characterize disputes or disagreements.",
       "options": [
         {
-          "text": "An easy solution",
+          "text": "Friendly",
           "isCorrect": false
         },
         {
-          "text": "A puzzle or riddle",
+          "text": "Bitter",
           "isCorrect": true
         },
         {
-          "text": "A straightforward task",
+          "text": "Peaceful",
           "isCorrect": false
         },
         {
-          "text": "A known fact",
+          "text": "Mild",
           "isCorrect": false
         }
       ]
     },
     {
-      "text": "What is the meaning of 'candid'?",
-      "explanation": "Candid means truthful and straightforward; frank.",
+      "text": "What does 'solicitous' mean?",
+      "explanation": "'Solicitous' refers to showing interest or concern; it implies a caring or attentive nature toward someone or something.",
       "options": [
         {
-          "text": "Dishonest",
+          "text": "Unconcerned",
           "isCorrect": false
         },
         {
-          "text": "Straightforward",
-          "isCorrect": true
-        },
-        {
-          "text": "Secretive",
-          "isCorrect": false
-        },
-        {
-          "text": "Deceptive",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "Which of the following best describes 'prolific'?",
-      "explanation": "'Prolific' means fruitful or producing a lot of offspring or works.",
-      "options": [
-        {
-          "text": "Unproductive",
-          "isCorrect": false
-        },
-        {
-          "text": "Fertile",
-          "isCorrect": true
-        },
-        {
-          "text": "Diminished",
-          "isCorrect": false
-        },
-        {
-          "text": "Rare",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "What does 'sanguine' imply?",
-      "explanation": "Sanguine refers to being optimistic or positive, especially in a difficult situation.",
-      "options": [
-        {
-          "text": "Pessimistic",
-          "isCorrect": false
-        },
-        {
-          "text": "Hopeful",
+          "text": "Attentive",
           "isCorrect": true
         },
         {
@@ -459,139 +612,7 @@
           "isCorrect": false
         },
         {
-          "text": "Frustrated",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "What is a synonym for 'conspicuous'?",
-      "explanation": "Conspicuous means standing out so as to be clearly visible, synonymous with 'obvious'.",
-      "options": [
-        {
-          "text": "Hidden",
-          "isCorrect": false
-        },
-        {
-          "text": "Obvious",
-          "isCorrect": true
-        },
-        {
-          "text": "Overlooked",
-          "isCorrect": false
-        },
-        {
-          "text": "Discreet",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "If 'lucid' means clear, which of the following is its antonym?",
-      "explanation": "'Lucid' means easy to understand and clear, so its antonym would be 'confused'.",
-      "options": [
-        {
-          "text": "Obscure",
-          "isCorrect": false
-        },
-        {
-          "text": "Confused",
-          "isCorrect": true
-        },
-        {
-          "text": "Coherent",
-          "isCorrect": false
-        },
-        {
-          "text": "Transparent",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "In the sentence \"He is a voracious reader,\" what does voracious mean?",
-      "explanation": "Voracious means having a very eager approach to an activity, in this case, reading.",
-      "options": [
-        {
           "text": "Disinterested",
-          "isCorrect": false
-        },
-        {
-          "text": "Eager",
-          "isCorrect": true
-        },
-        {
-          "text": "Bored",
-          "isCorrect": false
-        },
-        {
-          "text": "Causal",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "Which word means ‘to hold back’?",
-      "explanation": "To 'restrain' means to hold back and limit someone's actions or feelings.",
-      "options": [
-        {
-          "text": "Facilitate",
-          "isCorrect": false
-        },
-        {
-          "text": "Restrain",
-          "isCorrect": true
-        },
-        {
-          "text": "Encourage",
-          "isCorrect": false
-        },
-        {
-          "text": "Motivate",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "What does the term 'censure' mean?",
-      "explanation": "To censure is to express severe disapproval of someone, especially in a formal context.",
-      "options": [
-        {
-          "text": "Praise",
-          "isCorrect": false
-        },
-        {
-          "text": "Approve",
-          "isCorrect": false
-        },
-        {
-          "text": "Criticize",
-          "isCorrect": true
-        },
-        {
-          "text": "Ignore",
-          "isCorrect": false
-        }
-      ]
-    },
-    {
-      "text": "A synonym for 'quintessential' is:",
-      "explanation": "'Quintessential' means representing the most perfect example of a quality, thus a synonym would be 'typical'.",
-      "options": [
-        {
-          "text": "Typical",
-          "isCorrect": true
-        },
-        {
-          "text": "Unusual",
-          "isCorrect": false
-        },
-        {
-          "text": "Rarity",
-          "isCorrect": false
-        },
-        {
-          "text": "Exceptional",
           "isCorrect": false
         }
       ]
