@@ -1,0 +1,665 @@
+{
+  "topic": "Similarities in Cognitive Assessment",
+  "questions": [
+    {
+      "text": "Which of the following pairs of words are most similar in meaning?",
+      "explanation": "The question tests vocabulary recognition and understanding of synonyms.",
+      "options": [
+        {
+          "text": "Angry - Upset",
+          "isCorrect": true
+        },
+        {
+          "text": "Happy - Sad",
+          "isCorrect": false
+        },
+        {
+          "text": "Fast - Slow",
+          "isCorrect": false
+        },
+        {
+          "text": "Bright - Dark",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What similarity exists between a tiger and a lion?",
+      "explanation": "Both animals belong to the same family, Panthera, and share similar habitats and behaviors.",
+      "options": [
+        {
+          "text": "Both are carnivorous mammals",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are aquatic creatures",
+          "isCorrect": false
+        },
+        {
+          "text": "Both can fly",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are herbivores",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How are a piano and a guitar similar?",
+      "explanation": "Both instruments are used to create music but operate on different principles.",
+      "options": [
+        {
+          "text": "Both are string instruments",
+          "isCorrect": false
+        },
+        {
+          "text": "Both require music theory to play",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are played with hands",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are electronic devices",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In what way are oranges and apples alike?",
+      "explanation": "Both are fruits and are often used in salads or smoothies.",
+      "options": [
+        {
+          "text": "Both are citrus fruits",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are typically red",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are sweet and nutritious",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are vegetables",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which two professions have similar responsibilities?",
+      "explanation": "The question aims to assess knowledge of job roles and similarities in duties.",
+      "options": [
+        {
+          "text": "Teacher - Professor",
+          "isCorrect": true
+        },
+        {
+          "text": "Doctor - Nurse",
+          "isCorrect": true
+        },
+        {
+          "text": "Engineer - Architect",
+          "isCorrect": false
+        },
+        {
+          "text": "Chef - Waiter",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Cats and dogs are similar because they are both:",
+      "explanation": "Both species often live as pets and share common human-animal bond characteristics.",
+      "options": [
+        {
+          "text": "Mammals",
+          "isCorrect": true
+        },
+        {
+          "text": "Reptiles",
+          "isCorrect": false
+        },
+        {
+          "text": "Fish",
+          "isCorrect": false
+        },
+        {
+          "text": "Amphibians",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is a common similarity between the sun and a light bulb?",
+      "explanation": "Both emit light and energy, facilitating visibility in the dark.",
+      "options": [
+        {
+          "text": "Both are sources of heat",
+          "isCorrect": true
+        },
+        {
+          "text": "Both can explode",
+          "isCorrect": false
+        },
+        {
+          "text": "Both require electricity",
+          "isCorrect": false
+        },
+        {
+          "text": "Both reflect light",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In terms of transportation, how are bicycles and cars alike?",
+      "explanation": "Both are modes of transportation that allow people to travel from one place to another.",
+      "options": [
+        {
+          "text": "Both can carry multiple passengers",
+          "isCorrect": false
+        },
+        {
+          "text": "Both help reduce travel time",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are powered by engines",
+          "isCorrect": false
+        },
+        {
+          "text": "Both can only travel on water",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following landscapes are most similar?",
+      "explanation": "Identifies geographic similarities and classifications.",
+      "options": [
+        {
+          "text": "Desert - Savannah",
+          "isCorrect": false
+        },
+        {
+          "text": "Ocean - Sea",
+          "isCorrect": true
+        },
+        {
+          "text": "Mountain - Hill",
+          "isCorrect": true
+        },
+        {
+          "text": "Forest - Jungle",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "How are novels and short stories similar?",
+      "explanation": "Both are forms of literary storytelling, using narrative to convey a message or theme.",
+      "options": [
+        {
+          "text": "Both are poems",
+          "isCorrect": false
+        },
+        {
+          "text": "Both tell stories",
+          "isCorrect": true
+        },
+        {
+          "text": "Both must be written by a single author only",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are always fictional",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In what way are elephants and rhinoceroses alike?",
+      "explanation": "Both are large mammals that face similar environmental threats.",
+      "options": [
+        {
+          "text": "Both are endangered species",
+          "isCorrect": true
+        },
+        {
+          "text": "Both live in water",
+          "isCorrect": false
+        },
+        {
+          "text": "Both can jump very high",
+          "isCorrect": false
+        },
+        {
+          "text": "Both have wings",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How are novels and biographies similar?",
+      "explanation": "Both are literary forms that convey narratives, though different in subject matter.",
+      "options": [
+        {
+          "text": "Both can be fictional",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are categorized as fiction",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are types of prose literature",
+          "isCorrect": true
+        },
+        {
+          "text": "Both must be illustrated",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What do a chef and a baker have in common?",
+      "explanation": "Both professions involve cooking and creating food products for consumption.",
+      "options": [
+        {
+          "text": "Both work in the same kitchen environment",
+          "isCorrect": true
+        },
+        {
+          "text": "Both specialize in savory dishes",
+          "isCorrect": false
+        },
+        {
+          "text": "Both can work outside",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are required to manage teams",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In which way are the words ‘swift’ and ‘quick’ similar?",
+      "explanation": "Both words are synonyms that describe rapid motion.",
+      "options": [
+        {
+          "text": "They are antonyms",
+          "isCorrect": false
+        },
+        {
+          "text": "They describe speed",
+          "isCorrect": true
+        },
+        {
+          "text": "They are colors",
+          "isCorrect": false
+        },
+        {
+          "text": "They refer to time periods",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which statement reflects a similarity between the ocean and the river?",
+      "explanation": "Both are large bodies of water, sharing similar ecosystems.",
+      "options": [
+        {
+          "text": "Both are freshwater bodies",
+          "isCorrect": false
+        },
+        {
+          "text": "Both can house marine life",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are always calm",
+          "isCorrect": false
+        },
+        {
+          "text": "Both can be found on land",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which two musical genres are most similar?",
+      "explanation": "The question assesses knowledge of music parallels and similarities.",
+      "options": [
+        {
+          "text": "Jazz - Blues",
+          "isCorrect": true
+        },
+        {
+          "text": "Rock - Classical",
+          "isCorrect": false
+        },
+        {
+          "text": "Pop - Metal",
+          "isCorrect": false
+        },
+        {
+          "text": "Country - Hip-Hop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is similar between a smartphone and a tablet?",
+      "explanation": "Both devices offer portable computing experiences for users.",
+      "options": [
+        {
+          "text": "Both can make phone calls",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are only used for gaming",
+          "isCorrect": false
+        },
+        {
+          "text": "Both have keyboards",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are only for children",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How are a rose and a tulip similar?",
+      "explanation": "Both are flowering plants that are commonly cultivated and appreciated for their beauty.",
+      "options": [
+        {
+          "text": "Both are types of trees",
+          "isCorrect": false
+        },
+        {
+          "text": "Both have petals and grow in gardens",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are aquatic plants",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are used in cooking",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How do a marathon and a sprint relate to one another?",
+      "explanation": "Both involve running, but differ in duration and intensity.",
+      "options": [
+        {
+          "text": "Both are formats of running races",
+          "isCorrect": true
+        },
+        {
+          "text": "Both take place on a track",
+          "isCorrect": false
+        },
+        {
+          "text": "Both require the same training",
+          "isCorrect": false
+        },
+        {
+          "text": "Both last the same amount of time",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following features are similar in a cat and a fox?",
+      "explanation": "Emphasizes the shared characteristics of two different species.",
+      "options": [
+        {
+          "text": "Both are domesticated pets",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are carnivorous and part of the same order",
+          "isCorrect": true
+        },
+        {
+          "text": "Both can be found in tropical regions",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are herbivores",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What do Windows and macOS have in common?",
+      "explanation": "Both are operating systems that manage computer hardware and software.",
+      "options": [
+        {
+          "text": "Both are used on smartphones only",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are operating systems",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are made by the same company",
+          "isCorrect": false
+        },
+        {
+          "text": "Both require the same hardware",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In what aspect are the Pacific Ocean and the Atlantic Ocean alike?",
+      "explanation": "Both are major oceans that cover large parts of the Earth and support diverse marine life.",
+      "options": [
+        {
+          "text": "Both are freshwater oceans",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are branches of the same ocean",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are saltwater bodies",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are found above the Arctic Circle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which pair of statements represents characters with similar roles in their respective stories?",
+      "explanation": "Identifies thematic similarities across different narratives or storytelling mediums.",
+      "options": [
+        {
+          "text": "Harry Potter - Katniss Everdeen",
+          "isCorrect": true
+        },
+        {
+          "text": "Sherlock Holmes - Doubting Thomas",
+          "isCorrect": false
+        },
+        {
+          "text": "Darth Vader - Gandalf",
+          "isCorrect": false
+        },
+        {
+          "text": "Frodo Baggins - Spider-Man",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How are the Earth and Mars comparable as planets?",
+      "explanation": "Both planets share similarities in surface features and potential for life.",
+      "options": [
+        {
+          "text": "Both have a breathable atmosphere",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are terrestrial planets",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are gas giants",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are without moons",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which features do amphibians and reptiles have in common?",
+      "explanation": "Both classes share traits in cold-blooded physiology and skin types.",
+      "options": [
+        {
+          "text": "Both can breathe underwater",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are ectothermic animals",
+          "isCorrect": true
+        },
+        {
+          "text": "Both lay eggs only in water",
+          "isCorrect": false
+        },
+        {
+          "text": "Both have fur",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What similarities exist between basketball and soccer?",
+      "explanation": "Both sports require teamwork, strategy, and physical fitness, though they have different rules and equipment.",
+      "options": [
+        {
+          "text": "Both are played with a round ball",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are team sports focusing on goal scoring",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are played primarily indoors",
+          "isCorrect": false
+        },
+        {
+          "text": "Both require nets for play",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which two colors are considered analogous?",
+      "explanation": "Colors that are next to each other on the color wheel typically create a harmonious effect.",
+      "options": [
+        {
+          "text": "Red - Orange",
+          "isCorrect": true
+        },
+        {
+          "text": "Red - Green",
+          "isCorrect": false
+        },
+        {
+          "text": "Blue - Yellow",
+          "isCorrect": false
+        },
+        {
+          "text": "Green - Purple",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How do clouds and cotton candy relate?",
+      "explanation": "Both are fluffy and white, often evoking imagery of softness.",
+      "options": [
+        {
+          "text": "Both are sweet",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are light and fluffy",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are edible",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are created through combustion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which two types of flora share common characteristics?",
+      "explanation": "Explores similarities in plant types based on their growth conditions and traits.",
+      "options": [
+        {
+          "text": "Cacti - Succulents",
+          "isCorrect": true
+        },
+        {
+          "text": "Maple - Oak",
+          "isCorrect": false
+        },
+        {
+          "text": "Rose - Dandelion",
+          "isCorrect": false
+        },
+        {
+          "text": "Plantain - Banana",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In the context of cooking, what is a similarity between boiling and steaming?",
+      "explanation": "Both methods involve cooking food using water cycles but with different approaches.",
+      "options": [
+        {
+          "text": "Both require direct contact with oil",
+          "isCorrect": false
+        },
+        {
+          "text": "Both use water to cook food indirectly",
+          "isCorrect": true
+        },
+        {
+          "text": "Both are methods that create creamy textures",
+          "isCorrect": false
+        },
+        {
+          "text": "Both are only for vegetables",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

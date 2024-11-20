@@ -1,0 +1,621 @@
+{
+  "topic": "Vocabulary",
+  "questions": [
+    {
+      "text": "What does the word 'ubiquitous' mean?",
+      "explanation": "The word 'ubiquitous' describes something that is present, appearing, or found everywhere. In context, when we say technology is ubiquitous, we mean it is widespread and commonly found in many aspects of life.",
+      "options": [
+        {
+          "text": "Unique and one of a kind",
+          "isCorrect": false
+        },
+        {
+          "text": "Found everywhere",
+          "isCorrect": true
+        },
+        {
+          "text": "Very rare",
+          "isCorrect": false
+        },
+        {
+          "text": "Difficult to find",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means the opposite of 'abundant'.",
+      "explanation": "The term 'abundant' means plentiful or more than enough. The opposite would therefore indicate scarcity or lack.",
+      "options": [
+        {
+          "text": "Scarce",
+          "isCorrect": true
+        },
+        {
+          "text": "Plentiful",
+          "isCorrect": false
+        },
+        {
+          "text": "Numerous",
+          "isCorrect": false
+        },
+        {
+          "text": "Ample",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word best describes someone who is 'indifferent'?",
+      "explanation": "Being indifferent means not having a strong opinion or feeling about something, often implying a lack of interest or concern.",
+      "options": [
+        {
+          "text": "Passionate",
+          "isCorrect": false
+        },
+        {
+          "text": "Apathetic",
+          "isCorrect": true
+        },
+        {
+          "text": "Enthusiastic",
+          "isCorrect": false
+        },
+        {
+          "text": "Excited",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'meticulous' mean in this context: 'She kept meticulous records of her expenses'?",
+      "explanation": "'Meticulous' means showing great attention to detail; very careful and precise. It implies thoroughness in maintaining accurate records.",
+      "options": [
+        {
+          "text": "Careless",
+          "isCorrect": false
+        },
+        {
+          "text": "Imprecise",
+          "isCorrect": false
+        },
+        {
+          "text": "Detailed",
+          "isCorrect": true
+        },
+        {
+          "text": "Basic",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'ambiguous' mean?",
+      "explanation": "'Ambiguous' refers to something that can be understood in more than one way or has double meanings, leading to confusion.",
+      "options": [
+        {
+          "text": "Clear and straightforward",
+          "isCorrect": false
+        },
+        {
+          "text": "Uncertain and unclear",
+          "isCorrect": true
+        },
+        {
+          "text": "Well-defined",
+          "isCorrect": false
+        },
+        {
+          "text": "Commonly known",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word means 'to make something clearer or easier to understand'?",
+      "explanation": "This description fits the word 'clarify', which refers to the process of making something less confusing and more comprehensible.",
+      "options": [
+        {
+          "text": "Obscure",
+          "isCorrect": false
+        },
+        {
+          "text": "Clarify",
+          "isCorrect": true
+        },
+        {
+          "text": "Muddle",
+          "isCorrect": false
+        },
+        {
+          "text": "Complicate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the best synonym for 'benevolent'?",
+      "explanation": "'Benevolent' means well-meaning and kindly. The best synonym would be something that conveys goodwill or kindness.",
+      "options": [
+        {
+          "text": "Malicious",
+          "isCorrect": false
+        },
+        {
+          "text": "Charitable",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Hostile",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means 'showing a lack of concern or interest'.",
+      "explanation": "This describes the word ' apathetic', which refers to a state of being uninterested or uninvolved.",
+      "options": [
+        {
+          "text": "Enthusiastic",
+          "isCorrect": false
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Apathetic",
+          "isCorrect": true
+        },
+        {
+          "text": "Concerned",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'pensive' mean?",
+      "explanation": "The word 'pensive' describes a state of being engaged in deep or serious thought, often with a slightly sad or reflective connotation.",
+      "options": [
+        {
+          "text": "Cheerful",
+          "isCorrect": false
+        },
+        {
+          "text": "Thoughtful",
+          "isCorrect": true
+        },
+        {
+          "text": "Superficial",
+          "isCorrect": false
+        },
+        {
+          "text": "Oblivious",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word best describes an action characterized as 'prudent'?",
+      "explanation": "'Prudent' refers to being cautious and showing good judgment, especially in practical matters. It implies careful planning and consideration of potential risks.",
+      "options": [
+        {
+          "text": "Reckless",
+          "isCorrect": false
+        },
+        {
+          "text": "Wise",
+          "isCorrect": true
+        },
+        {
+          "text": "Impulsive",
+          "isCorrect": false
+        },
+        {
+          "text": "Careless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'nefarious'?",
+      "explanation": "'Nefarious' means wicked or criminal; it describes actions or intentions that are morally wrong or villainous.",
+      "options": [
+        {
+          "text": "Noble",
+          "isCorrect": false
+        },
+        {
+          "text": "Wicked",
+          "isCorrect": true
+        },
+        {
+          "text": "Honest",
+          "isCorrect": false
+        },
+        {
+          "text": "Boring",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does the term 'deplete' mean?",
+      "explanation": "To 'deplete' means to use up the supply or resources of something; it implies that something is diminished or reduced in quantity.",
+      "options": [
+        {
+          "text": "To conserve",
+          "isCorrect": false
+        },
+        {
+          "text": "To strengthen",
+          "isCorrect": false
+        },
+        {
+          "text": "To use up",
+          "isCorrect": true
+        },
+        {
+          "text": "To accumulate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means 'easily understood'.",
+      "explanation": "The term 'intelligible' means capable of being understood; it emphasizes clarity in communication or comprehension.",
+      "options": [
+        {
+          "text": "Confusing",
+          "isCorrect": false
+        },
+        {
+          "text": "Unclear",
+          "isCorrect": false
+        },
+        {
+          "text": "Intelligible",
+          "isCorrect": true
+        },
+        {
+          "text": "Ambiguous",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is a synonym for 'malevolent'?",
+      "explanation": "'Malevolent' refers to having or showing a wish to do evil to others. A synonym would also imply ill-intent or harm.",
+      "options": [
+        {
+          "text": "Friendly",
+          "isCorrect": false
+        },
+        {
+          "text": "Evil",
+          "isCorrect": true
+        },
+        {
+          "text": "Benevolent",
+          "isCorrect": false
+        },
+        {
+          "text": "Caring",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word would you use to describe someone who is 'gregarious'?",
+      "explanation": "'Gregarious' means sociable and fond of company. It refers to someone who enjoys being around others.",
+      "options": [
+        {
+          "text": "Shy",
+          "isCorrect": false
+        },
+        {
+          "text": "Sociable",
+          "isCorrect": true
+        },
+        {
+          "text": "Reserved",
+          "isCorrect": false
+        },
+        {
+          "text": "Reticent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'superfluous' mean?",
+      "explanation": "The word 'superfluous' describes something that is unnecessary, especially through being more than enough. It implies excess or redundancy.",
+      "options": [
+        {
+          "text": "Necessary",
+          "isCorrect": false
+        },
+        {
+          "text": "Excessive",
+          "isCorrect": true
+        },
+        {
+          "text": "Essential",
+          "isCorrect": false
+        },
+        {
+          "text": "Required",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means 'to alleviate discomfort or suffering'.",
+      "explanation": "This concept is encapsulated in the word 'relieve', which indicates providing ease or comfort from pain or hardship.",
+      "options": [
+        {
+          "text": "Perpetuate",
+          "isCorrect": false
+        },
+        {
+          "text": "Aggravate",
+          "isCorrect": false
+        },
+        {
+          "text": "Relieve",
+          "isCorrect": true
+        },
+        {
+          "text": "Compound",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'cogent' mean in context?",
+      "explanation": "'Cogent' means clear, logical, and convincing. It is often used to describe arguments and reasoning that are compelling and well-presented.",
+      "options": [
+        {
+          "text": "Weak",
+          "isCorrect": false
+        },
+        {
+          "text": "Convincing",
+          "isCorrect": true
+        },
+        {
+          "text": "Ambiguous",
+          "isCorrect": false
+        },
+        {
+          "text": "Illogical",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is a synonym of 'metamorphosis'?",
+      "explanation": "Metamorphosis refers to a transformation or change, especially in form or structure. A synonym might express similar change.",
+      "options": [
+        {
+          "text": "Stagnation",
+          "isCorrect": false
+        },
+        {
+          "text": "Transformation",
+          "isCorrect": true
+        },
+        {
+          "text": "Fixation",
+          "isCorrect": false
+        },
+        {
+          "text": "Consistency",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the best meaning for 'audacious'.",
+      "explanation": "The word 'audacious' means showing a willingness to take surprisingly bold risks; it often implies fearlessness and bravery.",
+      "options": [
+        {
+          "text": "Timid",
+          "isCorrect": false
+        },
+        {
+          "text": "Bold",
+          "isCorrect": true
+        },
+        {
+          "text": "Cautious",
+          "isCorrect": false
+        },
+        {
+          "text": "Uncertain",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'diligent' mean?",
+      "explanation": "'Diligent' describes someone who is showing care and effort in their work or duties; it emphasizes conscientious and hard-working qualities.",
+      "options": [
+        {
+          "text": "Careless",
+          "isCorrect": false
+        },
+        {
+          "text": "Lazy",
+          "isCorrect": false
+        },
+        {
+          "text": "Hard-working",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means 'having a harmful effect, especially in a gradual or subtle way'.",
+      "explanation": "This matches the definition of 'insidious', which indicates something that can be dangerous because it passes unnoticed or wears you down slowly.",
+      "options": [
+        {
+          "text": "Harmless",
+          "isCorrect": false
+        },
+        {
+          "text": "Beneficial",
+          "isCorrect": false
+        },
+        {
+          "text": "Insidious",
+          "isCorrect": true
+        },
+        {
+          "text": "Obvious",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'ephemeral'?",
+      "explanation": "'Ephemeral' refers to something lasting for a very short time, emphasizing its transient nature.",
+      "options": [
+        {
+          "text": "Everlasting",
+          "isCorrect": false
+        },
+        {
+          "text": "Short-lived",
+          "isCorrect": true
+        },
+        {
+          "text": "Timeless",
+          "isCorrect": false
+        },
+        {
+          "text": "Permanent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following describes 'imminent'?",
+      "explanation": "The term 'imminent' means that something is about to happen very soon, often referring to an event that is impending.",
+      "options": [
+        {
+          "text": "Remote",
+          "isCorrect": false
+        },
+        {
+          "text": "Imminent",
+          "isCorrect": true
+        },
+        {
+          "text": "Distant",
+          "isCorrect": false
+        },
+        {
+          "text": "Unlikely",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'resilient' mean?",
+      "explanation": "'Resilient' describes the ability to recover quickly from difficulties; it indicates toughness and adaptability.",
+      "options": [
+        {
+          "text": "Weak",
+          "isCorrect": false
+        },
+        {
+          "text": "Tough",
+          "isCorrect": true
+        },
+        {
+          "text": "Fragile",
+          "isCorrect": false
+        },
+        {
+          "text": "Inflexible",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means 'a diversion from the main issue'.",
+      "explanation": "This corresponds to the term 'digression', which refers to a departure from the main topic in speech or writing.",
+      "options": [
+        {
+          "text": "Focus",
+          "isCorrect": false
+        },
+        {
+          "text": "Digression",
+          "isCorrect": true
+        },
+        {
+          "text": "Convergence",
+          "isCorrect": false
+        },
+        {
+          "text": "Continuity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'acrimonious'?",
+      "explanation": "'Acrimonious' describes a situation marked by bitterness or ill feeling, often used to characterize disputes or disagreements.",
+      "options": [
+        {
+          "text": "Friendly",
+          "isCorrect": false
+        },
+        {
+          "text": "Bitter",
+          "isCorrect": true
+        },
+        {
+          "text": "Peaceful",
+          "isCorrect": false
+        },
+        {
+          "text": "Mild",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'solicitous' mean?",
+      "explanation": "'Solicitous' refers to showing interest or concern; it implies a caring or attentive nature toward someone or something.",
+      "options": [
+        {
+          "text": "Unconcerned",
+          "isCorrect": false
+        },
+        {
+          "text": "Attentive",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Disinterested",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

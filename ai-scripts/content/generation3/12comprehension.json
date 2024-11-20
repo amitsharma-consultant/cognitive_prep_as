@@ -1,0 +1,621 @@
+{
+  "topic": "Comprehension",
+  "questions": [
+    {
+      "text": "What does the phrase 'bite the bullet' mean?",
+      "explanation": "The phrase 'bite the bullet' means to endure a painful or unpleasant situation that is unavoidable. It originates from the practice of having soldiers bite down on a bullet during surgery to cope with the pain.",
+      "options": [
+        {
+          "text": "To take a risk without fear",
+          "isCorrect": false
+        },
+        {
+          "text": "To endure a painful situation",
+          "isCorrect": true
+        },
+        {
+          "text": "To act courageously in battle",
+          "isCorrect": false
+        },
+        {
+          "text": "To eat fast food quickly",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the primary purpose of a supporting detail in a paragraph?",
+      "explanation": "Supporting details provide evidence or examples that back up the main idea or topic sentence, helping to clarify or enhance the reader's understanding of the main point.",
+      "options": [
+        {
+          "text": "To introduce a new topic",
+          "isCorrect": false
+        },
+        {
+          "text": "To clarify the main idea",
+          "isCorrect": true
+        },
+        {
+          "text": "To summarize the entire paragraph",
+          "isCorrect": false
+        },
+        {
+          "text": "To confuse the reader",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In the context of literature, what does 'foreshadowing' mean?",
+      "explanation": "Foreshadowing is a literary device used to give an indication or hint of what is to come later in the story, building anticipation and tension.",
+      "options": [
+        {
+          "text": "A character's internal conflict",
+          "isCorrect": false
+        },
+        {
+          "text": "The background of the story",
+          "isCorrect": false
+        },
+        {
+          "text": "Hints about future events",
+          "isCorrect": true
+        },
+        {
+          "text": "The moral lesson of the story",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following sentences contains an example of irony?",
+      "explanation": "Irony involves a contrast between expectation and reality. The correct option illustrates a situation where the outcome is contrary to what was expected.",
+      "options": [
+        {
+          "text": "The fire station burned down.",
+          "isCorrect": true
+        },
+        {
+          "text": "She found solace in nature.",
+          "isCorrect": false
+        },
+        {
+          "text": "He trained hard but lost the race.",
+          "isCorrect": false
+        },
+        {
+          "text": "The teacher awarded everyone an F.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is an inference?",
+      "explanation": "An inference is a conclusion reached based on evidence and reasoning rather than from explicit statements. It involves reading between the lines to understand deeper meanings.",
+      "options": [
+        {
+          "text": "A stated fact",
+          "isCorrect": false
+        },
+        {
+          "text": "A guess with no basis",
+          "isCorrect": false
+        },
+        {
+          "text": "A reasoned conclusion from evidence",
+          "isCorrect": true
+        },
+        {
+          "text": "A type of figurative language",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of the word 'tenacious' as used in a passage about persistence?",
+      "explanation": "Tenacious means holding fast or persistent; in this context, it refers to someone who does not give up easily, often despite challenges.",
+      "options": [
+        {
+          "text": "Lazy and unmotivated",
+          "isCorrect": false
+        },
+        {
+          "text": "Weak and indecisive",
+          "isCorrect": false
+        },
+        {
+          "text": "Persistent and determined",
+          "isCorrect": true
+        },
+        {
+          "text": "Irresponsive and careless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Why would an author use a metaphor in their writing?",
+      "explanation": "A metaphor is used to make a comparison between two unrelated things to highlight similarities, providing deeper meaning or insight into the concept being discussed.",
+      "options": [
+        {
+          "text": "To confuse the reader",
+          "isCorrect": false
+        },
+        {
+          "text": "To create vivid imagery or understanding",
+          "isCorrect": true
+        },
+        {
+          "text": "To state facts clearly",
+          "isCorrect": false
+        },
+        {
+          "text": "To follow a strict writing style",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following best describes the tone of a passage that uses humor and sarcasm?",
+      "explanation": "The tone reflects the author's attitude toward the subject matter, and humor and sarcasm suggest a light-hearted but critical approach.",
+      "options": [
+        {
+          "text": "Solemn and serious",
+          "isCorrect": false
+        },
+        {
+          "text": "Joyful and cheerful",
+          "isCorrect": false
+        },
+        {
+          "text": "Mocking and ironic",
+          "isCorrect": true
+        },
+        {
+          "text": "Melancholic and profound",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of using dialogue in a story?",
+      "explanation": "Dialogue serves to reveal character personalities, advance the plot, and provide insight into relationships between characters, making the story more engaging.",
+      "options": [
+        {
+          "text": "To fill space in the narrative",
+          "isCorrect": false
+        },
+        {
+          "text": "To introduce new characters",
+          "isCorrect": false
+        },
+        {
+          "text": "To enhance character development and plot",
+          "isCorrect": true
+        },
+        {
+          "text": "To summarize past events",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does the term 'denouement' refer to in a narrative?",
+      "explanation": "Denouement is the final part of a narrative where the strands of the plot are drawn together, resolving conflicts and providing closure to the story.",
+      "options": [
+        {
+          "text": "The introduction of a story",
+          "isCorrect": false
+        },
+        {
+          "text": "The climax of the story",
+          "isCorrect": false
+        },
+        {
+          "text": "The resolution of a plot's conflicts",
+          "isCorrect": true
+        },
+        {
+          "text": "The beginning conflict of the story",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In the sentence 'The wind whispered through the trees,' which literary device is being used?",
+      "explanation": "This sentence uses personification, attributing human characteristics (whispering) to non-human entities (the wind), creating a more vivid image.",
+      "options": [
+        {
+          "text": "Simile",
+          "isCorrect": false
+        },
+        {
+          "text": "Metaphor",
+          "isCorrect": false
+        },
+        {
+          "text": "Personification",
+          "isCorrect": true
+        },
+        {
+          "text": "Hyperbole",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is a theme in literature?",
+      "explanation": "A theme is the central idea, topic, or message conveyed in a piece of literature, often reflecting broader human experiences or societal issues.",
+      "options": [
+        {
+          "text": "The setting of the story",
+          "isCorrect": false
+        },
+        {
+          "text": "The author's intent",
+          "isCorrect": false
+        },
+        {
+          "text": "The central message or insight",
+          "isCorrect": true
+        },
+        {
+          "text": "The character development",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How does an author's word choice affect their writing?",
+      "explanation": "An author's choice of words (diction) can significantly influence tone, mood, and the reader's perception of characters or situations, shaping the overall impact of the text.",
+      "options": [
+        {
+          "text": "It has little effect on the text",
+          "isCorrect": false
+        },
+        {
+          "text": "It defines the genre of the writing",
+          "isCorrect": false
+        },
+        {
+          "text": "It affects tone and reader perception",
+          "isCorrect": true
+        },
+        {
+          "text": "It solely determines the length of the text",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "When an author provides background information, what is it typically called?",
+      "explanation": "Background information is often referred to as 'exposition' in literature; it sets the stage for the story by providing necessary context, including setting, characters, and conflicts.",
+      "options": [
+        {
+          "text": "Climax",
+          "isCorrect": false
+        },
+        {
+          "text": "Exposition",
+          "isCorrect": true
+        },
+        {
+          "text": "Resolution",
+          "isCorrect": false
+        },
+        {
+          "text": "Foreshadowing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the effect of a cliffhanger at the end of a chapter?",
+      "explanation": "A cliffhanger leaves the reader in suspense, eager to continue reading to find out what happens next, effectively engaging them in the narrative.",
+      "options": [
+        {
+          "text": "To provide a clear conclusion",
+          "isCorrect": false
+        },
+        {
+          "text": "To summarize previous events",
+          "isCorrect": false
+        },
+        {
+          "text": "To create suspense and anticipation",
+          "isCorrect": true
+        },
+        {
+          "text": "To confuse the reader about the plot",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following statements is an example of a simile?",
+      "explanation": "A simile is a figure of speech that compares two different things using 'like' or 'as'. The correct option uses 'as' to make the comparison.",
+      "options": [
+        {
+          "text": "Her smile was bright like the sun.",
+          "isCorrect": true
+        },
+        {
+          "text": "The stars danced in the sky.",
+          "isCorrect": false
+        },
+        {
+          "text": "Time is a thief.",
+          "isCorrect": false
+        },
+        {
+          "text": "His heart was a stone.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which vital function does the conclusion of an essay serve?",
+      "explanation": "The conclusion summarizes the main points and reinforces the thesis, providing a final perspective on the topic discussed without introducing new information.",
+      "options": [
+        {
+          "text": "Introduces new evidence",
+          "isCorrect": false
+        },
+        {
+          "text": "Summarizes and reinforces the thesis",
+          "isCorrect": true
+        },
+        {
+          "text": "Raises new questions",
+          "isCorrect": false
+        },
+        {
+          "text": "Details minor points",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does the phrase 'the ball is in your court' suggest?",
+      "explanation": "This phrase indicates that it is now someone else's turn to make a decision or take action, typically following an event in which they had the opportunity to respond.",
+      "options": [
+        {
+          "text": "You should take immediate action",
+          "isCorrect": false
+        },
+        {
+          "text": "The decision is now yours to make",
+          "isCorrect": true
+        },
+        {
+          "text": "You have missed your chance",
+          "isCorrect": false
+        },
+        {
+          "text": "You are not responsible for anything",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What role does a narrator play in a story?",
+      "explanation": "The narrator is the voice or character that tells the story, guiding the reader through events, and can offer varying levels of insight into characters' thoughts and feelings.",
+      "options": [
+        {
+          "text": "To confuse the reader",
+          "isCorrect": false
+        },
+        {
+          "text": "To provide commentary on the events",
+          "isCorrect": false
+        },
+        {
+          "text": "To tell the story from a specific perspective",
+          "isCorrect": true
+        },
+        {
+          "text": "To engage directly with characters",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which literary device involves a comparison without using 'like' or 'as'?",
+      "explanation": "This describes a metaphor, which directly states that one thing is another to create a more vivid image or connection.",
+      "options": [
+        {
+          "text": "Simile",
+          "isCorrect": false
+        },
+        {
+          "text": "Personification",
+          "isCorrect": false
+        },
+        {
+          "text": "Metaphor",
+          "isCorrect": true
+        },
+        {
+          "text": "Hyperbole",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does it mean for a text to be objective?",
+      "explanation": "An objective text is one that presents facts without personal bias or opinions, allowing the reader to form conclusions based on information presented.",
+      "options": [
+        {
+          "text": "Subjective and personal",
+          "isCorrect": false
+        },
+        {
+          "text": "Balanced and factual",
+          "isCorrect": true
+        },
+        {
+          "text": "Emotional and persuasive",
+          "isCorrect": false
+        },
+        {
+          "text": "Vague and confusing",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How can context improve comprehension?",
+      "explanation": "Context provides background information that helps the reader understand the circumstances surrounding the text, enriching their comprehension and interpretation.",
+      "options": [
+        {
+          "text": "It can complicate understanding",
+          "isCorrect": false
+        },
+        {
+          "text": "It clarifies meanings and intentions",
+          "isCorrect": true
+        },
+        {
+          "text": "It makes the text longer",
+          "isCorrect": false
+        },
+        {
+          "text": "It alters the main ideas presented",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the purpose of using rhetorical questions in writing?",
+      "explanation": "Rhetorical questions are used to engage the reader's thought processes, prompting them to consider a particular issue or to emphasize a point without expecting an answer.",
+      "options": [
+        {
+          "text": "To confuse the reader",
+          "isCorrect": false
+        },
+        {
+          "text": "To solicit explicit answers",
+          "isCorrect": false
+        },
+        {
+          "text": "To provoke thought or emphasize a point",
+          "isCorrect": true
+        },
+        {
+          "text": "To distract from the main ideas",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In a story, what does the protagonist refer to?",
+      "explanation": "The protagonist is the main character around whom the story revolves, often facing challenges and conflicts that drive the narrative.",
+      "options": [
+        {
+          "text": "The villain of the story",
+          "isCorrect": false
+        },
+        {
+          "text": "The main character or hero",
+          "isCorrect": true
+        },
+        {
+          "text": "A side character",
+          "isCorrect": false
+        },
+        {
+          "text": "The narrator's voice",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does it mean if a character is said to have an 'arc'?",
+      "explanation": "A character arc describes the transformation or inner journey of a character throughout the story, indicating growth or change in response to experiences.",
+      "options": [
+        {
+          "text": "Their physical appearance",
+          "isCorrect": false
+        },
+        {
+          "text": "Their dialogue style",
+          "isCorrect": false
+        },
+        {
+          "text": "Their emotional or moral growth",
+          "isCorrect": true
+        },
+        {
+          "text": "The setting they are in",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Why is tone important in a narrative?",
+      "explanation": "Tone conveys the author's attitude toward the subject and affects how the reader perceives the story, influencing the emotional response to the text.",
+      "options": [
+        {
+          "text": "It does not impact reader perception",
+          "isCorrect": false
+        },
+        {
+          "text": "It solely establishes the genre",
+          "isCorrect": false
+        },
+        {
+          "text": "It shapes the reader’s emotional experience",
+          "isCorrect": true
+        },
+        {
+          "text": "It describes character actions",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In what way can allegory be used in literature?",
+      "explanation": "An allegory is a narrative that serves as an extended metaphor, conveying deeper moral, social, or political meanings through characters and events representative of real-world issues.",
+      "options": [
+        {
+          "text": "To tell a straightforward story",
+          "isCorrect": false
+        },
+        {
+          "text": "To craft decorous language",
+          "isCorrect": false
+        },
+        {
+          "text": "To metaphorically illustrate complex ideas",
+          "isCorrect": true
+        },
+        {
+          "text": "To mislead the reader intentionally",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Why might an author choose first-person narration?",
+      "explanation": "First-person narration allows a more intimate connection between the narrator and the reader, offering personal insight into thoughts and feelings of the narrator.",
+      "options": [
+        {
+          "text": "To present an objective viewpoint",
+          "isCorrect": false
+        },
+        {
+          "text": "To create distance from the events",
+          "isCorrect": false
+        },
+        {
+          "text": "To enhance emotional connection and perspective",
+          "isCorrect": true
+        },
+        {
+          "text": "To confuse the timeline of the narrative",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

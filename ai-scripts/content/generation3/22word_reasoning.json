@@ -1,0 +1,555 @@
+{
+  "topic": "Word Reasoning",
+  "questions": [
+    {
+      "text": "What is the opposite of 'benevolent'?",
+      "explanation": "Benevolent means kind or charitable. The opposite would be malevolent, which means having or showing a wish to do evil to others.",
+      "options": [
+        {
+          "text": "Malicious",
+          "isCorrect": true
+        },
+        {
+          "text": "Generous",
+          "isCorrect": false
+        },
+        {
+          "text": "Altruistic",
+          "isCorrect": false
+        },
+        {
+          "text": "Selfish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word is a synonym for 'meticulous'?",
+      "explanation": "Meticulous means showing great attention to detail. Careful is a synonym that conveys this meaning.",
+      "options": [
+        {
+          "text": "Careless",
+          "isCorrect": false
+        },
+        {
+          "text": "Negligent",
+          "isCorrect": false
+        },
+        {
+          "text": "Careful",
+          "isCorrect": true
+        },
+        {
+          "text": "Relaxed",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Select the word that best completes the analogy: 'Fire is to __________ as ice is to freeze.'",
+      "explanation": "Fire causes things to burn, while ice causes things to freeze. The best word here is melt, as it relates to the opposite of freezing.",
+      "options": [
+        {
+          "text": "Melt",
+          "isCorrect": true
+        },
+        {
+          "text": "Boil",
+          "isCorrect": false
+        },
+        {
+          "text": "Spark",
+          "isCorrect": false
+        },
+        {
+          "text": "Envelop",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word means 'to hesitate'?",
+      "explanation": "Hesitating refers to pausing before deciding. The best word here is waver, which conveys uncertainty and indecisiveness.",
+      "options": [
+        {
+          "text": "Decide",
+          "isCorrect": false
+        },
+        {
+          "text": "Waver",
+          "isCorrect": true
+        },
+        {
+          "text": "Contemplate",
+          "isCorrect": false
+        },
+        {
+          "text": "Confirm",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'exacerbate' mean?",
+      "explanation": "Exacerbate means to make a situation worse. It is often used in the context of problems or difficulties becoming more serious.",
+      "options": [
+        {
+          "text": "Improve",
+          "isCorrect": false
+        },
+        {
+          "text": "Worsen",
+          "isCorrect": true
+        },
+        {
+          "text": "Simplify",
+          "isCorrect": false
+        },
+        {
+          "text": "Resolve",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word is an antonym of 'candid'?",
+      "explanation": "Candid means truthful and straightforward. The antonym would be secretive, which implies keeping things hidden.",
+      "options": [
+        {
+          "text": "Forthright",
+          "isCorrect": false
+        },
+        {
+          "text": "Secretive",
+          "isCorrect": true
+        },
+        {
+          "text": "Open",
+          "isCorrect": false
+        },
+        {
+          "text": "Sincere",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Find the word that best describes a repetitive or monotonous task.",
+      "explanation": "A task that is repetitive and monotonous can be described as tedious, which means it is too long, slow, or dull.",
+      "options": [
+        {
+          "text": "Exciting",
+          "isCorrect": false
+        },
+        {
+          "text": "Tedious",
+          "isCorrect": true
+        },
+        {
+          "text": "Engaging",
+          "isCorrect": false
+        },
+        {
+          "text": "Innovative",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these words means 'to reveal'?",
+      "explanation": "To reveal something is to make it known or visible. The best word that conveys this meaning is expose.",
+      "options": [
+        {
+          "text": "Conceal",
+          "isCorrect": false
+        },
+        {
+          "text": "Cover",
+          "isCorrect": false
+        },
+        {
+          "text": "Expose",
+          "isCorrect": true
+        },
+        {
+          "text": "Hide",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does the word 'tenacious' imply?",
+      "explanation": "Tenacious refers to someone or something that is persistent or refuses to give up. It's often used to describe a strong-willed person.",
+      "options": [
+        {
+          "text": "Weak",
+          "isCorrect": false
+        },
+        {
+          "text": "Persistent",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Timid",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which term is associated with scientific experiments?",
+      "explanation": "In scientific contexts, 'empirical' refers to knowledge that is based on observation or experimentation rather than theory alone.",
+      "options": [
+        {
+          "text": "Empirical",
+          "isCorrect": true
+        },
+        {
+          "text": "Theoretical",
+          "isCorrect": false
+        },
+        {
+          "text": "Abstract",
+          "isCorrect": false
+        },
+        {
+          "text": "Hypothetical",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the best word to complete this sentence: 'His __________ nature made him a popular leader.'",
+      "explanation": "The word should imply a positive trait. Charismatic means having a compelling charm or appeal, which fits perfectly.",
+      "options": [
+        {
+          "text": "Aggressive",
+          "isCorrect": false
+        },
+        {
+          "text": "Charismatic",
+          "isCorrect": true
+        },
+        {
+          "text": "Apathetic",
+          "isCorrect": false
+        },
+        {
+          "text": "Boring",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Identify the synonym of 'arduous'.",
+      "explanation": "Arduous means requiring a lot of effort and hard work. A synonym is strenuous, which also conveys difficulty and intensity.",
+      "options": [
+        {
+          "text": "Easy",
+          "isCorrect": false
+        },
+        {
+          "text": "Strenuous",
+          "isCorrect": true
+        },
+        {
+          "text": "Simple",
+          "isCorrect": false
+        },
+        {
+          "text": "Light",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'ubiquitous' mean?",
+      "explanation": "Ubiquitous means present everywhere at the same time. It often describes things that are widespread.",
+      "options": [
+        {
+          "text": "Rare",
+          "isCorrect": false
+        },
+        {
+          "text": "Present everywhere",
+          "isCorrect": true
+        },
+        {
+          "text": "Obscure",
+          "isCorrect": false
+        },
+        {
+          "text": "Absent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is an antonym for 'abundant'?",
+      "explanation": "Abundant means plentiful or large in quantity. The antonym is scarce, meaning in short supply or rare.",
+      "options": [
+        {
+          "text": "Plentiful",
+          "isCorrect": false
+        },
+        {
+          "text": "Scarce",
+          "isCorrect": true
+        },
+        {
+          "text": "Rich",
+          "isCorrect": false
+        },
+        {
+          "text": "Ample",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that best describes someone who is able to adapt. ",
+      "explanation": "An adaptable person can adjust easily to changes. The best word to describe this ability is flexible.",
+      "options": [
+        {
+          "text": "Rigid",
+          "isCorrect": false
+        },
+        {
+          "text": "Flexible",
+          "isCorrect": true
+        },
+        {
+          "text": "Inflexible",
+          "isCorrect": false
+        },
+        {
+          "text": "Stubborn",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'idiosyncratic'?",
+      "explanation": "Idiosyncratic describes a characteristic or habit that is peculiar or unique to an individual.",
+      "options": [
+        {
+          "text": "Common",
+          "isCorrect": false
+        },
+        {
+          "text": "Normal",
+          "isCorrect": false
+        },
+        {
+          "text": "Unique",
+          "isCorrect": true
+        },
+        {
+          "text": "Traditional",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word is a synonym for 'obsolete'?",
+      "explanation": "Obsolete means no longer in use or outdated. The synonym archaic conveys a similar idea of being old-fashioned or no longer applicable.",
+      "options": [
+        {
+          "text": "Modern",
+          "isCorrect": false
+        },
+        {
+          "text": "Archaic",
+          "isCorrect": true
+        },
+        {
+          "text": "Current",
+          "isCorrect": false
+        },
+        {
+          "text": "Popular",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Identify the correct word for 'to cut short'.",
+      "explanation": "To cut short can be expressed by the word truncate, which means to shorten something by cutting off a part of it.",
+      "options": [
+        {
+          "text": "Extend",
+          "isCorrect": false
+        },
+        {
+          "text": "Truncate",
+          "isCorrect": true
+        },
+        {
+          "text": "Lengthen",
+          "isCorrect": false
+        },
+        {
+          "text": "Elongate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the opposite of 'euphoria'?",
+      "explanation": "Euphoria refers to a feeling of intense happiness or excitement, while the opposite would be misery, which denotes great distress or discomfort.",
+      "options": [
+        {
+          "text": "Joy",
+          "isCorrect": false
+        },
+        {
+          "text": "Elation",
+          "isCorrect": false
+        },
+        {
+          "text": "Misery",
+          "isCorrect": true
+        },
+        {
+          "text": "Excitement",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the synonym for 'vigilant'.",
+      "explanation": "Vigilant means keeping careful watch for possible danger or difficulties. Attentive is a synonym that conveys this meaning effectively.",
+      "options": [
+        {
+          "text": "Unaware",
+          "isCorrect": false
+        },
+        {
+          "text": "Careless",
+          "isCorrect": false
+        },
+        {
+          "text": "Attentive",
+          "isCorrect": true
+        },
+        {
+          "text": "Neglectful",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Select the word that best replaces 'perplexing' in this sentence: 'The math problem was __________ for most students.'",
+      "explanation": "Perplexing means confusing or puzzling. A good replacement would be baffling, which carries a similar meaning.",
+      "options": [
+        {
+          "text": "Baffling",
+          "isCorrect": true
+        },
+        {
+          "text": "Simple",
+          "isCorrect": false
+        },
+        {
+          "text": "Clear",
+          "isCorrect": false
+        },
+        {
+          "text": "Straightforward",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word means 'to support or help'?",
+      "explanation": "To support or help can be represented by the word bolster, which means to reinforce or strengthen.",
+      "options": [
+        {
+          "text": "Undermine",
+          "isCorrect": false
+        },
+        {
+          "text": "Neglect",
+          "isCorrect": false
+        },
+        {
+          "text": "Bolster",
+          "isCorrect": true
+        },
+        {
+          "text": "Restrict",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Identify the antonym for 'concur'.",
+      "explanation": "To concur means to agree, while the antonym would be dissent, meaning to disagree.",
+      "options": [
+        {
+          "text": "Agree",
+          "isCorrect": false
+        },
+        {
+          "text": "Accede",
+          "isCorrect": false
+        },
+        {
+          "text": "Dissent",
+          "isCorrect": true
+        },
+        {
+          "text": "Consent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'transitory' mean?",
+      "explanation": "Transitory refers to something temporary or not lasting. It often describes things that are fleeting or impermanent.",
+      "options": [
+        {
+          "text": "Permanent",
+          "isCorrect": false
+        },
+        {
+          "text": "Temporary",
+          "isCorrect": true
+        },
+        {
+          "text": "Abiding",
+          "isCorrect": false
+        },
+        {
+          "text": "Enduring",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the term that best fits: 'A __________ approach to solving the issue yielded surprising results.'",
+      "explanation": "A fresh or new approach can be described as innovative, which means introducing new ideas or methods.",
+      "options": [
+        {
+          "text": "Stale",
+          "isCorrect": false
+        },
+        {
+          "text": "Innovative",
+          "isCorrect": true
+        },
+        {
+          "text": "Conventional",
+          "isCorrect": false
+        },
+        {
+          "text": "Outdated",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

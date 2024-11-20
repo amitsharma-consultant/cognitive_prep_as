@@ -1,0 +1,577 @@
+{
+  "topic": "Coding",
+  "questions": [
+    {
+      "text": "What is the primary purpose of coding in computer programming?",
+      "explanation": "Coding is the process of creating software and applications that enable a computer to perform specific tasks. It is essentially translating human ideas into a language that computers can understand.",
+      "options": [
+        {
+          "text": "To create hardware devices",
+          "isCorrect": false
+        },
+        {
+          "text": "To enable communication between computers",
+          "isCorrect": false
+        },
+        {
+          "text": "To instruct the computer on how to perform actions",
+          "isCorrect": true
+        },
+        {
+          "text": "To design user interfaces only",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In a programming context, what does 'syntax' refer to?",
+      "explanation": "Syntax in programming refers to the set of rules that defines the combinations of symbols that are considered to be correctly structured programs in a given programming language.",
+      "options": [
+        {
+          "text": "The overall speed of the code",
+          "isCorrect": false
+        },
+        {
+          "text": "The aesthetic appearance of the code",
+          "isCorrect": false
+        },
+        {
+          "text": "The rules for building valid statements in a programming language",
+          "isCorrect": true
+        },
+        {
+          "text": "The quality of the output data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following is a common type of loop in programming?",
+      "explanation": "Loops are used in programming to execute a block of code repeatedly based on a certain condition. 'For loop', 'while loop', and 'do-while loop' are common types of loops.",
+      "options": [
+        {
+          "text": "If-then statements",
+          "isCorrect": false
+        },
+        {
+          "text": "Rows",
+          "isCorrect": false
+        },
+        {
+          "text": "Variables",
+          "isCorrect": false
+        },
+        {
+          "text": "For loop",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "What does 'variable' mean in coding?",
+      "explanation": "A variable is a symbolic name for a value and can change during program execution. It is used to store data that can be referenced and manipulated in a program.",
+      "options": [
+        {
+          "text": "A fixed value that cannot change",
+          "isCorrect": false
+        },
+        {
+          "text": "A placeholder for data that can vary",
+          "isCorrect": true
+        },
+        {
+          "text": "A type of loop",
+          "isCorrect": false
+        },
+        {
+          "text": "A command for output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which programming language is primarily used for web development?",
+      "explanation": "While several languages can be used for web development, HTML is specifically designed for creating web pages. However, JavaScript is widely used for adding interactivity.",
+      "options": [
+        {
+          "text": "C++",
+          "isCorrect": false
+        },
+        {
+          "text": "Python",
+          "isCorrect": false
+        },
+        {
+          "text": "HTML",
+          "isCorrect": true
+        },
+        {
+          "text": "Swift",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is an algorithm?",
+      "explanation": "An algorithm is a step-by-step procedure or formula for solving a problem. In programming, it serves as a blueprint for writing code to execute a task.",
+      "options": [
+        {
+          "text": "A programming language",
+          "isCorrect": false
+        },
+        {
+          "text": "A way to store data",
+          "isCorrect": false
+        },
+        {
+          "text": "A series of instructions for completing a task",
+          "isCorrect": true
+        },
+        {
+          "text": "A debugging tool",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following correctly represents an 'if statement'?",
+      "explanation": "An 'if statement' evaluates a condition and executes a block of code if the condition is true. If the condition is false, it can optionally execute an 'else' block.",
+      "options": [
+        {
+          "text": "if (x > 10) { doSomething(); }",
+          "isCorrect": true
+        },
+        {
+          "text": "if x>10 doSomething()",
+          "isCorrect": false
+        },
+        {
+          "text": "if (x == 10) then doSomething()",
+          "isCorrect": false
+        },
+        {
+          "text": "if x < 5 { systemOutput; }",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'debugging' mean in programming?",
+      "explanation": "Debugging is the process of finding and resolving bugs or errors in a computer program to ensure it runs as intended.",
+      "options": [
+        {
+          "text": "Writing new code",
+          "isCorrect": false
+        },
+        {
+          "text": "Testing the output of the program",
+          "isCorrect": false
+        },
+        {
+          "text": "Removing errors from the code",
+          "isCorrect": true
+        },
+        {
+          "text": "Updating the software",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In object-oriented programming, what is 'inheritance'?",
+      "explanation": "Inheritance allows one class to inherit properties and methods from another class. This promotes code reusability and establishes a relationship between classes.",
+      "options": [
+        {
+          "text": "Creating new objects",
+          "isCorrect": false
+        },
+        {
+          "text": "Extending a class with the properties of another class",
+          "isCorrect": true
+        },
+        {
+          "text": "Deleting a class",
+          "isCorrect": false
+        },
+        {
+          "text": "Changing the data type",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the primary purpose of an array in programming?",
+      "explanation": "An array is a data structure that can store multiple values in a single variable. It allows for organized data management and simplifies code involved with handling groups of related data.",
+      "options": [
+        {
+          "text": "To store a single value",
+          "isCorrect": false
+        },
+        {
+          "text": "To facilitate code execution speed",
+          "isCorrect": false
+        },
+        {
+          "text": "To hold multiple values of the same type",
+          "isCorrect": true
+        },
+        {
+          "text": "To create new functions",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which symbol is typically used to denote a comment in Python?",
+      "explanation": "In Python, comments are created using the '#' symbol. Comments are ignored by the interpreter and are meant to provide clarity in the code.",
+      "options": [
+        {
+          "text": "//",
+          "isCorrect": false
+        },
+        {
+          "text": "#",
+          "isCorrect": true
+        },
+        {
+          "text": "/*",
+          "isCorrect": false
+        },
+        {
+          "text": "<!--",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'IDE' stand for in programming?",
+      "explanation": "IDE stands for Integrated Development Environment, which is a software application that provides comprehensive facilities to programmers for software development, including a code editor, debugger, and build automation tools.",
+      "options": [
+        {
+          "text": "Internal Development Editor",
+          "isCorrect": false
+        },
+        {
+          "text": "Integrated Development Environment",
+          "isCorrect": true
+        },
+        {
+          "text": "Independent Data Entry",
+          "isCorrect": false
+        },
+        {
+          "text": "Incremental Development Engine",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following best describes 'function' in programming?",
+      "explanation": "A function is a reusable block of code that performs a specific task. Functions help in structuring programs and reducing code duplication.",
+      "options": [
+        {
+          "text": "A type of variable",
+          "isCorrect": false
+        },
+        {
+          "text": "A tool for debugging",
+          "isCorrect": false
+        },
+        {
+          "text": "A reusable piece of code that performs an action",
+          "isCorrect": true
+        },
+        {
+          "text": "A command for outputting data",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the outcome of executing the code: print(2 * 3 + 5)?",
+      "explanation": "The code first performs the multiplication (2 * 3 = 6), and then adds 5, resulting in 11. This reflects the order of operations in programming.",
+      "options": [
+        {
+          "text": "8",
+          "isCorrect": false
+        },
+        {
+          "text": "11",
+          "isCorrect": true
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In HTML, what does the <head> tag represent?",
+      "explanation": "The <head> tag contains metadata about the HTML document, including the title, links to stylesheets and scripts, and other resources not displayed directly on the page.",
+      "options": [
+        {
+          "text": "The main content of the page",
+          "isCorrect": false
+        },
+        {
+          "text": "In-line styles for the page",
+          "isCorrect": false
+        },
+        {
+          "text": "The meta-information of the document",
+          "isCorrect": true
+        },
+        {
+          "text": "Hyperlinks to other pages",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which programming paradigm focuses on objects that contain data and methods?",
+      "explanation": "Object-oriented programming (OOP) focuses on using objects that combine both data and functionality. It helps in organizing complex programs by mimicking the real-world entities.",
+      "options": [
+        {
+          "text": "Procedural programming",
+          "isCorrect": false
+        },
+        {
+          "text": "Functional programming",
+          "isCorrect": false
+        },
+        {
+          "text": "Object-oriented programming",
+          "isCorrect": true
+        },
+        {
+          "text": "Declarative programming",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 'conditional logic' in programming?",
+      "explanation": "Conditional logic allows the program to make decisions based on certain conditions being true or false, using structures like 'if', 'else if', and 'else'.",
+      "options": [
+        {
+          "text": "Creating loops",
+          "isCorrect": false
+        },
+        {
+          "text": "Performing calculations",
+          "isCorrect": false
+        },
+        {
+          "text": "Making decisions based on conditions",
+          "isCorrect": true
+        },
+        {
+          "text": "Displaying output",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following is NOT a valid variable name in most programming languages?",
+      "explanation": "Variable names must adhere to specific rules, which usually include starting with a letter or underscore and containing no spaces or special characters, excluding underscore.",
+      "options": [
+        {
+          "text": "_variable1",
+          "isCorrect": false
+        },
+        {
+          "text": "$variable",
+          "isCorrect": false
+        },
+        {
+          "text": "1variable",
+          "isCorrect": true
+        },
+        {
+          "text": "variableName",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In programming, what does the term 'API' mean?",
+      "explanation": "API stands for Application Programming Interface. It is a set of rules and protocols for building software applications, allowing different programs to communicate with each other.",
+      "options": [
+        {
+          "text": "A tool for data encryption",
+          "isCorrect": false
+        },
+        {
+          "text": "A graphical user interface",
+          "isCorrect": false
+        },
+        {
+          "text": "A set of rules for software interaction",
+          "isCorrect": true
+        },
+        {
+          "text": "An integrated development environment",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which data type would you use to represent a true/false value?",
+      "explanation": "In programming, a boolean data type is used to represent true or false values, facilitating conditional logic in decision-making within the program.",
+      "options": [
+        {
+          "text": "Integer",
+          "isCorrect": false
+        },
+        {
+          "text": "String",
+          "isCorrect": false
+        },
+        {
+          "text": "Boolean",
+          "isCorrect": true
+        },
+        {
+          "text": "Float",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In which programming construct would you typically use a 'break' statement?",
+      "explanation": "A 'break' statement is commonly used within loops to exit the loop prematurely when a certain condition is met, as in 'for', 'while', or 'switch' statements.",
+      "options": [
+        {
+          "text": "To declare a function",
+          "isCorrect": false
+        },
+        {
+          "text": "To break out of a loop",
+          "isCorrect": true
+        },
+        {
+          "text": "To define a variable",
+          "isCorrect": false
+        },
+        {
+          "text": "To comment code",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following is the correct way to declare a function in JavaScript?",
+      "explanation": "In JavaScript, a function can be declared using the 'function' keyword followed by the function name and parentheses. The correct syntax is 'function functionName() {}'.",
+      "options": [
+        {
+          "text": "function functionName() {}",
+          "isCorrect": true
+        },
+        {
+          "text": "declare function functionName()",
+          "isCorrect": false
+        },
+        {
+          "text": "functionName() = function {}",
+          "isCorrect": false
+        },
+        {
+          "text": "function: functionName()[]",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these keywords is used to create a variable in Python with a float value?",
+      "explanation": "In Python, you assign a value to a variable using the '=' operator. The variable can hold a float value by simply including the decimal point in the assigned number (e.g., 'x = 5.0').",
+      "options": [
+        {
+          "text": "decimal x = 5.0",
+          "isCorrect": false
+        },
+        {
+          "text": "float x = 5.0",
+          "isCorrect": false
+        },
+        {
+          "text": "x = 5.0",
+          "isCorrect": true
+        },
+        {
+          "text": "var x = 5.0",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What will be the output of the following code snippet: bool result = (5 > 3) ? true : false; ?",
+      "explanation": "This code snippet uses a ternary operator to evaluate whether 5 is greater than 3, which is true. Hence, 'result' will have the value 'true'.",
+      "options": [
+        {
+          "text": "false",
+          "isCorrect": false
+        },
+        {
+          "text": "undefined",
+          "isCorrect": false
+        },
+        {
+          "text": "true",
+          "isCorrect": true
+        },
+        {
+          "text": "error",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'encapsulation' refer to in object-oriented programming?",
+      "explanation": "Encapsulation is the practice of bundling data and methods that operate on that data within a single unit or class, restricting direct access to some of the object's components, which is essential for data hiding.",
+      "options": [
+        {
+          "text": "The process of creating new classes",
+          "isCorrect": false
+        },
+        {
+          "text": "Enforcing access restrictions to protect data",
+          "isCorrect": true
+        },
+        {
+          "text": "Creating functions to execute code",
+          "isCorrect": false
+        },
+        {
+          "text": "Merging multiple files into one",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which command is used to compile Java code from the command line?",
+      "explanation": "To compile Java code from the command line, the 'javac' command is used followed by the name of the Java file to be compiled.",
+      "options": [
+        {
+          "text": "java",
+          "isCorrect": false
+        },
+        {
+          "text": "javac",
+          "isCorrect": true
+        },
+        {
+          "text": "compile",
+          "isCorrect": false
+        },
+        {
+          "text": "run",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

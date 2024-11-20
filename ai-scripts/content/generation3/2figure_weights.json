@@ -1,0 +1,599 @@
+{
+  "topic": "Figure Weights",
+  "questions": [
+    {
+      "text": "If a square figure weighs 4 units and a triangle weighs 2 units, what is the total weight of 3 squares and 2 triangles?",
+      "explanation": "To find the total weight, multiply the weight of each square and triangle by the number of each shape and then add the results together. So, (3 squares x 4 units) + (2 triangles x 2 units) = 12 + 4 = 16 units total.",
+      "options": [
+        {
+          "text": "12 units",
+          "isCorrect": false
+        },
+        {
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "16 units",
+          "isCorrect": true
+        },
+        {
+          "text": "18 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A rectangle weighs twice as much as a circle. If the circle weighs 5 units, how much does a rectangle weigh?",
+      "explanation": "The weight of the rectangle is calculated by multiplying the weight of the circle by 2. Since the circle weighs 5 units, the rectangle weighs 5 x 2 = 10 units.",
+      "options": [
+        {
+          "text": "5 units",
+          "isCorrect": false
+        },
+        {
+          "text": "10 units",
+          "isCorrect": true
+        },
+        {
+          "text": "15 units",
+          "isCorrect": false
+        },
+        {
+          "text": "20 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a trapezoid weighs 6 units and two parallelograms together weigh 10 units, what is the total weight of the trapezoid and the parallelograms?",
+      "explanation": "Add the weight of the trapezoid (6 units) to the combined weight of the two parallelograms (10 units) to find the total weight, which is 6 + 10 = 16 units.",
+      "options": [
+        {
+          "text": "12 units",
+          "isCorrect": false
+        },
+        {
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "16 units",
+          "isCorrect": true
+        },
+        {
+          "text": "18 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A hexagon weighs 7 units while a pentagon weighs 4 units. If you have a total of 4 hexagons and 3 pentagons, what is their combined weight?",
+      "explanation": "Calculate the combined weight by (4 hexagons x 7 units) + (3 pentagons x 4 units) = 28 + 12 = 40 units.",
+      "options": [
+        {
+          "text": "30 units",
+          "isCorrect": false
+        },
+        {
+          "text": "34 units",
+          "isCorrect": false
+        },
+        {
+          "text": "40 units",
+          "isCorrect": true
+        },
+        {
+          "text": "44 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a figure weighs 10 units and 2 identical figures weigh 8 units altogether, what is the weight of one figure?",
+      "explanation": "Since both figures together weigh 8 units, the weight of one figure is 8 units divided by 2, which equals 4 units.",
+      "options": [
+        {
+          "text": "2 units",
+          "isCorrect": false
+        },
+        {
+          "text": "4 units",
+          "isCorrect": true
+        },
+        {
+          "text": "6 units",
+          "isCorrect": false
+        },
+        {
+          "text": "8 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A cube weighs x units. If a cylinder weighs 3 units less than the cube and you know the cube weighs 12 units, what does the cylinder weigh?",
+      "explanation": "The cylinder weighs 3 units less than the cube, so if the cube weighs 12 units, the cylinder weighs 12 - 3 = 9 units.",
+      "options": [
+        {
+          "text": "6 units",
+          "isCorrect": false
+        },
+        {
+          "text": "9 units",
+          "isCorrect": true
+        },
+        {
+          "text": "12 units",
+          "isCorrect": false
+        },
+        {
+          "text": "15 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Three diamonds weigh 5 units each. What is the total weight of these diamonds?",
+      "explanation": "To find the total weight of the diamonds, multiply the weight of one diamond by the number of diamonds: 3 x 5 = 15 units.",
+      "options": [
+        {
+          "text": "10 units",
+          "isCorrect": false
+        },
+        {
+          "text": "12 units",
+          "isCorrect": false
+        },
+        {
+          "text": "15 units",
+          "isCorrect": true
+        },
+        {
+          "text": "18 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a figure has a weight of 2 units and another figure has 3 times that weight, what is the weight of the second figure?",
+      "explanation": "To find the weight of the second figure, multiply the weight of the first figure (2 units) by 3, resulting in 2 x 3 = 6 units.",
+      "options": [
+        {
+          "text": "3 units",
+          "isCorrect": false
+        },
+        {
+          "text": "4 units",
+          "isCorrect": false
+        },
+        {
+          "text": "6 units",
+          "isCorrect": true
+        },
+        {
+          "text": "8 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A group of 5 rectangles weigh a total of 35 units. What is the average weight of one rectangle?",
+      "explanation": "To find the average weight, divide the total weight by the number of rectangles: 35 units / 5 rectangles = 7 units per rectangle.",
+      "options": [
+        {
+          "text": "5 units",
+          "isCorrect": false
+        },
+        {
+          "text": "6 units",
+          "isCorrect": false
+        },
+        {
+          "text": "7 units",
+          "isCorrect": true
+        },
+        {
+          "text": "8 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a rectangle weighs twice as much as a triangle and together they weigh 18 units, what is the weight of the rectangle?",
+      "explanation": "Let the weight of the triangle be x units. Then the rectangle weighs 2x units. Together, x + 2x = 18 units, or 3x = 18. Thus, x = 6 (triangle) and the rectangle weighs 2*6 = 12 units.",
+      "options": [
+        {
+          "text": "6 units",
+          "isCorrect": false
+        },
+        {
+          "text": "12 units",
+          "isCorrect": true
+        },
+        {
+          "text": "18 units",
+          "isCorrect": false
+        },
+        {
+          "text": "24 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A diamond weighs 3 times as much as a square and the diamond weighs 9 units. How much does the square weigh?",
+      "explanation": "The weight of the square is calculated by dividing the weight of the diamond by 3: 9 units / 3 = 3 units.",
+      "options": [
+        {
+          "text": "2 units",
+          "isCorrect": false
+        },
+        {
+          "text": "3 units",
+          "isCorrect": true
+        },
+        {
+          "text": "6 units",
+          "isCorrect": false
+        },
+        {
+          "text": "9 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If five triangles weigh 15 units collectively, what does one triangle weigh?",
+      "explanation": "To find the weight of one triangle, divide the total weight by the number of triangles: 15 units / 5 triangles = 3 units per triangle.",
+      "options": [
+        {
+          "text": "2 units",
+          "isCorrect": false
+        },
+        {
+          "text": "3 units",
+          "isCorrect": true
+        },
+        {
+          "text": "5 units",
+          "isCorrect": false
+        },
+        {
+          "text": "6 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A circle weighs one-third of what a rectangle weighs. If the rectangle weighs 12 units, how much does the circle weigh?",
+      "explanation": "The weight of the circle is found by multiplying the rectangle's weight by one-third: 12 units / 3 = 4 units.",
+      "options": [
+        {
+          "text": "2 units",
+          "isCorrect": false
+        },
+        {
+          "text": "3 units",
+          "isCorrect": false
+        },
+        {
+          "text": "4 units",
+          "isCorrect": true
+        },
+        {
+          "text": "5 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If two shapes weigh a total of 20 units with one shape being twice as heavy as the other, what is the weight of the heavier shape?",
+      "explanation": "Let the lighter shape weigh x units, then the heavier shape weighs 2x units. Thus, we get the equation x + 2x = 20 units, which simplifies to 3x = 20, leading to x = 20/3 units. Consequently, the heavier shape weighs 2x = 40/3 units, or approximately 13.33 units.",
+      "options": [
+        {
+          "text": "12 units",
+          "isCorrect": false
+        },
+        {
+          "text": "13 units",
+          "isCorrect": false
+        },
+        {
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "13.33 units",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "text": "An octagon weighs 8 units and a quadrilateral weighs 3 units. What is the total weight of 2 octagons and 1 quadrilateral?",
+      "explanation": "Total weight = (2 x 8 units) + (1 x 3 units) = 16 + 3 = 19 units.",
+      "options": [
+        {
+          "text": "18 units",
+          "isCorrect": false
+        },
+        {
+          "text": "19 units",
+          "isCorrect": true
+        },
+        {
+          "text": "20 units",
+          "isCorrect": false
+        },
+        {
+          "text": "21 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a figure weighs 15 units and you have 3 such figures, what is their total weight?",
+      "explanation": "Total weight of 3 identical figures = (3 x 15 units) = 45 units.",
+      "options": [
+        {
+          "text": "30 units",
+          "isCorrect": false
+        },
+        {
+          "text": "40 units",
+          "isCorrect": false
+        },
+        {
+          "text": "45 units",
+          "isCorrect": true
+        },
+        {
+          "text": "50 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A star shape weighs twice as much as a triangle and together they weigh 30 units. What is the weight of the triangle?",
+      "explanation": "Let the triangle weigh x units, hence the star shape weighs 2x units. The equation is x + 2x = 30; therefore, 3x = 30, leading to x =10 units (triangle).",
+      "options": [
+        {
+          "text": "5 units",
+          "isCorrect": false
+        },
+        {
+          "text": "10 units",
+          "isCorrect": true
+        },
+        {
+          "text": "15 units",
+          "isCorrect": false
+        },
+        {
+          "text": "20 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a shape weighs 10 units and a triangle weighs half as much, how much does the triangle weigh?",
+      "explanation": "Weight of triangle = 10 units / 2 = 5 units.",
+      "options": [
+        {
+          "text": "1 unit",
+          "isCorrect": false
+        },
+        {
+          "text": "5 units",
+          "isCorrect": true
+        },
+        {
+          "text": "8 units",
+          "isCorrect": false
+        },
+        {
+          "text": "10 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a square figure weighs 4 units, what is the total weight of 4 squares?",
+      "explanation": "Total weight = 4 squares x 4 units = 16 units.",
+      "options": [
+        {
+          "text": "12 units",
+          "isCorrect": false
+        },
+        {
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "16 units",
+          "isCorrect": true
+        },
+        {
+          "text": "18 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A hexagon weighs 6 units, and a triangle weighs 2 units. What is the total weight of 2 hexagons and 2 triangles?",
+      "explanation": "Total weight = (2 x 6 units) + (2 x 2 units) = 12 + 4 = 16 units.",
+      "options": [
+        {
+          "text": "14 units",
+          "isCorrect": false
+        },
+        {
+          "text": "16 units",
+          "isCorrect": true
+        },
+        {
+          "text": "18 units",
+          "isCorrect": false
+        },
+        {
+          "text": "20 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a circle weighs 4 units, and a square weighs 5 units, what is the total weight of 3 squares and 1 circle?",
+      "explanation": "Total weight = (3 x 5 units) + (1 x 4 units) = 15 + 4 = 19 units.",
+      "options": [
+        {
+          "text": "17 units",
+          "isCorrect": false
+        },
+        {
+          "text": "19 units",
+          "isCorrect": true
+        },
+        {
+          "text": "21 units",
+          "isCorrect": false
+        },
+        {
+          "text": "23 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A star weighs 9 units and a triangle weighs 3 units. If you have one star and four triangles, what is their total weight?",
+      "explanation": "Total weight = (1 x 9 units) + (4 x 3 units) = 9 + 12 = 21 units.",
+      "options": [
+        {
+          "text": "19 units",
+          "isCorrect": false
+        },
+        {
+          "text": "21 units",
+          "isCorrect": true
+        },
+        {
+          "text": "23 units",
+          "isCorrect": false
+        },
+        {
+          "text": "25 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A figure weighs 6 units and another figure weighs 4 units. What is the total weight of 5 such figures?",
+      "explanation": "Total weight for 5 figures = 5 x (6 + 4) = 5 x 10 = 50 units.",
+      "options": [
+        {
+          "text": "40 units",
+          "isCorrect": false
+        },
+        {
+          "text": "50 units",
+          "isCorrect": true
+        },
+        {
+          "text": "60 units",
+          "isCorrect": false
+        },
+        {
+          "text": "70 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If four circles weigh 20 units altogether, how much does one circle weigh?",
+      "explanation": "Average weight per circle = 20 units / 4 = 5 units.",
+      "options": [
+        {
+          "text": "3 units",
+          "isCorrect": false
+        },
+        {
+          "text": "4 units",
+          "isCorrect": false
+        },
+        {
+          "text": "5 units",
+          "isCorrect": true
+        },
+        {
+          "text": "6 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Suppose each square weighs 6 units and you have 6 squares. What is the total weight?",
+      "explanation": "Total weight = 6 squares x 6 units = 36 units.",
+      "options": [
+        {
+          "text": "30 units",
+          "isCorrect": false
+        },
+        {
+          "text": "36 units",
+          "isCorrect": true
+        },
+        {
+          "text": "42 units",
+          "isCorrect": false
+        },
+        {
+          "text": "48 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a triangle weighs 3 units, how many units do 7 triangles weigh?",
+      "explanation": "Total weight = 7 x 3 units = 21 units.",
+      "options": [
+        {
+          "text": "19 units",
+          "isCorrect": false
+        },
+        {
+          "text": "20 units",
+          "isCorrect": false
+        },
+        {
+          "text": "21 units",
+          "isCorrect": true
+        },
+        {
+          "text": "22 units",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "A diamond weighs 5 units while a square weighs 3 units. What is the total weight of 5 diamonds and 2 squares?",
+      "explanation": "Total weight = (5 x 5 units) + (2 x 3 units) = 25 + 6 = 31 units.",
+      "options": [
+        {
+          "text": "30 units",
+          "isCorrect": false
+        },
+        {
+          "text": "31 units",
+          "isCorrect": true
+        },
+        {
+          "text": "32 units",
+          "isCorrect": false
+        },
+        {
+          "text": "34 units",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

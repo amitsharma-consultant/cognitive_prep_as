@@ -1,0 +1,665 @@
+{
+  "topic": "Vocabulary Bonus",
+  "questions": [
+    {
+      "text": "What does the word 'benevolent' mean?",
+      "explanation": "'Benevolent' describes someone who is kind and generous, often having the desire to help others.",
+      "options": [
+        {
+          "text": "Selfish and greedy",
+          "isCorrect": false
+        },
+        {
+          "text": "Kind and charitable",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent and apathetic",
+          "isCorrect": false
+        },
+        {
+          "text": "Angry and resentful",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the synonym of 'exemplary'.",
+      "explanation": "'Exemplary' means serving as a model or example. A synonym would be 'admirable'.",
+      "options": [
+        {
+          "text": "Model",
+          "isCorrect": false
+        },
+        {
+          "text": "Average",
+          "isCorrect": false
+        },
+        {
+          "text": "Admirable",
+          "isCorrect": true
+        },
+        {
+          "text": "Inferior",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the antonym of 'tangible'?",
+      "explanation": "'Tangible' means something that can be touched or is real. Its antonym is 'intangible', which refers to things that cannot be touched or are abstract.",
+      "options": [
+        {
+          "text": "Real",
+          "isCorrect": false
+        },
+        {
+          "text": "Concrete",
+          "isCorrect": false
+        },
+        {
+          "text": "Intangible",
+          "isCorrect": true
+        },
+        {
+          "text": "Visible",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "'Rejuvenate' most closely means...?",
+      "explanation": "'Rejuvenate' means to make something feel or look young again or to restore to a previous state.",
+      "options": [
+        {
+          "text": "To age",
+          "isCorrect": false
+        },
+        {
+          "text": "To drain of energy",
+          "isCorrect": false
+        },
+        {
+          "text": "To restore",
+          "isCorrect": true
+        },
+        {
+          "text": "To complicate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'meticulous' mean?",
+      "explanation": "'Meticulous' refers to showing great attention to detail and being very careful and precise.",
+      "options": [
+        {
+          "text": "Careless and sloppy",
+          "isCorrect": false
+        },
+        {
+          "text": "Detailed and careful",
+          "isCorrect": true
+        },
+        {
+          "text": "Quick and hasty",
+          "isCorrect": false
+        },
+        {
+          "text": "Indifferent and neglectful",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word is closest in meaning to 'juxtaposition'?",
+      "explanation": "'Juxtaposition' refers to the act of placing things side by side for comparison. The closest synonym is 'contrast'.",
+      "options": [
+        {
+          "text": "Opposition",
+          "isCorrect": false
+        },
+        {
+          "text": "Comparison",
+          "isCorrect": false
+        },
+        {
+          "text": "Contrast",
+          "isCorrect": true
+        },
+        {
+          "text": "Similarity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'disparage'?",
+      "explanation": "'Disparage' means to regard or represent as being of little worth or to belittle someone or something.",
+      "options": [
+        {
+          "text": "To praise highly",
+          "isCorrect": false
+        },
+        {
+          "text": "To exaggerate",
+          "isCorrect": false
+        },
+        {
+          "text": "To belittle",
+          "isCorrect": true
+        },
+        {
+          "text": "To empower",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the best synonym for 'precarious'.",
+      "explanation": "'Precarious' means not securely held or in position; dangerously likely to fall or collapse. A fitting synonym is 'unstable'.",
+      "options": [
+        {
+          "text": "Stable",
+          "isCorrect": false
+        },
+        {
+          "text": "Unstable",
+          "isCorrect": true
+        },
+        {
+          "text": "Secure",
+          "isCorrect": false
+        },
+        {
+          "text": "Robust",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is an appropriate antonym for 'voracious'?",
+      "explanation": "'Voracious' means having a very eager approach to an activity, often associated with hunger. The antonym is 'apathetic'.",
+      "options": [
+        {
+          "text": "Eager",
+          "isCorrect": false
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": true
+        },
+        {
+          "text": "Greedy",
+          "isCorrect": false
+        },
+        {
+          "text": "Hungry",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does it mean if something is 'cogent'?",
+      "explanation": "'Cogent' refers to an argument or case that is clear, logical, and convincing.",
+      "options": [
+        {
+          "text": "Unclear and confusing",
+          "isCorrect": false
+        },
+        {
+          "text": "Vague and ambiguous",
+          "isCorrect": false
+        },
+        {
+          "text": "Clear and persuasive",
+          "isCorrect": true
+        },
+        {
+          "text": "Irrelevant and trivial",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is a synonym of 'ostentatious'?",
+      "explanation": "'Ostentatious' describes actions or things designed to impress or attract notice. A synonym is 'showy'.",
+      "options": [
+        {
+          "text": "Plain",
+          "isCorrect": false
+        },
+        {
+          "text": "Showy",
+          "isCorrect": true
+        },
+        {
+          "text": "Subdued",
+          "isCorrect": false
+        },
+        {
+          "text": "Ordinary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'supercilious'?",
+      "explanation": "'Supercilious' refers to behaving or looking as though one thinks one is superior to others.",
+      "options": [
+        {
+          "text": "Obsequious",
+          "isCorrect": false
+        },
+        {
+          "text": "Humble",
+          "isCorrect": false
+        },
+        {
+          "text": "Arrogant",
+          "isCorrect": true
+        },
+        {
+          "text": "Respectful",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the antonym for 'diligent'.",
+      "explanation": "'Diligent' means showing care and effort in one's work. The antonym is 'negligent'.",
+      "options": [
+        {
+          "text": "Careful",
+          "isCorrect": false
+        },
+        {
+          "text": "Conscientious",
+          "isCorrect": false
+        },
+        {
+          "text": "Negligent",
+          "isCorrect": true
+        },
+        {
+          "text": "Industrious",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word is similar in meaning to 'pensive'?",
+      "explanation": "'Pensive' means engaged in deep or serious thought. A synonym is 'reflective'.",
+      "options": [
+        {
+          "text": "Dull",
+          "isCorrect": false
+        },
+        {
+          "text": "Reflective",
+          "isCorrect": true
+        },
+        {
+          "text": "Joyful",
+          "isCorrect": false
+        },
+        {
+          "text": "Carefree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'gregarious' mean?",
+      "explanation": "'Gregarious' describes someone who is fond of company or sociable. It relates to animals that live in flocks.",
+      "options": [
+        {
+          "text": "Reserved and shy",
+          "isCorrect": false
+        },
+        {
+          "text": "Sociable and social",
+          "isCorrect": true
+        },
+        {
+          "text": "Independent and solitary",
+          "isCorrect": false
+        },
+        {
+          "text": "Aggressive and hostile",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is an appropriate antonym for 'lucid'?",
+      "explanation": "'Lucid' means expressed clearly; easy to understand. The antonym is 'confusing'.",
+      "options": [
+        {
+          "text": "Clear",
+          "isCorrect": false
+        },
+        {
+          "text": "Confusing",
+          "isCorrect": true
+        },
+        {
+          "text": "Coherent",
+          "isCorrect": false
+        },
+        {
+          "text": "Light",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the synonym for 'altruistic'.",
+      "explanation": "'Altruistic' means showing a selfless concern for the well-being of others. A synonym is 'selfless'.",
+      "options": [
+        {
+          "text": "Egoistic",
+          "isCorrect": false
+        },
+        {
+          "text": "Selfish",
+          "isCorrect": false
+        },
+        {
+          "text": "Selfless",
+          "isCorrect": true
+        },
+        {
+          "text": "Conceited",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'cursory'?",
+      "explanation": "'Cursory' refers to something hastily and therefore not thoroughly done.",
+      "options": [
+        {
+          "text": "Detailed",
+          "isCorrect": false
+        },
+        {
+          "text": "Careful",
+          "isCorrect": false
+        },
+        {
+          "text": "Hasty",
+          "isCorrect": true
+        },
+        {
+          "text": "Thorough",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word is closest in meaning to 'sagacious'?",
+      "explanation": "'Sagacious' means having or showing keen mental discernment and good judgment. A synonym is 'wise'.",
+      "options": [
+        {
+          "text": "Foolish",
+          "isCorrect": false
+        },
+        {
+          "text": "Wise",
+          "isCorrect": true
+        },
+        {
+          "text": "Narrow-minded",
+          "isCorrect": false
+        },
+        {
+          "text": "Ignorant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does it mean if someone is 'antagonistic'?",
+      "explanation": "'Antagonistic' means showing or feeling active opposition or hostility toward someone or something.",
+      "options": [
+        {
+          "text": "Supportive",
+          "isCorrect": false
+        },
+        {
+          "text": "Friendly",
+          "isCorrect": false
+        },
+        {
+          "text": "Hostile",
+          "isCorrect": true
+        },
+        {
+          "text": "Sympathetic",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the correct synonym for 'venerable'.",
+      "explanation": "'Venerable' means accorded a great deal of respect, especially because of age or wisdom. A synonym is 'respected'.",
+      "options": [
+        {
+          "text": "Disrespected",
+          "isCorrect": false
+        },
+        {
+          "text": "Respected",
+          "isCorrect": true
+        },
+        {
+          "text": "Insulted",
+          "isCorrect": false
+        },
+        {
+          "text": "Neglected",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What would be a fitting antonym for 'metamorphosis'?",
+      "explanation": "'Metamorphosis' refers to a change of the form or nature of a thing. An antonym would be 'stagnation'.",
+      "options": [
+        {
+          "text": "Change",
+          "isCorrect": false
+        },
+        {
+          "text": "Transformation",
+          "isCorrect": false
+        },
+        {
+          "text": "Stagnation",
+          "isCorrect": true
+        },
+        {
+          "text": "Evolution",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'inane' mean?",
+      "explanation": "'Inane' describes something that is lacking sense or meaning, foolish, or silly.",
+      "options": [
+        {
+          "text": "Meaningful",
+          "isCorrect": false
+        },
+        {
+          "text": "Empty or silly",
+          "isCorrect": true
+        },
+        {
+          "text": "Serious",
+          "isCorrect": false
+        },
+        {
+          "text": "Important",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the synonym for 'discerning'.",
+      "explanation": "'Discerning' means showing good or outstanding judgment and understanding. A close synonym is 'perceptive'.",
+      "options": [
+        {
+          "text": "Unperceptive",
+          "isCorrect": false
+        },
+        {
+          "text": "Perceptive",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Dull",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the antonym of 'ephemeral'?",
+      "explanation": "'Ephemeral' means lasting for a very short time. The antonym would be 'perpetual'.",
+      "options": [
+        {
+          "text": "Temporary",
+          "isCorrect": false
+        },
+        {
+          "text": "Tangible",
+          "isCorrect": false
+        },
+        {
+          "text": "Perpetual",
+          "isCorrect": true
+        },
+        {
+          "text": "Fleeting",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'expeditious' mean?",
+      "explanation": "'Expeditious' means done with speed and efficiency.",
+      "options": [
+        {
+          "text": "Slow",
+          "isCorrect": false
+        },
+        {
+          "text": "Quick",
+          "isCorrect": true
+        },
+        {
+          "text": "Hasty",
+          "isCorrect": false
+        },
+        {
+          "text": "Carefree",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word is its own synonym?",
+      "explanation": "The word 'overlook' can mean both 'to miss something' and 'to supervise'.",
+      "options": [
+        {
+          "text": "Overlook",
+          "isCorrect": true
+        },
+        {
+          "text": "Enhance",
+          "isCorrect": false
+        },
+        {
+          "text": "Persist",
+          "isCorrect": false
+        },
+        {
+          "text": "Advocate",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'amalgamation' refer to?",
+      "explanation": "'Amalgamation' refers to the action of combining or uniting multiple things into one.",
+      "options": [
+        {
+          "text": "Segregation",
+          "isCorrect": false
+        },
+        {
+          "text": "Separation",
+          "isCorrect": false
+        },
+        {
+          "text": "Combination",
+          "isCorrect": true
+        },
+        {
+          "text": "Isolation",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'provocative'?",
+      "explanation": "'Provocative' refers to causing annoyance, anger, or another strong reaction, especially deliberately.",
+      "options": [
+        {
+          "text": "Calming",
+          "isCorrect": false
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Annoying",
+          "isCorrect": true
+        },
+        {
+          "text": "Bland",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the similar word for 'vindictive'.",
+      "explanation": "'Vindictive' means having or showing a strong desire for revenge. A similar word is 'vengeful'.",
+      "options": [
+        {
+          "text": "Forgiving",
+          "isCorrect": false
+        },
+        {
+          "text": "Vengeful",
+          "isCorrect": true
+        },
+        {
+          "text": "Compassionate",
+          "isCorrect": false
+        },
+        {
+          "text": "Mild",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

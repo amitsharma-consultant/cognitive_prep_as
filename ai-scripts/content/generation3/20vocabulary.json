@@ -1,0 +1,643 @@
+{
+  "topic": "Vocabulary",
+  "questions": [
+    {
+      "text": "What does the word 'ubiquitous' mean?",
+      "explanation": "The word 'ubiquitous' describes something that is present or found everywhere. It is often used to refer to phenomena or items that are widespread in nature.",
+      "options": [
+        {
+          "text": "Rare and unusual",
+          "isCorrect": false
+        },
+        {
+          "text": "Existing everywhere",
+          "isCorrect": true
+        },
+        {
+          "text": "Limited to a small area",
+          "isCorrect": false
+        },
+        {
+          "text": "Nonexistent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that is closest in meaning to 'benevolent'.",
+      "explanation": "'Benevolent' refers to a disposition to do good or show kindness. The closest synonym conveys a sense of goodwill and charity.",
+      "options": [
+        {
+          "text": "Malevolent",
+          "isCorrect": false
+        },
+        {
+          "text": "Generous",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Selfish",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'meticulous' imply about a person's work style?",
+      "explanation": "'Meticulous' refers to showing great attention to detail and being very careful and precise in one's actions or work.",
+      "options": [
+        {
+          "text": "Careless and sloppy",
+          "isCorrect": false
+        },
+        {
+          "text": "Rushed and incomplete",
+          "isCorrect": false
+        },
+        {
+          "text": "Detailed and careful",
+          "isCorrect": true
+        },
+        {
+          "text": "Vague and ambiguous",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'candid'?",
+      "explanation": "The term 'candid' means being open, sincere, and honest. It describes a manner of speaking that is straightforward and forthright without any hidden agenda.",
+      "options": [
+        {
+          "text": "Deceptive",
+          "isCorrect": false
+        },
+        {
+          "text": "Reserved",
+          "isCorrect": false
+        },
+        {
+          "text": "Honest",
+          "isCorrect": true
+        },
+        {
+          "text": "Concealed",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following best defines 'ephemeral'?",
+      "explanation": "'Ephemeral' refers to something that lasts for a very short time. It is often used to describe fleeting moments or transient experiences.",
+      "options": [
+        {
+          "text": "Permanent",
+          "isCorrect": false
+        },
+        {
+          "text": "Enduring",
+          "isCorrect": false
+        },
+        {
+          "text": "Fleeting",
+          "isCorrect": true
+        },
+        {
+          "text": "Timeless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'cacophony' mean?",
+      "explanation": "'Cacophony' refers to a harsh, discordant mixture of sounds. It often describes noise that is jarring and unpleasant to hear.",
+      "options": [
+        {
+          "text": "Melody",
+          "isCorrect": false
+        },
+        {
+          "text": "Harmony",
+          "isCorrect": false
+        },
+        {
+          "text": "Harsh noise",
+          "isCorrect": true
+        },
+        {
+          "text": "Silence",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Define 'inundate'.",
+      "explanation": "'Inundate' means to overwhelm someone with things to be dealt with, often in regard to flooding or excessive information.",
+      "options": [
+        {
+          "text": "Drown",
+          "isCorrect": false
+        },
+        {
+          "text": "Overwhelm",
+          "isCorrect": true
+        },
+        {
+          "text": "Assist",
+          "isCorrect": false
+        },
+        {
+          "text": "Ignore",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'pragmatic' mean?",
+      "explanation": "'Pragmatic' refers to dealing with things sensibly and realistically, based on practical rather than theoretical considerations.",
+      "options": [
+        {
+          "text": "Idealistic",
+          "isCorrect": false
+        },
+        {
+          "text": "Theoretical",
+          "isCorrect": false
+        },
+        {
+          "text": "Practical",
+          "isCorrect": true
+        },
+        {
+          "text": "Unrealistic",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'quintessential' refer to?",
+      "explanation": "The term 'quintessential' describes something that is the most perfect or typical example of a particular quality or class.",
+      "options": [
+        {
+          "text": "Average",
+          "isCorrect": false
+        },
+        {
+          "text": "Unusual",
+          "isCorrect": false
+        },
+        {
+          "text": "Typical example",
+          "isCorrect": true
+        },
+        {
+          "text": "Subpar",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which word is a synonym for 'arduous'?",
+      "explanation": "'Arduous' means involving or requiring strenuous effort; it describes something that is difficult and tiring.",
+      "options": [
+        {
+          "text": "Easy",
+          "isCorrect": false
+        },
+        {
+          "text": "Simple",
+          "isCorrect": false
+        },
+        {
+          "text": "Challenging",
+          "isCorrect": true
+        },
+        {
+          "text": "Effortless",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that is the opposite of 'magnanimous'.",
+      "explanation": "'Magnanimous' means very generous or forgiving, especially toward a rival or someone less powerful. The opposite describes someone who is stingy or unkind.",
+      "options": [
+        {
+          "text": "Noble",
+          "isCorrect": false
+        },
+        {
+          "text": "Generous",
+          "isCorrect": false
+        },
+        {
+          "text": "Petty",
+          "isCorrect": true
+        },
+        {
+          "text": "Benevolent",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'insidious' imply?",
+      "explanation": "'Insidious' describes something that proceeds in a gradual, subtle way, but with harmful effects. It often refers to dangerous schemes or deceit.",
+      "options": [
+        {
+          "text": "Open and honest",
+          "isCorrect": false
+        },
+        {
+          "text": "Harmless",
+          "isCorrect": false
+        },
+        {
+          "text": "Sneaky and harmful",
+          "isCorrect": true
+        },
+        {
+          "text": "Beneficial",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Define 'tenacious'.",
+      "explanation": "'Tenacious' refers to being determined or holding tightly to something; it describes persistence in maintaining a position or opinion.",
+      "options": [
+        {
+          "text": "Flexible",
+          "isCorrect": false
+        },
+        {
+          "text": "Relentless",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Fickle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'emulate' mean?",
+      "explanation": "'Emulate' means to match or surpass a person or achievement, typically by imitation. It denotes an aspiration to equal or excel.",
+      "options": [
+        {
+          "text": "Resist",
+          "isCorrect": false
+        },
+        {
+          "text": "Acknowledge",
+          "isCorrect": false
+        },
+        {
+          "text": "Imitate",
+          "isCorrect": true
+        },
+        {
+          "text": "Reject",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that is synonymous with 'diligent'.",
+      "explanation": "'Diligent' describes someone who is careful and persistent in their work or efforts. A synonym should convey a strong work ethic.",
+      "options": [
+        {
+          "text": "Lazy",
+          "isCorrect": false
+        },
+        {
+          "text": "Industrious",
+          "isCorrect": true
+        },
+        {
+          "text": "Negligent",
+          "isCorrect": false
+        },
+        {
+          "text": "Unfocused",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'disparity'?",
+      "explanation": "'Disparity' refers to a great difference or inequality between two or more things; it often implies a lack of equality.",
+      "options": [
+        {
+          "text": "Similarity",
+          "isCorrect": false
+        },
+        {
+          "text": "Equality",
+          "isCorrect": false
+        },
+        {
+          "text": "Inequality",
+          "isCorrect": true
+        },
+        {
+          "text": "Uniformity",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Define 'sagacious'.",
+      "explanation": "'Sagacious' describes someone who has good judgment and keen insight; it implies wisdom and discernment.",
+      "options": [
+        {
+          "text": "Foolish",
+          "isCorrect": false
+        },
+        {
+          "text": "Wise",
+          "isCorrect": true
+        },
+        {
+          "text": "Ignorant",
+          "isCorrect": false
+        },
+        {
+          "text": "Naive",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'apathy' mean?",
+      "explanation": "'Apathy' refers to a lack of interest, enthusiasm, or concern. It denotes a state of indifference towards something.",
+      "options": [
+        {
+          "text": "Excitement",
+          "isCorrect": false
+        },
+        {
+          "text": "Concern",
+          "isCorrect": false
+        },
+        {
+          "text": "Indifference",
+          "isCorrect": true
+        },
+        {
+          "text": "Passion",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'misanthrope'?",
+      "explanation": "'Misanthrope' is a term for a person who dislikes humankind and avoids human society; it's often associated with cynicism and distrust.",
+      "options": [
+        {
+          "text": "Philanthropist",
+          "isCorrect": false
+        },
+        {
+          "text": "Hate of people",
+          "isCorrect": true
+        },
+        {
+          "text": "Social butterfly",
+          "isCorrect": false
+        },
+        {
+          "text": "Altruist",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that can best replace 'abate'.",
+      "explanation": "'Abate' means to lessen, reduce, or diminish in intensity. A synonym must convey a similar sense of decrease.",
+      "options": [
+        {
+          "text": "Increase",
+          "isCorrect": false
+        },
+        {
+          "text": "Diminish",
+          "isCorrect": true
+        },
+        {
+          "text": "Aggravate",
+          "isCorrect": false
+        },
+        {
+          "text": "Enlarge",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does the term 'surreptitious' imply?",
+      "explanation": "'Surreptitious' describes something that is kept secret, especially because it would not be approved of; it often suggests stealth.",
+      "options": [
+        {
+          "text": "Open",
+          "isCorrect": false
+        },
+        {
+          "text": "Secretive",
+          "isCorrect": true
+        },
+        {
+          "text": "Obvious",
+          "isCorrect": false
+        },
+        {
+          "text": "Public",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the meaning of 'esoteric'?",
+      "explanation": "'Esoteric' refers to knowledge that is intended for or likely to be understood by only a small number of people; it often denotes specialized knowledge.",
+      "options": [
+        {
+          "text": "Universal",
+          "isCorrect": false
+        },
+        {
+          "text": "Common",
+          "isCorrect": false
+        },
+        {
+          "text": "Specialized",
+          "isCorrect": true
+        },
+        {
+          "text": "Easily understood",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'altruistic' mean?",
+      "explanation": "'Altruistic' describes someone who is selflessly concerned for the well-being of others; it implies a generous spirit and a focus on helping others.",
+      "options": [
+        {
+          "text": "Selfish",
+          "isCorrect": false
+        },
+        {
+          "text": "Kind-hearted",
+          "isCorrect": true
+        },
+        {
+          "text": "Indifferent",
+          "isCorrect": false
+        },
+        {
+          "text": "Narcissistic",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Define 'idiosyncratic'.",
+      "explanation": "'Idiosyncratic' refers to a characteristic, habit, or mannerism that is peculiar to an individual. It highlights uniqueness.",
+      "options": [
+        {
+          "text": "Common",
+          "isCorrect": false
+        },
+        {
+          "text": "Peculiar",
+          "isCorrect": true
+        },
+        {
+          "text": "Conventional",
+          "isCorrect": false
+        },
+        {
+          "text": "Ordinary",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'diffident' imply about a person's behavior?",
+      "explanation": "'Diffident' describes someone who is modest or shy because of a lack of self-confidence. It implies a reserved demeanor in social situations.",
+      "options": [
+        {
+          "text": "Confident",
+          "isCorrect": false
+        },
+        {
+          "text": "Shy",
+          "isCorrect": true
+        },
+        {
+          "text": "Boisterous",
+          "isCorrect": false
+        },
+        {
+          "text": "Arrogant",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'transient' refer to?",
+      "explanation": "'Transient' describes something that lasts only for a short time, often used to refer to temporary states or conditions.",
+      "options": [
+        {
+          "text": "Permanent",
+          "isCorrect": false
+        },
+        {
+          "text": "Fleeting",
+          "isCorrect": true
+        },
+        {
+          "text": "Stable",
+          "isCorrect": false
+        },
+        {
+          "text": "Enduring",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the word that means 'to alleviate'.",
+      "explanation": "'To alleviate' means to make a suffering or problem less severe. A synonym must convey the same idea of reducing severity or intensity.",
+      "options": [
+        {
+          "text": "Enhance",
+          "isCorrect": false
+        },
+        {
+          "text": "Mitigate",
+          "isCorrect": true
+        },
+        {
+          "text": "Exacerbate",
+          "isCorrect": false
+        },
+        {
+          "text": "Intensify",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What does 'recalcitrant' mean?",
+      "explanation": "'Recalcitrant' describes someone who is stubbornly resisting authority, control, or tradition; it conveys a sense of defiance.",
+      "options": [
+        {
+          "text": "Compliant",
+          "isCorrect": false
+        },
+        {
+          "text": "Obedient",
+          "isCorrect": false
+        },
+        {
+          "text": "Rebellious",
+          "isCorrect": true
+        },
+        {
+          "text": "Submissive",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Define 'adroit'.",
+      "explanation": "'Adroit' refers to someone who is clever or skillful in using their hands or mind; it implies great competence.",
+      "options": [
+        {
+          "text": "Clumsy",
+          "isCorrect": false
+        },
+        {
+          "text": "Awkward",
+          "isCorrect": false
+        },
+        {
+          "text": "Skillful",
+          "isCorrect": true
+        },
+        {
+          "text": "Incompetent",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

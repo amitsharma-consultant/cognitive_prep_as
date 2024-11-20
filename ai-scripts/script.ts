@@ -120,4 +120,4 @@ async function generateAndSaveContent() {
 }
 
 // Call the main function
-// generateAndSaveContent().catch(console.error);
+generateAndSaveContent().catch(console.error);

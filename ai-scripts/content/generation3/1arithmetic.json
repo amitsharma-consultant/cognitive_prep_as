@@ -1,0 +1,599 @@
+{
+  "topic": "Arithmetic",
+  "questions": [
+    {
+      "text": "What is 27 times 36?",
+      "explanation": "To find the product of 27 and 36, we can use the standard multiplication method or break down the numbers into simpler components like (20 + 7)(30 + 6). However, the direct multiplication yields 972.",
+      "options": [
+        {
+          "text": "864",
+          "isCorrect": false
+        },
+        {
+          "text": "972",
+          "isCorrect": true
+        },
+        {
+          "text": "1032",
+          "isCorrect": false
+        },
+        {
+          "text": "756",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Subtract 15 from the product of 8 and 9.",
+      "explanation": "First, calculate the product of 8 and 9, which is 72. Then subtract 15: 72 - 15 = 57.",
+      "options": [
+        {
+          "text": "67",
+          "isCorrect": false
+        },
+        {
+          "text": "57",
+          "isCorrect": true
+        },
+        {
+          "text": "52",
+          "isCorrect": false
+        },
+        {
+          "text": "63",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the result of dividing 144 by 12 and then adding 10?",
+      "explanation": "First, divide 144 by 12, which equals 12. Then add 10: 12 + 10 = 22.",
+      "options": [
+        {
+          "text": "22",
+          "isCorrect": true
+        },
+        {
+          "text": "16",
+          "isCorrect": false
+        },
+        {
+          "text": "20",
+          "isCorrect": false
+        },
+        {
+          "text": "32",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If the temperature is raised by 8 degrees from -3 degrees, what is the new temperature?",
+      "explanation": "Starting from -3, adding 8 gives us 5. The calculation is -3 + 8 = 5.",
+      "options": [
+        {
+          "text": "5",
+          "isCorrect": true
+        },
+        {
+          "text": "3",
+          "isCorrect": false
+        },
+        {
+          "text": "-5",
+          "isCorrect": false
+        },
+        {
+          "text": "-3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 3/4 of 200?",
+      "explanation": "To calculate 3/4 of 200, multiply 200 by 3 and then divide by 4: (200 * 3) / 4 = 600 / 4 = 150.",
+      "options": [
+        {
+          "text": "75",
+          "isCorrect": false
+        },
+        {
+          "text": "150",
+          "isCorrect": true
+        },
+        {
+          "text": "200",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Find the least common multiple (LCM) of 12 and 18.",
+      "explanation": "The LCM of 12 and 18 is the smallest number that is a multiple of both. The multiples of 12 are 12, 24, 36, 48, etc., and the multiples of 18 are 18, 36, 54, etc. Thus, the LCM is 36.",
+      "options": [
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        },
+        {
+          "text": "36",
+          "isCorrect": true
+        },
+        {
+          "text": "72",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 25% of 240?",
+      "explanation": "To find 25% of 240, convert the percentage to a decimal (0.25) and multiply: 240 * 0.25 = 60.",
+      "options": [
+        {
+          "text": "60",
+          "isCorrect": true
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "70",
+          "isCorrect": false
+        },
+        {
+          "text": "80",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Multiply 15 by 16 and then subtract 4.",
+      "explanation": "First calculate 15 * 16, which equals 240. Next, subtract 4: 240 - 4 = 236.",
+      "options": [
+        {
+          "text": "236",
+          "isCorrect": true
+        },
+        {
+          "text": "240",
+          "isCorrect": false
+        },
+        {
+          "text": "244",
+          "isCorrect": false
+        },
+        {
+          "text": "230",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a book costs $15 and you buy four, how much do you spend total?",
+      "explanation": "To find the total cost, multiply the price of one book by the number of books: 15 * 4 = 60.",
+      "options": [
+        {
+          "text": "40",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": true
+        },
+        {
+          "text": "75",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 84 divided by 7, then multiplied by 6?",
+      "explanation": "First, divide 84 by 7, which equals 12. Then multiply that result by 6: 12 * 6 = 72.",
+      "options": [
+        {
+          "text": "72",
+          "isCorrect": true
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        },
+        {
+          "text": "48",
+          "isCorrect": false
+        },
+        {
+          "text": "84",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 7 plus 8 multiplied by 3?",
+      "explanation": "According to the order of operations (PEMDAS), first multiply 8 by 3 which equals 24, then add 7: 7 + 24 = 31.",
+      "options": [
+        {
+          "text": "31",
+          "isCorrect": true
+        },
+        {
+          "text": "26",
+          "isCorrect": false
+        },
+        {
+          "text": "27",
+          "isCorrect": false
+        },
+        {
+          "text": "34",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If you have $200 and you spend $75, how much do you have left?",
+      "explanation": "Subtract the amount spent from the total: 200 - 75 = 125.",
+      "options": [
+        {
+          "text": "125",
+          "isCorrect": true
+        },
+        {
+          "text": "150",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "175",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the square of 12?",
+      "explanation": "The square of a number is the number multiplied by itself: 12 * 12 = 144.",
+      "options": [
+        {
+          "text": "144",
+          "isCorrect": true
+        },
+        {
+          "text": "121",
+          "isCorrect": false
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "156",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a car travels 300 miles on 10 gallons of gas, what is the gas mileage in miles per gallon?",
+      "explanation": "To find miles per gallon, divide the distance by the gallons consumed: 300 miles / 10 gallons = 30 mpg.",
+      "options": [
+        {
+          "text": "30",
+          "isCorrect": true
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "35",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the result of 60 divided by 0.5?",
+      "explanation": "Dividing by 0.5 is equivalent to multiplying by 2: 60 / 0.5 = 120.",
+      "options": [
+        {
+          "text": "120",
+          "isCorrect": true
+        },
+        {
+          "text": "100",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        },
+        {
+          "text": "60",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How much is 90 minus 45 multiplied by 2?",
+      "explanation": "First, multiply 45 by 2, which gives 90. Then subtract this from 90: 90 - 90 = 0.",
+      "options": [
+        {
+          "text": "0",
+          "isCorrect": true
+        },
+        {
+          "text": "45",
+          "isCorrect": false
+        },
+        {
+          "text": "90",
+          "isCorrect": false
+        },
+        {
+          "text": "180",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the percentage increase from 50 to 75?",
+      "explanation": "To find the percentage increase, subtract the old value from the new value (75 - 50 = 25), divide by the old value (25 / 50 = 0.5), and multiply by 100 to convert to a percentage (0.5 * 100 = 50%).",
+      "options": [
+        {
+          "text": "50%",
+          "isCorrect": true
+        },
+        {
+          "text": "25%",
+          "isCorrect": false
+        },
+        {
+          "text": "75%",
+          "isCorrect": false
+        },
+        {
+          "text": "100%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a train travels at a speed of 60 miles per hour for 3 hours, how far does it travel?",
+      "explanation": "Distance = speed * time. Therefore, the distance traveled is 60 mph * 3 hours = 180 miles.",
+      "options": [
+        {
+          "text": "180",
+          "isCorrect": true
+        },
+        {
+          "text": "120",
+          "isCorrect": false
+        },
+        {
+          "text": "150",
+          "isCorrect": false
+        },
+        {
+          "text": "240",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the value of 5 cubed (5^3)?",
+      "explanation": "5 cubed means 5 multiplied by itself three times: 5 * 5 * 5 = 125.",
+      "options": [
+        {
+          "text": "125",
+          "isCorrect": true
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Calculate 36 divided by 4, then subtract 6.",
+      "explanation": "First, divide 36 by 4, which gives 9. Then subtract 6: 9 - 6 = 3.",
+      "options": [
+        {
+          "text": "3",
+          "isCorrect": true
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        },
+        {
+          "text": "6",
+          "isCorrect": false
+        },
+        {
+          "text": "12",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is 500 times 0.04?",
+      "explanation": "To multiply, we can use 500 * 0.04 = 20.",
+      "options": [
+        {
+          "text": "20",
+          "isCorrect": true
+        },
+        {
+          "text": "200",
+          "isCorrect": false
+        },
+        {
+          "text": "50",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If the price of an item increases from $80 to $100, what is the percentage increase?",
+      "explanation": "The increase is 100 - 80 = 20. The percentage increase is (20 / 80) * 100 = 25%.",
+      "options": [
+        {
+          "text": "25%",
+          "isCorrect": true
+        },
+        {
+          "text": "20%",
+          "isCorrect": false
+        },
+        {
+          "text": "15%",
+          "isCorrect": false
+        },
+        {
+          "text": "30%",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "If a bag of apples costs $3.50, how much do 10 bags cost?",
+      "explanation": "To find the total cost, multiply the cost of one bag by the number of bags: 3.50 * 10 = 35.00.",
+      "options": [
+        {
+          "text": "35.00",
+          "isCorrect": true
+        },
+        {
+          "text": "30.00",
+          "isCorrect": false
+        },
+        {
+          "text": "40.00",
+          "isCorrect": false
+        },
+        {
+          "text": "45.00",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "How many seconds are there in 3 minutes?",
+      "explanation": "Since there are 60 seconds in a minute, to find how many seconds are in 3 minutes, multiply 60 by 3: 60 * 3 = 180 seconds.",
+      "options": [
+        {
+          "text": "180",
+          "isCorrect": true
+        },
+        {
+          "text": "150",
+          "isCorrect": false
+        },
+        {
+          "text": "120",
+          "isCorrect": false
+        },
+        {
+          "text": "240",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the area of a rectangle with a length of 10 and a width of 5?",
+      "explanation": "The area of a rectangle is found by multiplying length by width: 10 * 5 = 50 square units.",
+      "options": [
+        {
+          "text": "50",
+          "isCorrect": true
+        },
+        {
+          "text": "25",
+          "isCorrect": false
+        },
+        {
+          "text": "15",
+          "isCorrect": false
+        },
+        {
+          "text": "35",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Convert 0.75 to a fraction.",
+      "explanation": "To convert 0.75 to a fraction, recognize it as 75/100, which simplifies to 3/4.",
+      "options": [
+        {
+          "text": "3/4",
+          "isCorrect": true
+        },
+        {
+          "text": "1/4",
+          "isCorrect": false
+        },
+        {
+          "text": "1/2",
+          "isCorrect": false
+        },
+        {
+          "text": "1/3",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the sum of the angles in a triangle?",
+      "explanation": "The sum of all interior angles in a triangle is always 180 degrees, regardless of the type of triangle.",
+      "options": [
+        {
+          "text": "180 degrees",
+          "isCorrect": true
+        },
+        {
+          "text": "90 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "360 degrees",
+          "isCorrect": false
+        },
+        {
+          "text": "270 degrees",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

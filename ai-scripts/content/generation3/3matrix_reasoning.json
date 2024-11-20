@@ -1,0 +1,533 @@
+{
+  "topic": "Matrix Reasoning",
+  "questions": [
+    {
+      "text": "Which of the following options best completes the matrix?",
+      "explanation": "The pattern shows that each figure rotates 90 degrees clockwise as you move from left to right, and the shading increases from blank to half to full as you move from top to bottom.",
+      "options": [
+        {
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "text": "B",
+          "isCorrect": false
+        },
+        {
+          "text": "C",
+          "isCorrect": true
+        },
+        {
+          "text": "D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In the following matrix, what is the missing piece in the second row?",
+      "explanation": "The first row shows a triangle and a circle connected by a line. The second row should have a square connected to a circle by a line. The correct image must match this pattern.",
+      "options": [
+        {
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "text": "B",
+          "isCorrect": true
+        },
+        {
+          "text": "C",
+          "isCorrect": false
+        },
+        {
+          "text": "D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Identify the figure that logically completes the series:",
+      "explanation": "The figures in the series alternate in shape and color. The sequence of transitions through their given attributes allows you to deduce the missing figure.",
+      "options": [
+        {
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "text": "B",
+          "isCorrect": true
+        },
+        {
+          "text": "C",
+          "isCorrect": false
+        },
+        {
+          "text": "D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What comes next in this pattern? (circle, square, triangle)",
+      "explanation": "The figures are arranged in a sequence where each one alternates between shapes. The next shape will follow that pattern.",
+      "options": [
+        {
+          "text": "A circle",
+          "isCorrect": false
+        },
+        {
+          "text": "A square",
+          "isCorrect": false
+        },
+        {
+          "text": "A triangle",
+          "isCorrect": true
+        },
+        {
+          "text": "A rectangle",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the figure that fits in the blank space:",
+      "explanation": "To identify the correct figure, analyze the changes in each subsequent image for symmetry, rotation, or color pattern. The missing piece should match those transformations.",
+      "options": [
+        {
+          "text": "A",
+          "isCorrect": true
+        },
+        {
+          "text": "B",
+          "isCorrect": false
+        },
+        {
+          "text": "C",
+          "isCorrect": false
+        },
+        {
+          "text": "D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of the following completes the series?",
+      "explanation": "The images show a sequence where shapes and colors alternate based on a defined rule. The analysis of this rule allows prediction of the sequence accurately.",
+      "options": [
+        {
+          "text": "Option 1",
+          "isCorrect": false
+        },
+        {
+          "text": "Option 2",
+          "isCorrect": true
+        },
+        {
+          "text": "Option 3",
+          "isCorrect": false
+        },
+        {
+          "text": "Option 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Select the next logical figure to follow this sequence:",
+      "explanation": "This sequence displays a pattern with increasing contrast and size. By analyzing the pattern, we discern that the correct answer must logically follow this pattern.",
+      "options": [
+        {
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "text": "B",
+          "isCorrect": true
+        },
+        {
+          "text": "C",
+          "isCorrect": false
+        },
+        {
+          "text": "D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the missing piece in this arrangement?",
+      "explanation": "The arrangement defines a consistent rule for positioning shapes. Understanding how each shape interacts with its neighbor can help identify the correct missing piece.",
+      "options": [
+        {
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "text": "B",
+          "isCorrect": true
+        },
+        {
+          "text": "C",
+          "isCorrect": false
+        },
+        {
+          "text": "D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "In this figure, which piece fits into the empty square?",
+      "explanation": "The figure reflects an alternating color and shape pattern. The key is to determine how these elements are changing and match the missing piece accordingly.",
+      "options": [
+        {
+          "text": "Piece 1",
+          "isCorrect": false
+        },
+        {
+          "text": "Piece 2",
+          "isCorrect": true
+        },
+        {
+          "text": "Piece 3",
+          "isCorrect": false
+        },
+        {
+          "text": "Piece 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "From the provided options, which correctly fits into the matrix?",
+      "explanation": "The rules governing the matrix can often be decoded through symmetry, orientation, or incremental pattern shifts. This allows for logical identification of fit.",
+      "options": [
+        {
+          "text": "Option A",
+          "isCorrect": false
+        },
+        {
+          "text": "Option B",
+          "isCorrect": true
+        },
+        {
+          "text": "Option C",
+          "isCorrect": false
+        },
+        {
+          "text": "Option D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which figure logically fits the sequence best?",
+      "explanation": "Each figure utilizes a specific progression of shapes or visual elements. Analyzing the transitions enables the identification of the logical figure that fits next based on that progression.",
+      "options": [
+        {
+          "text": "A",
+          "isCorrect": true
+        },
+        {
+          "text": "B",
+          "isCorrect": false
+        },
+        {
+          "text": "C",
+          "isCorrect": false
+        },
+        {
+          "text": "D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "What is the figure that completes this set?",
+      "explanation": "To solve this, you must determine the varying attributes of size, color, and form. The correct figure adheres to the identified attributes transitioning through each series.",
+      "options": [
+        {
+          "text": "Shape A",
+          "isCorrect": false
+        },
+        {
+          "text": "Shape B",
+          "isCorrect": true
+        },
+        {
+          "text": "Shape C",
+          "isCorrect": false
+        },
+        {
+          "text": "Shape D",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the option that logically concludes this sequence:",
+      "explanation": "Here we have a sequence where transformation follows a clear geometric operation among the figures. Deducing the transformation allows you to arrive at the answer.",
+      "options": [
+        {
+          "text": "Option 1",
+          "isCorrect": false
+        },
+        {
+          "text": "Option 2",
+          "isCorrect": true
+        },
+        {
+          "text": "Option 3",
+          "isCorrect": false
+        },
+        {
+          "text": "Option 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Choose the right piece to complete the matrix displayed.",
+      "explanation": "Based on what is shown, the images are demonstrating either a color transition or an enhancement in size, paired with a shape transformation. The change in dimensions holds the key.",
+      "options": [
+        {
+          "text": "Piece 1",
+          "isCorrect": true
+        },
+        {
+          "text": "Piece 2",
+          "isCorrect": false
+        },
+        {
+          "text": "Piece 3",
+          "isCorrect": false
+        },
+        {
+          "text": "Piece 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which piece fits best into the matrix according to the existing pattern?",
+      "explanation": "The existing pieces follow a pattern of color application and sequence alignment. Identifying the logical progressions allows for determining the appropriate piece.",
+      "options": [
+        {
+          "text": "A1",
+          "isCorrect": false
+        },
+        {
+          "text": "A2",
+          "isCorrect": true
+        },
+        {
+          "text": "A3",
+          "isCorrect": false
+        },
+        {
+          "text": "A4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Identify the figure that fits the empty space:",
+      "explanation": "Analyzing the figures reveals transformations in the angles and edges of the shapes. It is essential to compare these changes before identifying the correct piece.",
+      "options": [
+        {
+          "text": "B1",
+          "isCorrect": false
+        },
+        {
+          "text": "B2",
+          "isCorrect": true
+        },
+        {
+          "text": "B3",
+          "isCorrect": false
+        },
+        {
+          "text": "B4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which figure should come next in the series?",
+      "explanation": "The series is characterized by alternating patterns in size and color. Recognizing the patterns allows you to deduce the sequence effectively, leading to the answer.",
+      "options": [
+        {
+          "text": "Option 1",
+          "isCorrect": false
+        },
+        {
+          "text": "Option 2",
+          "isCorrect": true
+        },
+        {
+          "text": "Option 3",
+          "isCorrect": false
+        },
+        {
+          "text": "Option 4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Find the missing figure that completes the given matrix.",
+      "explanation": "Understanding symmetry and the orientation of the figures is intricate. Identifying these qualities leads to the discovery of the fitting figure for the space.",
+      "options": [
+        {
+          "text": "C1",
+          "isCorrect": false
+        },
+        {
+          "text": "C2",
+          "isCorrect": true
+        },
+        {
+          "text": "C3",
+          "isCorrect": false
+        },
+        {
+          "text": "C4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these options logically concludes the given series?",
+      "explanation": "The series reflects color and position of shapes. By determining how each shape transitions, students can find the figure that would complete the matrix accurately.",
+      "options": [
+        {
+          "text": "X1",
+          "isCorrect": false
+        },
+        {
+          "text": "X2",
+          "isCorrect": true
+        },
+        {
+          "text": "X3",
+          "isCorrect": false
+        },
+        {
+          "text": "X4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Select the figure that correctly completes this sequence.",
+      "explanation": "The shapes progress through a pattern of addition and deletion of elements. Tracking these shifts enables selection of the most logical answer in alignment with the shown sequence.",
+      "options": [
+        {
+          "text": "Y1",
+          "isCorrect": false
+        },
+        {
+          "text": "Y2",
+          "isCorrect": true
+        },
+        {
+          "text": "Y3",
+          "isCorrect": false
+        },
+        {
+          "text": "Y4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Determine which piece fills the gap in the arrangement:",
+      "explanation": "Awareness of the compositions of elements and their geometric characteristics will help students find the right fit for the missing piece in the arrangement.",
+      "options": [
+        {
+          "text": "Z1",
+          "isCorrect": false
+        },
+        {
+          "text": "Z2",
+          "isCorrect": true
+        },
+        {
+          "text": "Z3",
+          "isCorrect": false
+        },
+        {
+          "text": "Z4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Select the correct figure that fits in with the others.",
+      "explanation": "It is essential to identify not only the form but also how it interacts with adjacent shapes. This understanding facilitates logical conclusions about the next figure.",
+      "options": [
+        {
+          "text": "M1",
+          "isCorrect": false
+        },
+        {
+          "text": "M2",
+          "isCorrect": true
+        },
+        {
+          "text": "M3",
+          "isCorrect": false
+        },
+        {
+          "text": "M4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Which of these shapes concludes the sequence successfully?",
+      "explanation": "Here we investigate the size relationships along with the color transitions across the shapes. Identifying these allows students to hypothesize the next figure in line.",
+      "options": [
+        {
+          "text": "S1",
+          "isCorrect": false
+        },
+        {
+          "text": "S2",
+          "isCorrect": true
+        },
+        {
+          "text": "S3",
+          "isCorrect": false
+        },
+        {
+          "text": "S4",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "text": "Find the figure that appropriately fills the missing piece in this arrangement.",
+      "explanation": "The key is to analyze how shape elements morph with others—for example, increasing complexity or changes in symmetry. This helps in concluding which figure fits best.",
+      "options": [
+        {
+          "text": "K1",
+          "isCorrect": false
+        },
+        {
+          "text": "K2",
+          "isCorrect": true
+        },
+        {
+          "text": "K3",
+          "isCorrect": false
+        },
+        {
+          "text": "K4",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
