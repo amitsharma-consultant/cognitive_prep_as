@@ -148,4 +148,4 @@ async function generateAndSaveContent(filerTopics: string[]) {
 }
 
 // Call the main function
-// generateAndSaveContent(['1arithmetic']).catch(console.error);
+generateAndSaveContent(['1arithmetic']).catch(console.error);
