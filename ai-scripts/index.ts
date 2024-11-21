@@ -179,7 +179,7 @@ generateAndSaveContent([
     // '25picture_span',
     // '26Serial_Order_Matrices',
     // '27Rapid_Naming',
-    // '28Rapid_Naming',
-     '29Cancellation',
+    '28Rapid_Naming',
+    //  '29Cancellation',
     // '30Symbol_Search'
 ]).catch(console.error);
