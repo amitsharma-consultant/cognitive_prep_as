@@ -176,10 +176,10 @@ generateAndSaveContent([
     // '22word_reasoning',
     // '23digit_span',
     // '24letter_number_sequencing',
-    // '25picture_span',
+    '25picture_span',
     // '26Serial_Order_Matrices',
     // '27Rapid_Naming',
-    '28Rapid_Naming',
+    // '28Rapid_Naming',
     //  '29Cancellation',
     // '30Symbol_Search'
 ]).catch(console.error);
